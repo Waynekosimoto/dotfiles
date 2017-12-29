@@ -21,15 +21,15 @@
 
 /* Move Tab-bar beside Nav-bar */
 #TabsToolbar {      
-  margin-bottom: 0px !important;             
-  margin-top: 0px !important;                  
+  margin-bottom: -1px !important;             
+  margin-top: -1px !important;                  
   margin-left: 35vw !important;
   margin-right: -34px !important;
 }
 
 #nav-bar {      
   margin-bottom: -1px !important;             
-  margin-top: -32px !important;
+  margin-top: -33px !important;
   margin-right: 65vw !important; 
   border-top: none !important;
 }   
@@ -73,7 +73,7 @@
 
 /* Tabs */
 .tabbrowser-tab {
-  height: 32px !important; 
+  height: 34px !important; 
 }
 
 /* Remove empty space before first tab
@@ -136,4 +136,15 @@ ar-button,
     display: none !important;
 }
 
+#urlbar-container{
+     min-height: 30px !important;
+     max-height: 30px !important;
+     max-width: 400px !important;
+}
 
+#urlbar, .searchbar-textbox, urlbar-container {
+    background: none !important;
+    color: var(--url-foreground) !important;
+    border: 0px !important;
+    box-shadow: none !important;
+}
