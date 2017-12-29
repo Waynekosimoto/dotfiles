@@ -1,0 +1,56 @@
+mpd_music_dir = /home/lazarus/music
+mpd_crossfade_time = 5
+
+# Visualizer
+#visualizer_fifo_path = /tmp/mpd.fifo
+#visualizer_output_name = fifo
+#visualizer_type = wave (spectrum/wave)
+
+user_interface = "classic" (classic/alternative)
+# Playlist
+song_columns_list_format = "(10)[black]{l} (30)[blue]{a} (30)[green]{b} (30)[magenta]{t}"
+#now_playing_prefix = $b
+now_playing_suffix = <$b
+#(classic/columns)
+playlist_display_mode = columns
+autocenter_mode = no
+centered_cursor = no
+cyclic_scrolling = yes
+mouse_list_scroll_whole_page = no
+#song_list_format = {$8$9}{[%l] >> }{%t }$R{%a - %b}
+song_list_format = "{$5%a} $2»$8»$5» {$8%t}|{$8%f}$R{$2%b}"
+
+song_library_format = "{%n - }{%t}|{%f}"
+
+# Bars
+song_status_format = "{$8%t} $2»$8»$5» $b{$1%b}$/b"
+#progressbar_look = |>
+progressbar_look = "─╼─"
+#progressbar_look = "▉▉▉"
+titles_visibility = no
+header_visibility = no
+statusbar_visibility = yes
+header_text_scrolling = yes
+browser_sort_format = "{%a - }{%t}|{%f} {(%l)}"
+# Browser
+browser_playlist_prefix = $2plist »$9
+#(classic/columns)
+browser_display_mode = columns
+
+# Colors
+header_window_color = black
+volume_color = cyan
+state_line_color = black
+main_window_color = blue
+color1 = cyan
+color2 = black
+main_window_highlight_color = red
+progressbar_color = black
+active_column_color = red
+visualizer_color = cyan
+
+# Others
+#song_window_title_format = MPD: {%a > }{%t}{ [%b{ Disc %d}]}|{%f}
+#(classic/columns)
+search_engine_display_mode = columns
+follow_now_playing_lyrics = yes
