@@ -12,14 +12,14 @@
 		<item label="Terminal">
 			<action name="Execute">
 				<execute>
-					terminator -u
+					urxvt
 				</execute>
 			</action>
 		</item>
 		<item label="Web Browser">
 			<action name="Execute">
 				<execute>
-					x-www-browser
+					firefox.real
 				</execute>
 			</action>
 		</item>

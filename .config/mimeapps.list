@@ -1,3 +1,4 @@
 [Added Associations]
 application/x-shellscript=geany.desktop;
 text/plain=geany.desktop;
+application/x-xz-compressed-tar=org.gnome.FileRoller.desktop;

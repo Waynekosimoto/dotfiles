@@ -7,7 +7,7 @@
 rounded = 0
 border_width = 0
 border_sides = TBLR
-background_color = #0A0605 100
+background_color = #050405 100
 border_color = #ffffff 100
 background_color_hover = #202020 100
 border_color_hover = #ffffff 100
@@ -18,7 +18,7 @@ border_color_pressed = #ffffff 100
 rounded = 0
 border_width = 0
 border_sides = TBLR
-background_color = #935c2e 100
+background_color = #818ca0 100
 border_color = #224f55 0
 background_color_hover = #46919c 100
 border_color_hover = #224f55 0
@@ -29,7 +29,7 @@ border_color_pressed = #224f55 0
 rounded = 0
 border_width = 0
 border_sides = TBLR
-background_color = #53341a 100
+background_color = #494f5a 100
 border_color = #ffffff 100
 background_color_hover = #46919c 32
 border_color_hover = #ffffff 100
@@ -38,15 +38,15 @@ border_color_pressed = #ffffff 100
 
 #-------------------------------------
 # Panel
-panel_items = TS
-panel_size = 100% 34
+panel_items = TSCB
+panel_size = 100% 25
 panel_margin = 0 0
 panel_padding = 0 0 0
 panel_background_id = 1
 wm_menu = 1
 panel_dock = 0
-panel_position = bottom left horizontal
-panel_layer = normal
+panel_position = top center horizontal
+panel_layer = top
 panel_monitor = all
 primary_monitor_first = 0
 autohide = 0
@@ -59,7 +59,7 @@ disable_transparency = 0
 mouse_effects = 0
 font_shadow = 0
 mouse_hover_icon_asb = 100 0 10
-mouse_pressed_icon_asb = 100 0 5
+mouse_pressed_icon_asb = 100 0 0
 
 #-------------------------------------
 # Taskbar
@@ -72,8 +72,8 @@ taskbar_hide_inactive_tasks = 0
 taskbar_hide_different_monitor = 0
 taskbar_always_show_all_desktop_tasks = 0
 taskbar_name_padding = 10 5
-taskbar_name_background_id = 1
-taskbar_name_active_background_id = 1
+taskbar_name_background_id = 3
+taskbar_name_active_background_id = 2
 taskbar_name_font = Roboto Mono 8
 taskbar_name_font_color = #ffffff 100
 taskbar_name_active_font_color = #ffffff 100
