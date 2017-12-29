@@ -16,5 +16,8 @@
   },
   "discord_voice": {
     "installedVersion": 1
+  },
+  "discord_contact_import": {
+    "installedVersion": 1
   }
 }

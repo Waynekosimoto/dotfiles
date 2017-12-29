@@ -1,0 +1,131 @@
+;=====================================================
+;
+;   To learn more about how to configure Polybar
+;   go to https://github.com/jaagr/polybar
+;
+;   The README contains alot of information
+;
+;=====================================================
+
+[colors]
+background = ${colors.inactive}
+background-alt = #6c6969
+foreground = #ffffff
+foreground-alt = #ffffff
+active = #493437
+inactive = #291d1f
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[bar/wpgtk]
+monitor = "eDP"
+width = 35%
+height = 34
+offset-x = 65%
+radius = 0.0
+fixed-center = true
+bottom = true
+
+background = ${colors.background}
+foreground = #ffffff
+
+line-size = 0
+label-line-color = #f00
+
+border-size = 0
+border-color = #00000000
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = Dina:fontformat=bitmap:size=10:antialias=true;2
+font-1 = FontAwesome:style=Regular:size=10:antialias=false;2
+
+modules-left = volume
+modules-center = wlan mpd
+modules-right =  date 
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[module/mpd]
+type = internal/mpd
+
+label-song = %title:0:15:...%
+format-online =   <label-song>
+format-playing-padding = 4
+format-playing-background = ${colors.active}
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[module/wlan]
+type = internal/network
+interface = wlp3s0
+interval = 3.0
+
+format-connected-padding = 4
+format-connected = <ramp-signal> <label-connected>
+label-connected = %essid%
+
+
+format-disconnected =
+;format-disconnected = <label-disconnected>
+;format-disconnected-underline = ${self.format-connected-underline}
+;label-disconnected = %ifname% disconnected
+;label-disconnected-foreground = ${colors.foreground-alt}
+
+ramp-signal-0 = 
+ramp-signal-foreground = ${colors.foreground-alt}
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[module/date]
+type = internal/date
+interval = 5
+
+date =
+date-alt = " %d/%m/%Y"
+
+time = %I:%M 
+time-alt = %I:%M %p
+
+format-prefix = 
+format-prefix-foreground = ${colors.foreground-alt}
+format-padding = 4
+format-background = ${colors.inactive}
+
+label = %date% %time%
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[module/volume]
+type = internal/volume
+
+format-volume = <ramp-volume>  <label-volume>
+format-volume-padding = 4
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+ramp-volume-foreground = #ffffff
+
+format-muted-prefix = " "
+format-muted-foreground = #ffffff
+label-muted = muted
+format-muted-padding = 4
+
+
+bar-volume-empty-foreground = ${xrdb:color0}
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+
+[settings]
+screenchange-reload = true
+format-prefix-font = 2
+
+[global/wm]
+margin-top = 5
+margin-bottom = 0
+

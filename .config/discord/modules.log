@@ -25,3 +25,17 @@
 [Modules] Host is up to date.
 [Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
 [Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] Starting to install discord_contact_import...
+[Modules] Fetching discord_contact_import@1 from https://discordapp.com/api/modules/stable/discord_contact_import/1
+[Modules] No module updates available.
+[Modules] Streaming discord_contact_import@1 [3994546 bytes] to /home/lazarus/dotfiles/.config/discord/0.0.3/modules/pending/discord_contact_import-1.zip
+[Modules] Finished module downloads. [success: 1] [failure: 0]
+[Modules] Installing discord_contact_import@1 from /home/lazarus/dotfiles/.config/discord/0.0.3/modules/pending/discord_contact_import-1.zip
+[Modules] Finished module installations. [success: 1] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discordapp.com/api/modules/stable/versions.json
+[Modules] No module updates available.

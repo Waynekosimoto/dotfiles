@@ -76,5 +76,9 @@ xset b off &
 ## Run the conky
 conky -q &
 
-#Reload that boi
+##Reload that boi
 wal -R
+wpg -r
+
+##
+polybar wpgtk
