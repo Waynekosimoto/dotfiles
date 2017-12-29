@@ -328,7 +328,7 @@
       </action>
     </keybind>
     <!-- Keybindings for running applications -->
-    <keybind key="C-f">
+    <keybind key="S-C-f">
       <action name="Execute">
         <startupnotify>
           <enabled>true</enabled>

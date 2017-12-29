@@ -2,3 +2,6 @@
 application/x-shellscript=geany.desktop;
 text/plain=geany.desktop;
 application/x-xz-compressed-tar=org.gnome.FileRoller.desktop;
+text/x-matlab=geany.desktop;
+application/vnd.debian.binary-package=gdebi.desktop;
+text/css=geany.desktop;

@@ -1,3 +1,4 @@
 
 touch .vimrc
+touch config
 open_with geany
