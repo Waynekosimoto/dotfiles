@@ -3,7 +3,7 @@
 #OR THINGS WITH COLORIN as this are the colors that my program searchs and replaces
 #everything else is editable, please edit themerc.base instead of themerc
 
-border.width: 0
+border.width: 2
 menu.border.color: #2E2920
 menu.border.width: 0
 menu.items.active.bg: Solid Flat

@@ -1,29 +1,29 @@
 #modded Numix gtkrc
 
-gtk-color-scheme = "bg_color:#1f0f18
-fg_color:#A9A5AE
-base_color:#180F14
-text_color:#A9A5AE
-selected_bg_color:#3e2b38
-selected_fg_color:#A9A5AE
-tooltip_bg_color:#1f0f18
-tooltip_fg_color:#A9A5AE
-titlebar_bg_color:#0c0609
-titlebar_fg_color:#A9A5AE
-menubar_bg_color:#0c0609
-menubar_fg_color:#A9A5AE
-toolbar_bg_color:#0c0609
-toolbar_fg_color:#A9A5AE
-menu_bg_color:#0c0609
-menu_fg_color:#A9A5AE
-panel_bg_color:#0c0609
-panel_fg_color:#A9A5AE
-link_color:#3e2b38"
+gtk-color-scheme = "bg_color:#101522
+fg_color:#e0e0fe
+base_color:#10131b
+text_color:#e0e0fe
+selected_bg_color:#7e6db6
+selected_fg_color:#e0e0fe
+tooltip_bg_color:#101522
+tooltip_fg_color:#e0e0fe
+titlebar_bg_color:#07090f
+titlebar_fg_color:#e0e0fe
+menubar_bg_color:#07090f
+menubar_fg_color:#e0e0fe
+toolbar_bg_color:#07090f
+toolbar_fg_color:#e0e0fe
+menu_bg_color:#07090f
+menu_fg_color:#e0e0fe
+panel_bg_color:#07090f
+panel_fg_color:#e0e0fe
+link_color:#7e6db6"
 gtk-auto-mnemonics	= 1
 
 # Default Style
 # DO --NOT-- CHANGE ACTIVE
-# IT's THE COLOR THAT WPGTK 9d5787ES
+# IT's THE COLOR THAT WPGTK af8bfeES
 # FEEL FREE TO MODIFY EVERYTHING ELSE IN gtkrc.base
 
 style "murrine-default" {

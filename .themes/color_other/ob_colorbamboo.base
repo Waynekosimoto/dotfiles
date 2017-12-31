@@ -5,10 +5,10 @@
 
 border.width: 0
 menu.border.color: #COLORTOOL
-menu.border.width: 6
+menu.border.width: 8
 menu.items.active.bg: Solid Flat
-menu.items.active.bg.color: #COLORACT
-menu.items.active.text.color: #FFFFFF
+menu.items.active.bg.color: Solid Flat
+menu.items.active.text.color: #COLORACT
 menu.items.bg: Flat Solid
 menu.items.bg.color: #COLORTOOL
 menu.items.disabled.text.color: #c3c3c3
@@ -17,12 +17,12 @@ menu.items.text.color: #FFFFFF
 menu.overlap: 0
 menu.separator.color: #COLORTOOL
 menu.title.bg: Solid Flat
-menu.title.bg.color: #COLORTOOL
+menu.title.bg.color: Solid Flat
 menu.title.text.color: #FFFFFF
 menu.title.text.font: shadow=n
 menu.title.text.justify: Left
 menu.separator.padding.width: 10
-menu.separator.padding.height: 2
+menu.separator.padding.height: 4
 menu.separator.width: 2
 osd.bg: flat border vertical gradient
 osd.bg.color: #COLORBG
@@ -32,7 +32,7 @@ osd.border.color: #COLORACT
 osd.border.width: 3
 osd.label.bg: parentrelative
 osd.label.text.color: #f0f0f0
-padding.height: 8
+padding.height: 12
 padding.width: 8
 window.active.border.color: #COLORACT
 window.inactive.border.color: #COLORIN
