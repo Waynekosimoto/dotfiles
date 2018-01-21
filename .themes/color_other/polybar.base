@@ -8,9 +8,9 @@
 ;=====================================================
 
 [colors]
-background = ${colors.inactive}
+background = #COLOR0
 background-alt = #COLOR8
-foreground = #ffffff
+foreground = #COLOR7
 foreground-alt = #ffffff
 active = #COLORACT
 inactive = #COLORIN
@@ -19,16 +19,17 @@ inactive = #COLORIN
 
 [bar/wpgtk]
 monitor = "eDP"
-width = 948
-height = 24
-offset-x = 964
-offset-y = 8
+width = 530
+height = 40
+offset-x = 10
+;offset-x = 1280
+offset-y = 10
 radius = 0.0
-fixed-center = false
-bottom = false
+fixed-center = true
+bottom = true
 
 background = ${colors.background}
-foreground = #ffffff
+foreground = ${colors.foreground}
 
 line-size = 0
 label-line-color = #f00
@@ -44,13 +45,23 @@ module-margin-right = 0
 
 ;font-0 = Dina:fontformat=bitmap:size=10:antialias=false;2
 font-0 = Dina:pixelsize=10;2
-font-1 = Siji:pixelsize=9;2
+font-1 = Siji:pixelsize=10;2
 
-modules-left = volume
-modules-center = wlan mpd
-modules-right =  date 
+modules-left = mpd
+modules-center = 
+modules-right = wlan volume date 
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+[module/ewmh]
+type = internal/xworkspaces
+pin-workspaces = true
+enable-click = true
+enable-scroll = false
+format-label = <label-state>
+label-active = 
+label-empty = 
+format-padding = 0
+
 
 [module/xwindow]
 
@@ -93,14 +104,15 @@ label-empty-foreground=${colors.active}
 type = internal/mpd
 
 label-song = %title:0:15:...%
-format-online =  <label-song> | <icon-prev>  <icon-seekb>  <icon-stop>  <toggle>  <icon-seekf>  <icon-next> |
+format-online =  <label-song> <icon-prev>  <toggle>  <icon-next>
 format-playing-padding = 4
+format-paused-padding = 4
 format-playing-background = ${colors.active}
 
-bar-progress-width = 45
-bar-progress-indicator = |
-bar-progress-fill = ─
-bar-progress-empty = ─
+;bar-progress-width = 45
+;bar-progress-indicator = |
+;bar-progress-fill = ─
+;bar-progress-empty = ─
 
 
 icon-play = 
@@ -119,7 +131,7 @@ interface = wlp3s0
 interval = 3.0
 
 format-connected-padding = 4
-format-connected = <ramp-signal> <label-connected>
+format-connected = <ramp-signal>
 label-connected = %essid%
 
 
@@ -127,10 +139,10 @@ format-disconnected =
 ;format-disconnected = <label-disconnected>
 ;format-disconnected-underline = ${self.format-connected-underline}
 ;label-disconnected = %ifname% disconnected
-;label-disconnected-foreground = ${colors.foreground-alt}
+;label-disconnected-foreground = ${colors.foreground}
 
 ramp-signal-0 = 
-ramp-signal-foreground = ${colors.foreground-alt}
+ramp-signal-foreground = ${colors.foreground}
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
@@ -138,16 +150,16 @@ ramp-signal-foreground = ${colors.foreground-alt}
 type = internal/date
 interval = 5
 
-date =
-date-alt = " %d/%m/%Y"
+date = %m/%d
+;date-alt = " %d/%m/%Y"
 
 time = %I:%M 
-time-alt = %I:%M %p
+;time-alt = %I:%M %p
 
-format-prefix = 
-format-prefix-foreground = ${colors.foreground-alt}
+;format-prefix = 
+format-prefix-foreground = ${colors.foreground}
 format-padding = 4
-format-background = ${colors.inactive}
+format-background = ${colors.background}
 
 label = %date% %time%
 
@@ -156,20 +168,25 @@ label = %date% %time%
 [module/volume]
 type = internal/volume
 
-format-volume = <ramp-volume>  <label-volume>
-format-volume-padding = 4
+format-volume = <ramp-volume>
+format-volume-padding = 0
 ramp-volume-0 = 
 ramp-volume-1 = 
 ramp-volume-2 = 
-ramp-volume-foreground = #ffffff
+ramp-volume-3 = 
+ramp-volume-4 = 
+ramp-volume-5 = 
 
-format-muted-prefix = "  "
-format-muted-foreground = #ffffff
+ramp-volume-foreground = ${colors.foreground}
+
+;format-muted-prefix = ""
+format-muted = "" 
+format-muted-foreground = ${colors.foreground}
 ;label-muted = muted
-format-muted-padding = 4
+format-muted-padding = 0
 
 
-bar-volume-empty-foreground = ${xrdb:color0}
+bar-volume-empty-foreground = ${colors.foreground}
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
