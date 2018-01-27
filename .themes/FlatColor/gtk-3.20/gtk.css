@@ -1,13 +1,13 @@
 
 /* Default color scheme */
-@define-color bg_color #0d0c0e;
-@define-color fg_color #ddd3c3;
-@define-color base_color #181619;
-@define-color text_color #ddd3c3;
-@define-color selected_bg_color #989186;
-@define-color selected_fg_color #ddd3c3;
-@define-color tooltip_bg_color #1c191d;
-@define-color tooltip_fg_color #ddd3c3;
+@define-color bg_color #1e1e19;
+@define-color fg_color #d8d8c9;
+@define-color base_color #292a22;
+@define-color text_color #d8d8c9;
+@define-color selected_bg_color #5f5642;
+@define-color selected_fg_color #d8d8c9;
+@define-color tooltip_bg_color #2d2e25;
+@define-color tooltip_fg_color #d8d8c9;
 
 /* colormap actually used by the theme, to be overridden in other css files */
 @define-color theme_bg_color @bg_color;
@@ -35,7 +35,7 @@
 @define-color link_color mix (@theme_selected_bg_color, black, 0.15);
 @define-color success_color #53a93f;
 @define-color warning_color #f57900;
-@define-color error_color #CC7A83;
+@define-color error_color #7C8377;
 
 /* widget colors*/
 @define-color border_color #363D43;

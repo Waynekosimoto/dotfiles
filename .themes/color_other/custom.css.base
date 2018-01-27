@@ -1,0 +1,91 @@
+#titlebar { display: none !important; }
+
+#header {
+	height: 0px !important;
+    min-height: 0px !important;
+	background-color: #COLORACT !important;
+}
+
+#tabs-container {
+	background-color: #COLORIN !important;
+	border: none !important;
+	padding: 0px !important;
+}
+
+.address-bottom .toolbar-addressbar {
+	box-shadow: none !important;
+	border: none !important;
+	margin: 0px !important;
+	padding: 0px !important;
+	height: 34px !important;
+	background-color: #COLORIN !important;
+}
+
+.tab .tab-audio,
+#tabs-container .newtab,
+#tabs-container .toggle-trash,
+.button-toolbar.home,
+.button-toolbar.back,
+.button-toolbar.forward,
+.button-toolbar.reload {
+	display: none !important;
+}
+
+.tab {
+	padding-right: 0px !important;
+	margin: 0px !important;
+}
+
+.tab .favicon {
+	display: none !important;
+	border: none !important;
+	background-color: transparent !important;
+}
+
+.tab .title {
+	display: inline-block !important;
+	text-overflow: ellipsis !important;
+	font-size: 11px !important;
+	color: #111 !important;
+	-webkit-mask-image: none !important;
+	opacity: 1 !important;
+	margin-right: 30px !important;
+}
+
+.addressfield .addressfield-siteinfo,
+.button-addressfield.bookmark,
+.button-addressfield.reader-mode,
+.input-dropdown svg {
+	display: none !important;
+}
+
+.addressfield {
+	border: none !important;
+	border-radius: 4px !important;
+	box-shadow: none !important;
+	background-color: #COLORACT !important;
+}
+
+.tab { background-color: #COLORIN !important; }
+.tab .title	{ color: #7B7B7B !important; }
+.tab.active { background-color: #COLORACT !important; }
+.tab.active .title { color: #efefef !important; }
+
+.tab .button-badge {
+	font-family: "Consolas";
+	color: #fff !important;
+	background-color: #528BFF !important;
+	top: auto;
+	bottom: auto;
+	left: auto;
+	right: 0px;
+	margin-right: 8.5px !important;
+	z-index: 2000 !important;
+	border: none !important;
+	padding-bottom: 1px !important;
+}
+
+#browser ::-webkit-scrollbar{display:none !important; width:0px;}
+#browser ::-webkit-scrollbar-button,::-webkit-scrollbar-track{display:none !important;}
+#browser ::-webkit-scrollbar-thumb{display: none !important;}
+#browser ::-webkit-scrollbar-track{display: none !important;}
