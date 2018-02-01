@@ -3,11 +3,11 @@
 #header {
 	height: 0px !important;
     min-height: 0px !important;
-	background-color: #COLORACT !important;
+	background-color: #1A1A1A !important;
 }
 
 #tabs-container {
-	background-color: #COLORIN !important;
+	background-color: #26272A !important;
 	border: none !important;
 	padding: 0px !important;
 }
@@ -18,7 +18,6 @@
 	margin: 0px !important;
 	padding: 0px !important;
 	height: 34px !important;
-	background-color: #COLORIN !important;
 }
 
 .tab .tab-audio,
@@ -63,13 +62,12 @@
 	border: none !important;
 	border-radius: 4px !important;
 	box-shadow: none !important;
-	background-color: #COLORACT !important;
 }
 
-.tab { background-color: #COLORIN !important; }
+.tab { background-color: #26272A !important; }
 .tab .title	{ color: #7B7B7B !important; }
-.tab.active { background-color: #COLORACT !important; }
-.tab.active .title { color: #efefef !important; }
+.tab.active { background-color: #444242 !important; }
+.tab.active .title { color: #262626 !important; }
 
 .tab .button-badge {
 	font-family: "Consolas";
@@ -89,3 +87,5 @@
 #browser ::-webkit-scrollbar-button,::-webkit-scrollbar-track{display:none !important;}
 #browser ::-webkit-scrollbar-thumb{display: none !important;}
 #browser ::-webkit-scrollbar-track{display: none !important;}
+
+

@@ -1,21 +1,15 @@
-!   __   __                                                                     !
-!  /\ \ /\ \                                                                    !
-!  \ `\`\/'/'  _ __    __    ____    ___   __  __  _ __   ___     __    ____    !
-!   `\/ > <   /\`'__\/'__`\ /',__\  / __`\/\ \/\ \/\`'__\/'___\ /'__`\ /',__\   !
-!      \/'/\`\\ \ \//\  __//\__, `\/\ \L\ \ \ \_\ \ \ \//\ \__//\  __//\__, `\  !
-!      /\_\\ \_\ \_\\ \____\/\____/\ \____/\ \____/\ \_\\ \____\ \____\/\____/  !
-!      \/_/ \/_/\/_/ \/____/\/___/  \/___/  \/___/  \/_/ \/____/\/____/\/___/   ! 
-!-------------------------------------------------------------------------------!
-          
 
 ! font settings -----------------------------------------------------------------
-
 Xft.autohint: true
 Xft.antialias: true
 Xft.hinting: true
 Xft.hintstyle: hintslight
-!Xft.dpi: 96
-Xft.rgba: rgb
+
+
+<keybind key="W-f">    	# Maximize
+  	  <action name="UnmaximizeFull"/>
+	    	  <action name="MoveResizeTo"><x>0</x><y>-0</y><width>100%</width><height>100%</height></action>
+			  	</keybind>[M@.[M@-[M@,Xft.rgba: rgb
 Xft.lcdfilter: lcddefault
 
 ! xscreensaver ------------------------------------------------------------------
@@ -56,7 +50,9 @@ URxvt.iso14755: False
 URxvt.perl-ext-common: default,clipboard
 
 URxvt.font:xft:kakwafont:pixelsize=10
-!*font:xft:Dina:pixelsize=10
-URxvt*allow_bold: false
+!*font:xft:kakwafont:pixelsize=10
+URxvt.boldFont:xft:kakwafont:pixelsize=10
 
 URxvt*cursorUnderline: true
+
+

@@ -2,7 +2,7 @@ rofi.modi:                           window,run,ssh
 rofi.width:                          50
 rofi.lines:                          15
 rofi.columns:                        1
-rofi.font:                           kakwafont 8
+rofi.font:                           !FONT 8
 rofi.color-normal:                   #COLOR0, #COLORX15, #COLOR0, #COLORACT, #COLORX15
 rofi.color-urgent:                   #COLOR0, #d6b48d, #22231D, #d6b48d, #COLORX15
 rofi.color-active:                   #COLOR0, #COLORX14, #COLOR0, #COLORX14, #COLOR0

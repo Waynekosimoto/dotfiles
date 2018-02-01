@@ -968,6 +968,7 @@ component.member-role {
     box-shadow: none;
     box-sizing: border-box;
     padding: 10px;
+    shadow: 0px;
 }
 
 /* Delete Message Modal */

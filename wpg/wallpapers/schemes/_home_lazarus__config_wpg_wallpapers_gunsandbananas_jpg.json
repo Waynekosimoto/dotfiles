@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/gunsandbananas.jpg",
+    "special": {
+        "background": "#27291e",
+        "foreground": "#e7e0ca",
+        "cursor": "#e7e0ca"
+    },
+    "colors": {
+        "color0": "#27291e",
+        "color1": "#D5BC78",
+        "color2": "#E1CC68",
+        "color3": "#D5BD84",
+        "color4": "#C0BEA3",
+        "color5": "#DCC68F",
+        "color6": "#E2CD97",
+        "color7": "#e7e0ca",
+        "color8": "#a19c8d",
+        "color9": "#D5BC78",
+        "color10": "#E1CC68",
+        "color11": "#D5BD84",
+        "color12": "#C0BEA3",
+        "color13": "#DCC68F",
+        "color14": "#E2CD97",
+        "color15": "#e7e0ca"
+    }
+}

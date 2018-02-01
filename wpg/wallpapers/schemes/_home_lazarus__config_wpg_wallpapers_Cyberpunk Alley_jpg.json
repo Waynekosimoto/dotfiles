@@ -1,0 +1,26 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/Cyberpunk Alley.jpg",
+    "special": {
+        "background": "#1b1121",
+        "foreground": "#9eccdf",
+        "cursor": "#9eccdf"
+    },
+    "colors": {
+        "color0": "#1b1121",
+        "color1": "#B32664",
+        "color2": "#D8C84A",
+        "color3": "#5E3192",
+        "color4": "#404BA9",
+        "color5": "#5D53A1",
+        "color6": "#AF38AE",
+        "color7": "#9eccdf",
+        "color8": "#6e8e9c",
+        "color9": "#B32664",
+        "color10": "#D8C84A",
+        "color11": "#5E3192",
+        "color12": "#404BA9",
+        "color13": "#5D53A1",
+        "color14": "#AF38AE",
+        "color15": "#9eccdf"
+    }
+}
