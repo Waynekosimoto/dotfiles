@@ -1,5 +1,6 @@
 
 ! font settings -----------------------------------------------------------------
+
 Xft.autohint: true
 Xft.antialias: true
 Xft.hinting: true
@@ -54,5 +55,4 @@ URxvt.font:xft:kakwafont:pixelsize=10
 URxvt.boldFont:xft:kakwafont:pixelsize=10
 
 URxvt*cursorUnderline: true
-
-
+URxvt*depth:                        32

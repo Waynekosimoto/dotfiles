@@ -48,7 +48,7 @@ font-0 = !FONT:pixelsize=6;1
 font-1 = Siji:pixelsize=10;2
 
 modules-left =
-modules-center = wlan volume date
+modules-center = date wlan volume
 modules-right =
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
@@ -168,7 +168,7 @@ type = internal/network
 interface = wlp3s0
 interval = 3.0
 
-format-connected-padding = 2
+format-connected-padding = 0
 format-connected = <ramp-signal>
 label-connected = %essid%
 
@@ -207,7 +207,7 @@ label = %date% %time%
 type = internal/volume
 
 format-volume = <ramp-volume>
-format-volume-padding = 0
+format-volume-padding = 2
 ramp-volume-0 = 
 ramp-volume-1 = 
 ramp-volume-2 = 
@@ -221,7 +221,7 @@ ramp-volume-foreground = ${colors.foreground}
 format-muted = "" 
 format-muted-foreground = ${colors.foreground}
 ;label-muted = muted
-format-muted-padding = 0
+format-muted-padding = 2
 
 
 bar-volume-empty-foreground = ${colors.foreground}
