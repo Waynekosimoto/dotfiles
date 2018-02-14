@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/josan-gonzalez-overwatchmasterfilev24.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#2e2736",
+        "foreground": "#d6d2dc",
+        "cursor": "#d6d2dc"
+    },
+    "colors": {
+        "color0": "#2e2736",
+        "color1": "#6F74C0",
+        "color2": "#927691",
+        "color3": "#BF7CB5",
+        "color4": "#788DB1",
+        "color5": "#A4949E",
+        "color6": "#CEA89A",
+        "color7": "#d6d2dc",
+        "color8": "#95939a",
+        "color9": "#6F74C0",
+        "color10": "#927691",
+        "color11": "#BF7CB5",
+        "color12": "#788DB1",
+        "color13": "#A4949E",
+        "color14": "#CEA89A",
+        "color15": "#d6d2dc"
+    }
+}

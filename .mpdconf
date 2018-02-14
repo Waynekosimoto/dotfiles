@@ -9,7 +9,7 @@
 #                  \/_/
 
 #directories
-music_directory		"/home/lazarus/music/"
+music_directory		"/home/lazarus/Music/"
 playlist_directory	"/home/lazarus/.mpd/playlists/"
 db_file			"/home/lazarus/.mpd/mpd.db"
 log_file		"/home/lazarus/.mpd/mpd.log"

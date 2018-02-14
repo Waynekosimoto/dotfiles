@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MUSIC_DIR=/home/lazarus/music
+MUSIC_DIR=/home/lazarus/Music
 
 COVER=/tmp/cover.jpg
 

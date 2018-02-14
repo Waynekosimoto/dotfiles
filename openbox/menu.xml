@@ -11,12 +11,12 @@
 		<separator/>
 		<item label="Web Browser">
 			<action name="Execute">
-				<execute>vivaldi</execute>
+				<execute>firefox</execute>
 			</action>
 		</item>
 		<item label="File Manager">
 			<action name="Execute">
-				<execute>thunar</execute>
+				<execute>pcmanfm</execute>
 			</action>
 		</item>
 		<item label="Terminal">
@@ -260,16 +260,11 @@
 				</action>
 			</item>
 		</menu>
-		<!--<menu id="help" label="Help" execute="cbpp-help-pipemenu" />-->
+
 		<separator/>
-		<item label="Lock Screen">
-			<action name="Execute">
-				<execute>xscreensaver-command -lock</execute>
-			</action>
-		</item>
-		<item label="Exit">
-			<action name="Execute">
-				<execute>cbpp-exit</execute>
+		<item label="Log Out">
+			<action name="Exit">
+				<prompt>yes</prompt>
 			</action>
 		</item>
 	</menu>

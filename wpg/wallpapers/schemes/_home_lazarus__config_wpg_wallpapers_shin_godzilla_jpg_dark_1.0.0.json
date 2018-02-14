@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/shin_godzilla.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#050506",
+        "foreground": "#f2dfe0",
+        "cursor": "#f2dfe0"
+    },
+    "colors": {
+        "color0": "#050506",
+        "color1": "#E5242B",
+        "color2": "#BC4248",
+        "color3": "#DA5C62",
+        "color4": "#D37D82",
+        "color5": "#EA9EA2",
+        "color6": "#E1B2B5",
+        "color7": "#f2dfe0",
+        "color8": "#a99c9c",
+        "color9": "#E5242B",
+        "color10": "#BC4248",
+        "color11": "#DA5C62",
+        "color12": "#D37D82",
+        "color13": "#EA9EA2",
+        "color14": "#E1B2B5",
+        "color15": "#f2dfe0"
+    }
+}

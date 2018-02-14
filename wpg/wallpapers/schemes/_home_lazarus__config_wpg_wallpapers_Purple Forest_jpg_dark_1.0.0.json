@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/Purple Forest.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B101C",
+        "foreground": "#e5e4e9",
+        "cursor": "#e5e4e9"
+    },
+    "colors": {
+        "color0": "#0B101C",
+        "color1": "#757489",
+        "color2": "#817E93",
+        "color3": "#9D99AA",
+        "color4": "#BAB5C6",
+        "color5": "#C3BBC7",
+        "color6": "#D3CDD7",
+        "color7": "#e5e4e9",
+        "color8": "#a09fa3",
+        "color9": "#757489",
+        "color10": "#817E93",
+        "color11": "#9D99AA",
+        "color12": "#BAB5C6",
+        "color13": "#C3BBC7",
+        "color14": "#D3CDD7",
+        "color15": "#e5e4e9"
+    }
+}

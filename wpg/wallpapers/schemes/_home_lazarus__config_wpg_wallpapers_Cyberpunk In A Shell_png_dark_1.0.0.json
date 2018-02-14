@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/Cyberpunk In A Shell.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000101",
+        "foreground": "#e6e8e6",
+        "cursor": "#e6e8e6"
+    },
+    "colors": {
+        "color0": "#000101",
+        "color1": "#A1B0AF",
+        "color2": "#B9C4BA",
+        "color3": "#A7BBC4",
+        "color4": "#B8C7C9",
+        "color5": "#BFE1DE",
+        "color6": "#CCD7D4",
+        "color7": "#e6e8e6",
+        "color8": "#a1a2a1",
+        "color9": "#A1B0AF",
+        "color10": "#B9C4BA",
+        "color11": "#A7BBC4",
+        "color12": "#B8C7C9",
+        "color13": "#BFE1DE",
+        "color14": "#CCD7D4",
+        "color15": "#e6e8e6"
+    }
+}

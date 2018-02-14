@@ -20,8 +20,8 @@ filetype on
 set nocompatible
 
 "Airline Customization
-"let g:airline_left_sep = '▓░'
-"let g:airline_right_sep = '░▓'
+let g:airline_left_sep = '▓░'
+let g:airline_right_sep = '░▓'
 let g:airline_theme='term'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#left_sep = ' '
