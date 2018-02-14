@@ -107,7 +107,6 @@
 					<execute>gigolo</execute>
 				</action>
 			</item>
-			<menu execute="cbpp-sshconfig-pipemenu" id="sshconfig" label="SSH"/>
 		</menu>
 		<menu id="office" label="Office">
 			<item label="Google Docs">
@@ -126,9 +125,6 @@
 				</action>
 			</item>
 		</menu>
-		<separator/>
-		<menu execute="cbpp-places-pipemenu" id="pipe-placesmenu" label="Places"/>
-		<menu execute="cbpp-recent-files-pipemenu" id="pipe-recentfilesmenu" label="Recent Files"/>
 		<separator/>
 		<menu id="settings" label="Settings">
 			<menu id="obConfig" label="Openbox">
@@ -171,7 +167,6 @@
 					<action name="Restart"/>
 				</item>
 			</menu>
-			<menu execute="cbpp-compositor" id="CompositingPipeMenu" label="Compositor"/>
 			<menu id="conkyconfig" label="Conky">
 				<item label="Edit .conkyrc">
 					<action name="Execute">
@@ -248,7 +243,6 @@
 			</item>
 		</menu>
 		<menu id="system" label="System">
-			<menu execute="cbpp-printing-pipemenu" id="PrintingPipeMenu" label="Printers"/>
 			<item label="GParted">
 				<action name="Execute">
 					<execute>gksudo gparted</execute>
@@ -260,7 +254,6 @@
 				</action>
 			</item>
 		</menu>
-
 		<separator/>
 		<item label="Log Out">
 			<action name="Exit">

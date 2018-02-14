@@ -14,3 +14,5 @@ polybar music &
 ## mpd
 mpd &
 
+## Notifications
+dunst &

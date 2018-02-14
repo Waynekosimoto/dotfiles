@@ -1,0 +1,9 @@
+2018-02-13 23:54:49		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2018-02-13 23:54:49		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2018-02-13 23:54:49		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2018-02-13 23:54:49		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2018-02-13 23:54:49		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, xfer
+2018-02-13 23:54:59	 !!! 	You can not write text in this buffer
+2018-02-13 23:55:00		fifo: pipe closed
+2018-02-13 23:55:19		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, xfer
+2018-02-13 23:55:23		fifo: pipe closed
