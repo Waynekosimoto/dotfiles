@@ -20,9 +20,10 @@ inactive = #COLORIN
 
 [bar/wpgtk]
 monitor = "eDP"
-width = 140
+width = 150
 height = 50
-offset-x = 260
+;offset-x = 260
+offset-x = 685
 ;offset-x = 1280
 offset-y = 10
 radius = 0.0
@@ -47,9 +48,9 @@ module-margin-right = 0
 font-0 = !FONT:pixelsize=6;1
 font-1 = Siji:pixelsize=10;2
 
-modules-left =
-modules-center = date wlan volume
-modules-right =
+modules-left = 
+modules-center = date volume
+modules-right =  
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
@@ -57,7 +58,8 @@ modules-right =
 monitor = "eDP"
 width = 250
 height = 50
-offset-x = 10
+;offset-x = 1660
+offset-x = 835
 ;offset-x = 1280
 offset-y = 10
 radius = 0.0
@@ -89,14 +91,156 @@ modules-right =
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
+[bar/full]
+monitor = "eDP"
+width = 720
+height = 30
+offset-x = 250
+;offset-x = 1280
+offset-y = 0
+radius = 0.0
+fixed-center = false
+bottom = true
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 0
+label-line-color = #f00
+
+border-size = 0
+border-color = #00000000
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = !FONT:pixelsize=6;1
+font-1 = Siji:pixelsize=10;2
+
+modules-left =
+modules-center = date wlan volume
+modules-right =
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[bar/fullmusic]
+monitor = "eDP"
+width = 250
+height = 30
+offset-x = 0
+;offset-x = 1280
+offset-y = 0
+radius = 0.0
+fixed-center = false
+bottom = true
+
+background = ${colors.active}
+foreground = ${colors.foreground}
+
+line-size = 0
+label-line-color = #f00
+
+border-size = 0
+border-color = #00000000
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = !FONT:pixelsize=6;1
+font-1 = Siji:pixelsize=10;2
+
+modules-left =
+modules-center = mpd
+modules-right =
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[bar/window]
+monitor = "eDP"
+width = 150
+height = 50
+offset-x = 1085
+;offset-x = 935
+;offset-x = 1280
+offset-y = 10
+radius = 0.0
+fixed-center = true
+bottom = true
+override-redirect = false
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 0
+label-line-color = #f00
+
+border-size = 0
+border-color = #00000000
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = !FONT:pixelsize=6;1
+font-1 = Siji:pixelsize=10;2
+
+modules-left = 
+modules-center = ewmh
+modules-right =
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
+[bar/background]
+monitor = "eDP"
+width = 1900
+height = 50
+offset-x = 10
+;offset-x = 1280
+offset-y = 10
+radius = 0.0
+fixed-center = false
+bottom = true
+
+background = ${colors.background}
+foreground = ${colors.foreground}
+
+line-size = 0
+label-line-color = #f00
+
+border-size = 0
+border-color = #00000000
+
+padding-left = 0
+padding-right = 0
+
+module-margin-left = 0
+module-margin-right = 0
+
+font-0 = !FONT:pixelsize=6;1
+font-1 = Siji:pixelsize=10;2
+
+modules-left =
+modules-center = 
+modules-right =
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+
 [module/ewmh]
 type = internal/xworkspaces
 pin-workspaces = true
 enable-click = true
 enable-scroll = false
 format-label = <label-state>
-label-active = 
-label-empty = 
+label-active = 
+label-empty = 
 format-padding = 0
 
 
@@ -188,13 +332,13 @@ ramp-signal-foreground = ${colors.foreground}
 type = internal/date
 interval = 5
 
-date = %d
+;date = %d
 ;date-alt = " %d/%m/%Y"
 
 time = %I:%M 
 ;time-alt = %I:%M %p
 
-;format-prefix = 
+format-prefix = 
 format-prefix-foreground = ${colors.foreground}
 format-padding = 2
 format-background = ${colors.background}

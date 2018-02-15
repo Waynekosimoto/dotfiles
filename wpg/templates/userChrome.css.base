@@ -1,0 +1,161 @@
+/*      ___                     ___                
+/*    /'___\ __               /'___\               
+/*   /\ \__//\_\  _ __    __ /\ \__/  ___   __  _  
+/*   \ \ ,__\/\ \/\`'__\/'__`\ \ ,__\/ __`\/\ \/'\ 
+/*    \ \ \_/\ \ \ \ \//\  __/\ \ \_/\ \L\ \/>  </ 
+/*     \ \_\  \ \_\ \_\\ \____\\ \_\\ \____//\_/\_\
+/*      \/_/   \/_/\/_/ \/____/ \/_/ \/___/ \//\/_/
+*/   
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+scrollbar,
+scrollbar scrollbarbutton,
+scrollbar gripper,
+scrollbar thumb,
+liberator-commandline-command,
+toolbarbutton#appmenu-toolbar-button,
+toolbarbutton#alltabs-button,
+.tab-icon-image,
+.tabs-closebutton-box,
+.tab-close-button,
+#urlbar dropmarker,
+#identity-box,
+#star-button,
+#go-button,
+.tab-throbber,.tabbrowser-tab::after,
+.tabbrowser-tab::before,
+.notificationbox-stack,
+#TabsToolbar::after,
+.notificationbox-stack
+{
+	display: none !important;
+}
+
+
+.tab-line[selected="true"] {
+background-color: #COLOR1 !important;
+}
+
+.tab-background {
+	opacity: 1 !important;
+	
+}
+
+
+/* Move Tab-bar beside Nav-bar */
+#TabsToolbar {      
+  margin-bottom: 15px !important;             
+  margin-top: 5px !important;                  
+  margin-left: 30vw !important;
+  margin-right: 10vw !important;
+}
+
+#nav-bar {      
+  margin-bottom: 5x !important;             
+  margin-top: -32px !important;
+  margin-right: 70vw !important;
+  margin-left: 5px !important;
+  border-top: 0px !important;
+  max-height: 16px !important;
+  background: none !important;
+}   
+
+
+/* Remove padding above tabbar in compact mode */
+#main-window[sizemode="normal"] > #titlebar {
+  -moz-appearance: initial !important;
+}
+
+
+/* Back & Forward buttons */  
+#back-button > .toolbarbutton-icon,
+#forward-button > .toolbarbutton-icon {
+ display: none !important; 
+}
+
+/* Move hamburger menu to the left */
+#PanelUI-button,
+#customization-panel-container,
+#customization-panelWrapper .panel-arrow { 
+  visibility: hidden;
+}
+
+tabs#tabbrowser-tabs, tabs#tabbrowser-tabs * {
+	-moz-appearance: none !important;
+	border: none !important;
+	border-radius: 0px !important;
+	background-image: none !important;
+	margin-top: 0px !important;
+	box-shadow: none !important;
+	max-height: 16px !important;
+	min-height: 12px !important;
+}
+
+#appMenu-popup {
+  margin-right: -258px !important;
+}
+
+#appMenu-popup .panel-arrow {
+  margin-right: 248px !important;
+}
+
+/* More tools... button */
+#nav-bar-overflow-button { 
+  visibility: hidden !important;
+}  
+
+tabs#tabbrowser-tabs {
+	padding: 2px !important;
+	border: 0px none !important;
+	box-shadow: none !important;
+	margin-left: -15px !important;
+	margin-right: -15px !important;
+}
+
+tabbrowser-tab {
+	margin-left: 2px !important;
+	margin-right: 1px !important;
+	padding-top: 0px !important;
+	border: 0px none !important;
+}
+
+
+/* Border between background tabs */
+.tabbrowser-tab::after, .tabbrowser-tab::before {
+  color: grey !important; 
+  opacity: .2 !important; 
+ }
+
+/* New tab button color */
+#new-tab-button, .tabs-newtab-button {
+  fill: var(--chrome-color) !important;
+  } 
+
+  
+browser[type="content-primary"], tabbrowser tabpanels, #appcontent > #content {
+    background-color: var(--ui-basecolor) !important;
+}
+
+/* URL Bar */
+#pageActionButton,
+#pocket-button-box,
+ar-button,
+.autocomplete-history-dropmarker,
+#identity-icon-labels
+{
+    display: none !important;
+}
+
+#urlbar-container{
+     min-height: 12px !important;
+     max-height: 18px !important;
+     max-width: 400px !important;
+}
+
+#urlbar, .searchbar-textbox, urlbar-container {
+    background: none !important;
+    color: var(--url-foreground) !important;
+    border: 0px !important;
+    box-shadow: none !important;
+}

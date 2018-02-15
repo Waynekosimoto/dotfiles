@@ -10,9 +10,12 @@ nm-applet &
 ## Polybar just in case
 polybar wpgtk &
 polybar music & 
-
+polybar window &
 ## mpd
 mpd &
 
 ## Notifications
 dunst &
+
+## Compton
+compton --config ~/.config/compton/compton.conf &

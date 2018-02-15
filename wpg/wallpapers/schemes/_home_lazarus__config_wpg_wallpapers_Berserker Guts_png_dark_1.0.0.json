@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/Berserker Guts.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0807",
+        "foreground": "#b7b3b9",
+        "cursor": "#b7b3b9"
+    },
+    "colors": {
+        "color0": "#0e0807",
+        "color1": "#9F290C",
+        "color2": "#DB3308",
+        "color3": "#EE5F0B",
+        "color4": "#F95003",
+        "color5": "#AC6353",
+        "color6": "#DF8C40",
+        "color7": "#b7b3b9",
+        "color8": "#807d81",
+        "color9": "#9F290C",
+        "color10": "#DB3308",
+        "color11": "#EE5F0B",
+        "color12": "#F95003",
+        "color13": "#AC6353",
+        "color14": "#DF8C40",
+        "color15": "#b7b3b9"
+    }
+}

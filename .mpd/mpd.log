@@ -10635,3 +10635,657 @@ Feb 13 23:48 : client: [33] closed
 Feb 13 23:48 : client: [34] opened from 127.0.0.1:45178
 Feb 13 23:48 : client: [34] closed
 Feb 13 23:52 : player: played "Super Eurobeat Vol. 161/18 Space Invader.mp3"
+Feb 14 00:07 : client: [21] closed
+Feb 14 00:07 : client: [18] closed
+Feb 14 00:07 : avahi: Client Disconnected, will reconnect shortly
+Feb 14 00:07 : avahi: Could not reconnect: Daemon not running
+Feb 14 16:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 16:52 : client: [0] opened from 127.0.0.1:50334
+Feb 14 16:53 : client: [0] closed
+Feb 14 16:53 : client: [1] opened from 127.0.0.1:50336
+Feb 14 17:22 : client: [1] closed
+Feb 14 17:22 : client: [2] opened from 127.0.0.1:51098
+Feb 14 17:22 : client: [2] closed
+Feb 14 17:22 : client: [3] opened from 127.0.0.1:51100
+Feb 14 17:22 : client: [3] closed
+Feb 14 17:22 : client: [4] opened from 127.0.0.1:51102
+Feb 14 17:32 : client: [4] closed
+Feb 14 17:32 : client: [5] opened from 127.0.0.1:51588
+Feb 14 17:36 : client: [5] closed
+Feb 14 17:36 : client: [6] opened from 127.0.0.1:51910
+Feb 14 17:36 : client: [6] closed
+Feb 14 17:36 : client: [7] opened from 127.0.0.1:51912
+Feb 14 17:36 : client: [7] closed
+Feb 14 17:36 : client: [8] opened from 127.0.0.1:51914
+Feb 14 17:36 : client: [9] opened from 127.0.0.1:51918
+Feb 14 17:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 14 17:48 : client: [10] opened from 127.0.0.1:52462
+Feb 14 17:48 : client: [10] closed
+Feb 14 17:48 : client: [11] opened from 127.0.0.1:52466
+Feb 14 17:48 : client: [11] closed
+Feb 14 17:53 : player: played "Initial D ~D Selection 2~/14  Everybody's Warming  Tension.mp3"
+Feb 14 18:03 : client: [12] opened from 127.0.0.1:53198
+Feb 14 18:03 : client: [12] closed
+Feb 14 18:03 : client: [13] opened from 127.0.0.1:53202
+Feb 14 18:03 : client: [13] closed
+Feb 14 18:08 : player: played "Initial D ~D Selection 2~/14  Everybody's Warming  Tension.mp3"
+Feb 14 18:30 : client: [14] opened from 127.0.0.1:54436
+Feb 14 18:30 : client: [14] closed
+Feb 14 18:30 : client: [15] opened from 127.0.0.1:54440
+Feb 14 18:30 : client: [15] closed
+Feb 14 18:32 : client: [16] opened from 127.0.0.1:54526
+Feb 14 18:32 : client: [16] closed
+Feb 14 19:00 : player: played "Initial D ~D Selection 2~/14  Everybody's Warming  Tension.mp3"
+Feb 14 19:03 : client: [17] opened from 127.0.0.1:55282
+Feb 14 19:03 : client: [17] closed
+Feb 14 19:03 : client: [18] opened from 127.0.0.1:55286
+Feb 14 19:03 : client: [18] closed
+Feb 14 19:04 : client: [19] opened from 127.0.0.1:55290
+Feb 14 19:04 : client: [19] closed
+Feb 14 19:04 : client: [20] opened from 127.0.0.1:55294
+Feb 14 19:04 : client: [20] closed
+Feb 14 19:08 : player: played "Super Eurobeat Vol. 152/18 Dancing Around the World.mp3"
+Feb 14 19:17 : client: [21] opened from 127.0.0.1:55640
+Feb 14 19:17 : client: [21] closed
+Feb 14 19:17 : client: [22] opened from 127.0.0.1:55644
+Feb 14 19:17 : client: [22] closed
+Feb 14 19:22 : player: played "Initial D ~D Selection 2~/15  Wings Of Fire  Mako & Sayuki.mp3"
+Feb 14 19:22 : client: [23] opened from 127.0.0.1:55694
+Feb 14 19:22 : client: [23] closed
+Feb 14 19:22 : client: [24] opened from 127.0.0.1:55698
+Feb 14 19:22 : client: [24] closed
+Feb 14 19:26 : player: played "Super Eurobeat Vol. 152/18 Dancing Around the World.mp3"
+Feb 14 19:27 : client: [25] opened from 127.0.0.1:55834
+Feb 14 19:27 : client: [25] closed
+Feb 14 19:27 : client: [26] opened from 127.0.0.1:55838
+Feb 14 19:27 : client: [26] closed
+Feb 14 19:31 : player: played "Super Eurobeat Vol. 161/18 Space Invader.mp3"
+Feb 14 19:33 : client: [27] opened from 127.0.0.1:55978
+Feb 14 19:33 : client: [27] closed
+Feb 14 19:33 : client: [28] opened from 127.0.0.1:55982
+Feb 14 19:33 : client: [28] closed
+Feb 14 19:33 : client: [29] opened from 127.0.0.1:55986
+Feb 14 19:33 : client: [29] closed
+Feb 14 19:38 : player: played "Initial D ~D Selection 2~/14  Everybody's Warming  Tension.mp3"
+Feb 14 19:38 : client: [30] opened from 127.0.0.1:56146
+Feb 14 19:38 : client: [30] closed
+Feb 14 19:38 : client: [31] opened from 127.0.0.1:56150
+Feb 14 19:38 : client: [31] closed
+Feb 14 19:42 : player: played "Initial D ~D Selection 2~/15  Wings Of Fire  Mako & Sayuki.mp3"
+Feb 14 19:42 : client: [32] opened from 127.0.0.1:56220
+Feb 14 19:42 : client: [32] closed
+Feb 14 19:42 : client: [33] opened from 127.0.0.1:56224
+Feb 14 19:42 : client: [33] closed
+Feb 14 19:46 : player: played "Super Eurobeat Vol. 152/18 Dancing Around the World.mp3"
+Feb 14 19:46 : client: [34] opened from 127.0.0.1:56264
+Feb 14 19:46 : client: [34] closed
+Feb 14 19:46 : client: [35] opened from 127.0.0.1:56268
+Feb 14 19:46 : client: [35] closed
+Feb 14 19:51 : player: played "Super Eurobeat Vol. 161/18 Space Invader.mp3"
+Feb 14 19:52 : client: [36] opened from 127.0.0.1:56460
+Feb 14 19:52 : client: [36] closed
+Feb 14 19:52 : client: [37] opened from 127.0.0.1:56464
+Feb 14 19:52 : client: [37] closed
+Feb 14 19:56 : player: played "Super Eurobeat Vol. 162/18 Eldorado.mp3"
+Feb 14 19:57 : client: [38] opened from 127.0.0.1:56574
+Feb 14 19:57 : client: [38] closed
+Feb 14 19:57 : client: [39] opened from 127.0.0.1:56578
+Feb 14 19:57 : client: [39] closed
+Feb 14 19:57 : client: [40] opened from 127.0.0.1:56582
+Feb 14 19:57 : client: [40] closed
+Feb 14 20:02 : player: played "Initial D ~D Selection 2~/14  Everybody's Warming  Tension.mp3"
+Feb 14 20:02 : client: [41] opened from 127.0.0.1:56686
+Feb 14 20:02 : client: [41] closed
+Feb 14 20:02 : client: [42] opened from 127.0.0.1:56690
+Feb 14 20:02 : client: [42] closed
+Feb 14 20:05 : client: [8] closed
+Feb 14 20:05 : client: [43] opened from 127.0.0.1:56728
+Feb 14 20:06 : client: [43] closed
+Feb 14 20:06 : client: [44] opened from 127.0.0.1:56730
+Feb 14 20:06 : client: [45] opened from 127.0.0.1:56732
+Feb 14 20:06 : client: [46] opened from 127.0.0.1:56734
+Feb 14 20:06 : client: [47] opened from 127.0.0.1:56736
+Feb 14 20:06 : client: [47] closed
+Feb 14 20:06 : client: [48] opened from 127.0.0.1:56738
+Feb 14 20:06 : client: [48] closed
+Feb 14 20:06 : player: played "Initial D ~D Selection 2~/15  Wings Of Fire  Mako & Sayuki.mp3"
+Feb 14 20:06 : client: [49] opened from 127.0.0.1:56742
+Feb 14 20:06 : client: [49] closed
+Feb 14 20:06 : client: [50] opened from 127.0.0.1:56746
+Feb 14 20:06 : client: [50] closed
+Feb 14 20:06 : client: [51] opened from 127.0.0.1:56750
+Feb 14 20:06 : client: [51] closed
+Feb 14 20:06 : client: [52] opened from 127.0.0.1:56754
+Feb 14 20:06 : client: [52] closed
+Feb 14 20:07 : client: [44] closed
+Feb 14 20:07 : client: [46] closed
+Feb 14 20:07 : client: [45] closed
+Feb 14 20:07 : client: [53] opened from 127.0.0.1:56756
+Feb 14 20:07 : client: [54] opened from 127.0.0.1:56758
+Feb 14 20:07 : client: [55] opened from 127.0.0.1:56760
+Feb 14 20:07 : client: [54] closed
+Feb 14 20:07 : client: [53] closed
+Feb 14 20:07 : client: [55] closed
+Feb 14 20:07 : client: [56] opened from 127.0.0.1:56762
+Feb 14 20:07 : client: [57] opened from 127.0.0.1:56764
+Feb 14 20:07 : client: [58] opened from 127.0.0.1:56766
+Feb 14 20:07 : client: [56] closed
+Feb 14 20:07 : client: [57] closed
+Feb 14 20:07 : client: [58] closed
+Feb 14 20:07 : client: [59] opened from 127.0.0.1:56828
+Feb 14 20:07 : client: [60] opened from 127.0.0.1:56830
+Feb 14 20:07 : client: [61] opened from 127.0.0.1:56832
+Feb 14 20:07 : client: [61] closed
+Feb 14 20:07 : client: [60] closed
+Feb 14 20:07 : client: [59] closed
+Feb 14 20:07 : client: [62] opened from 127.0.0.1:56834
+Feb 14 20:07 : client: [63] opened from 127.0.0.1:56836
+Feb 14 20:07 : client: [64] opened from 127.0.0.1:56838
+Feb 14 20:08 : client: [64] closed
+Feb 14 20:08 : client: [63] closed
+Feb 14 20:08 : client: [62] closed
+Feb 14 20:08 : client: [65] opened from 127.0.0.1:56840
+Feb 14 20:08 : client: [66] opened from 127.0.0.1:56842
+Feb 14 20:08 : client: [67] opened from 127.0.0.1:56844
+Feb 14 20:08 : client: [66] closed
+Feb 14 20:08 : client: [65] closed
+Feb 14 20:08 : client: [67] closed
+Feb 14 20:08 : client: [68] opened from 127.0.0.1:56846
+Feb 14 20:08 : client: [69] opened from 127.0.0.1:56848
+Feb 14 20:08 : client: [70] opened from 127.0.0.1:56850
+Feb 14 20:08 : client: [69] closed
+Feb 14 20:08 : client: [70] closed
+Feb 14 20:08 : client: [68] closed
+Feb 14 20:08 : client: [71] opened from 127.0.0.1:56852
+Feb 14 20:08 : client: [72] opened from 127.0.0.1:56854
+Feb 14 20:08 : client: [73] opened from 127.0.0.1:56856
+Feb 14 20:08 : client: [73] closed
+Feb 14 20:08 : client: [71] closed
+Feb 14 20:08 : client: [72] closed
+Feb 14 20:08 : client: [74] opened from 127.0.0.1:56870
+Feb 14 20:08 : client: [75] opened from 127.0.0.1:56872
+Feb 14 20:08 : client: [76] opened from 127.0.0.1:56874
+Feb 14 20:08 : client: [74] closed
+Feb 14 20:08 : client: [76] closed
+Feb 14 20:08 : client: [75] closed
+Feb 14 20:08 : client: [77] opened from 127.0.0.1:56876
+Feb 14 20:08 : client: [78] opened from 127.0.0.1:56878
+Feb 14 20:08 : client: [79] opened from 127.0.0.1:56880
+Feb 14 20:08 : client: [79] closed
+Feb 14 20:08 : client: [77] closed
+Feb 14 20:08 : client: [78] closed
+Feb 14 20:08 : client: [80] opened from 127.0.0.1:56882
+Feb 14 20:08 : client: [81] opened from 127.0.0.1:56884
+Feb 14 20:08 : client: [82] opened from 127.0.0.1:56886
+Feb 14 20:09 : client: [80] closed
+Feb 14 20:09 : client: [81] closed
+Feb 14 20:09 : client: [82] closed
+Feb 14 20:09 : client: [83] opened from 127.0.0.1:56894
+Feb 14 20:09 : client: [84] opened from 127.0.0.1:56896
+Feb 14 20:09 : client: [85] opened from 127.0.0.1:56898
+Feb 14 20:09 : client: [83] closed
+Feb 14 20:09 : client: [84] closed
+Feb 14 20:09 : client: [85] closed
+Feb 14 20:09 : client: [86] opened from 127.0.0.1:56900
+Feb 14 20:09 : client: [87] opened from 127.0.0.1:56902
+Feb 14 20:09 : client: [88] opened from 127.0.0.1:56904
+Feb 14 20:10 : client: [86] closed
+Feb 14 20:10 : client: [88] closed
+Feb 14 20:10 : client: [87] closed
+Feb 14 20:10 : client: [89] opened from 127.0.0.1:56924
+Feb 14 20:10 : client: [90] opened from 127.0.0.1:56926
+Feb 14 20:10 : client: [91] opened from 127.0.0.1:56928
+Feb 14 20:10 : client: [90] closed
+Feb 14 20:10 : client: [89] closed
+Feb 14 20:10 : client: [91] closed
+Feb 14 20:10 : client: [92] opened from 127.0.0.1:56930
+Feb 14 20:10 : client: [93] opened from 127.0.0.1:56932
+Feb 14 20:10 : client: [94] opened from 127.0.0.1:56934
+Feb 14 20:10 : client: [95] opened from 127.0.0.1:56938
+Feb 14 20:10 : client: [95] closed
+Feb 14 20:10 : client: [96] opened from 127.0.0.1:56942
+Feb 14 20:10 : client: [96] closed
+Feb 14 20:11 : client: [92] closed
+Feb 14 20:11 : client: [93] closed
+Feb 14 20:11 : client: [94] closed
+Feb 14 20:11 : client: [97] opened from 127.0.0.1:56944
+Feb 14 20:11 : client: [98] opened from 127.0.0.1:56946
+Feb 14 20:11 : client: [99] opened from 127.0.0.1:56948
+Feb 14 20:11 : client: [98] closed
+Feb 14 20:11 : client: [97] closed
+Feb 14 20:11 : client: [99] closed
+Feb 14 20:11 : client: [100] opened from 127.0.0.1:56950
+Feb 14 20:11 : client: [101] opened from 127.0.0.1:56952
+Feb 14 20:11 : client: [102] opened from 127.0.0.1:56954
+Feb 14 20:11 : client: [101] closed
+Feb 14 20:11 : client: [100] closed
+Feb 14 20:11 : client: [102] closed
+Feb 14 20:11 : client: [103] opened from 127.0.0.1:56956
+Feb 14 20:11 : client: [104] opened from 127.0.0.1:56958
+Feb 14 20:11 : client: [105] opened from 127.0.0.1:56960
+Feb 14 20:11 : client: [105] closed
+Feb 14 20:11 : client: [103] closed
+Feb 14 20:11 : client: [104] closed
+Feb 14 20:11 : client: [106] opened from 127.0.0.1:56962
+Feb 14 20:11 : client: [107] opened from 127.0.0.1:56964
+Feb 14 20:11 : client: [108] opened from 127.0.0.1:56966
+Feb 14 20:11 : client: [106] closed
+Feb 14 20:11 : client: [108] closed
+Feb 14 20:11 : client: [107] closed
+Feb 14 20:11 : client: [109] opened from 127.0.0.1:56968
+Feb 14 20:11 : client: [110] opened from 127.0.0.1:56970
+Feb 14 20:11 : client: [111] opened from 127.0.0.1:56972
+Feb 14 20:12 : client: [110] closed
+Feb 14 20:12 : client: [109] closed
+Feb 14 20:12 : client: [111] closed
+Feb 14 20:12 : client: [112] opened from 127.0.0.1:56976
+Feb 14 20:12 : client: [113] opened from 127.0.0.1:56978
+Feb 14 20:12 : client: [114] opened from 127.0.0.1:56980
+Feb 14 20:13 : client: [113] closed
+Feb 14 20:13 : client: [114] closed
+Feb 14 20:13 : client: [112] closed
+Feb 14 20:13 : client: [115] opened from 127.0.0.1:57038
+Feb 14 20:13 : client: [116] opened from 127.0.0.1:57040
+Feb 14 20:13 : client: [117] opened from 127.0.0.1:57042
+Feb 14 20:13 : client: [115] closed
+Feb 14 20:13 : client: [116] closed
+Feb 14 20:13 : client: [117] closed
+Feb 14 20:13 : client: [118] opened from 127.0.0.1:57044
+Feb 14 20:13 : client: [119] opened from 127.0.0.1:57046
+Feb 14 20:13 : client: [120] opened from 127.0.0.1:57048
+Feb 14 20:13 : client: [118] closed
+Feb 14 20:13 : client: [119] closed
+Feb 14 20:13 : client: [120] closed
+Feb 14 20:13 : client: [121] opened from 127.0.0.1:57050
+Feb 14 20:13 : client: [122] opened from 127.0.0.1:57052
+Feb 14 20:13 : client: [123] opened from 127.0.0.1:57054
+Feb 14 20:13 : client: [122] closed
+Feb 14 20:13 : client: [123] closed
+Feb 14 20:13 : client: [121] closed
+Feb 14 20:13 : client: [124] opened from 127.0.0.1:57056
+Feb 14 20:13 : client: [125] opened from 127.0.0.1:57058
+Feb 14 20:13 : client: [126] opened from 127.0.0.1:57060
+Feb 14 20:13 : client: [125] closed
+Feb 14 20:13 : client: [126] closed
+Feb 14 20:13 : client: [124] closed
+Feb 14 20:13 : client: [127] opened from 127.0.0.1:57062
+Feb 14 20:13 : client: [128] opened from 127.0.0.1:57064
+Feb 14 20:13 : client: [129] opened from 127.0.0.1:57066
+Feb 14 20:14 : client: [129] closed
+Feb 14 20:14 : client: [127] closed
+Feb 14 20:14 : client: [128] closed
+Feb 14 20:14 : client: [130] opened from 127.0.0.1:57068
+Feb 14 20:14 : client: [131] opened from 127.0.0.1:57070
+Feb 14 20:14 : client: [132] opened from 127.0.0.1:57072
+Feb 14 20:14 : client: [131] closed
+Feb 14 20:14 : client: [132] closed
+Feb 14 20:14 : client: [130] closed
+Feb 14 20:14 : client: [133] opened from 127.0.0.1:57074
+Feb 14 20:14 : client: [134] opened from 127.0.0.1:57076
+Feb 14 20:14 : client: [135] opened from 127.0.0.1:57078
+Feb 14 20:14 : client: [134] closed
+Feb 14 20:14 : client: [135] closed
+Feb 14 20:14 : client: [133] closed
+Feb 14 20:14 : client: [136] opened from 127.0.0.1:57080
+Feb 14 20:14 : client: [137] opened from 127.0.0.1:57082
+Feb 14 20:14 : client: [138] opened from 127.0.0.1:57084
+Feb 14 20:14 : client: [138] closed
+Feb 14 20:14 : client: [137] closed
+Feb 14 20:14 : client: [136] closed
+Feb 14 20:14 : client: [139] opened from 127.0.0.1:57086
+Feb 14 20:14 : client: [140] opened from 127.0.0.1:57088
+Feb 14 20:14 : client: [141] opened from 127.0.0.1:57090
+Feb 14 20:14 : client: [139] closed
+Feb 14 20:14 : client: [140] closed
+Feb 14 20:14 : client: [141] closed
+Feb 14 20:14 : client: [142] opened from 127.0.0.1:57092
+Feb 14 20:14 : client: [143] opened from 127.0.0.1:57094
+Feb 14 20:14 : client: [144] opened from 127.0.0.1:57096
+Feb 14 20:14 : client: [143] closed
+Feb 14 20:14 : client: [142] closed
+Feb 14 20:14 : client: [144] closed
+Feb 14 20:14 : client: [145] opened from 127.0.0.1:57100
+Feb 14 20:14 : client: [146] opened from 127.0.0.1:57102
+Feb 14 20:14 : client: [147] opened from 127.0.0.1:57104
+Feb 14 20:14 : client: [146] closed
+Feb 14 20:14 : client: [145] closed
+Feb 14 20:14 : client: [147] closed
+Feb 14 20:14 : client: [148] opened from 127.0.0.1:57106
+Feb 14 20:14 : client: [149] opened from 127.0.0.1:57108
+Feb 14 20:14 : client: [150] opened from 127.0.0.1:57110
+Feb 14 20:14 : client: [148] closed
+Feb 14 20:14 : client: [150] closed
+Feb 14 20:14 : client: [149] closed
+Feb 14 20:14 : client: [151] opened from 127.0.0.1:57112
+Feb 14 20:14 : client: [152] opened from 127.0.0.1:57114
+Feb 14 20:14 : client: [153] opened from 127.0.0.1:57116
+Feb 14 20:14 : client: [151] closed
+Feb 14 20:14 : client: [152] closed
+Feb 14 20:14 : client: [153] closed
+Feb 14 20:14 : client: [154] opened from 127.0.0.1:57118
+Feb 14 20:14 : client: [155] opened from 127.0.0.1:57120
+Feb 14 20:14 : client: [156] opened from 127.0.0.1:57122
+Feb 14 20:14 : player: played "Super Eurobeat Vol. 163/07 I Wanna Rock with You.mp3"
+Feb 14 20:14 : client: [157] opened from 127.0.0.1:57126
+Feb 14 20:14 : client: [157] closed
+Feb 14 20:14 : client: [158] opened from 127.0.0.1:57130
+Feb 14 20:14 : client: [158] closed
+Feb 14 20:14 : client: [155] closed
+Feb 14 20:14 : client: [154] closed
+Feb 14 20:14 : client: [156] closed
+Feb 14 20:14 : client: [159] opened from 127.0.0.1:57132
+Feb 14 20:14 : client: [160] opened from 127.0.0.1:57134
+Feb 14 20:14 : client: [161] opened from 127.0.0.1:57136
+Feb 14 20:15 : client: [159] closed
+Feb 14 20:15 : client: [160] closed
+Feb 14 20:15 : client: [161] closed
+Feb 14 20:15 : client: [162] opened from 127.0.0.1:57138
+Feb 14 20:15 : client: [163] opened from 127.0.0.1:57140
+Feb 14 20:15 : client: [164] opened from 127.0.0.1:57142
+Feb 14 20:15 : client: [164] closed
+Feb 14 20:15 : client: [163] closed
+Feb 14 20:15 : client: [162] closed
+Feb 14 20:15 : client: [165] opened from 127.0.0.1:57144
+Feb 14 20:15 : client: [166] opened from 127.0.0.1:57146
+Feb 14 20:15 : client: [167] opened from 127.0.0.1:57148
+Feb 14 20:18 : player: played "Super Eurobeat Vol. 163/11 Move into My Heart.mp3"
+Feb 14 20:18 : client: [168] opened from 127.0.0.1:57278
+Feb 14 20:18 : client: [168] closed
+Feb 14 20:18 : client: [169] opened from 127.0.0.1:57282
+Feb 14 20:18 : client: [169] closed
+Feb 14 20:20 : client: [167] closed
+Feb 14 20:20 : client: [165] closed
+Feb 14 20:20 : client: [166] closed
+Feb 14 20:21 : client: [170] opened from 127.0.0.1:57288
+Feb 14 20:21 : client: [170] closed
+Feb 14 20:21 : client: [171] opened from 127.0.0.1:57290
+Feb 14 20:21 : client: [171] closed
+Feb 14 20:21 : client: [172] opened from 127.0.0.1:57292
+Feb 14 20:21 : client: [172] closed
+Feb 14 20:21 : client: [173] opened from 127.0.0.1:57294
+Feb 14 20:23 : player: played "Super Eurobeat Vol. 163/12 Viva the Night.mp3"
+Feb 14 20:23 : client: [173] closed
+Feb 14 20:23 : client: [174] opened from 127.0.0.1:57362
+Feb 14 20:23 : client: [174] closed
+Feb 14 20:23 : client: [175] opened from 127.0.0.1:57364
+Feb 14 20:23 : client: [175] closed
+Feb 14 20:23 : client: [176] opened from 127.0.0.1:57366
+Feb 14 20:23 : client: [177] opened from 127.0.0.1:57368
+Feb 14 20:23 : client: [177] closed
+Feb 14 20:23 : client: [178] opened from 127.0.0.1:57372
+Feb 14 20:23 : client: [178] closed
+Feb 14 20:23 : client: [179] opened from 127.0.0.1:57376
+Feb 14 20:23 : client: [179] closed
+Feb 14 20:24 : client: [176] closed
+Feb 14 20:24 : client: [180] opened from 127.0.0.1:57378
+Feb 14 20:25 : client: [180] closed
+Feb 14 20:25 : client: [181] opened from 127.0.0.1:57390
+Feb 14 20:26 : client: [181] closed
+Feb 14 20:26 : client: [182] opened from 127.0.0.1:57392
+Feb 14 20:26 : client: [182] closed
+Feb 14 20:26 : client: [183] opened from 127.0.0.1:57394
+Feb 14 20:27 : client: [183] closed
+Feb 14 20:27 : client: [184] opened from 127.0.0.1:57466
+Feb 14 20:27 : client: [184] closed
+Feb 14 20:27 : client: [185] opened from 127.0.0.1:57470
+Feb 14 20:27 : client: [185] closed
+Feb 14 20:27 : client: [186] opened from 127.0.0.1:57472
+Feb 14 20:27 : client: [186] closed
+Feb 14 20:27 : client: [187] opened from 127.0.0.1:57474
+Feb 14 20:27 : client: [187] closed
+Feb 14 20:27 : client: [188] opened from 127.0.0.1:57476
+Feb 14 20:27 : client: [188] closed
+Feb 14 20:27 : client: [189] opened from 127.0.0.1:57478
+Feb 14 20:28 : client: [189] closed
+Feb 14 20:28 : client: [190] opened from 127.0.0.1:57482
+Feb 14 20:28 : client: [190] closed
+Feb 14 20:28 : client: [191] opened from 127.0.0.1:57484
+Feb 14 20:28 : player: played "Initial D ~D Selection 2~/14  Everybody's Warming  Tension.mp3"
+Feb 14 20:28 : client: [192] opened from 127.0.0.1:57488
+Feb 14 20:28 : client: [192] closed
+Feb 14 20:28 : client: [193] opened from 127.0.0.1:57492
+Feb 14 20:28 : client: [193] closed
+Feb 14 20:28 : client: [191] closed
+Feb 14 20:28 : client: [194] opened from 127.0.0.1:57494
+Feb 14 20:29 : client: [194] closed
+Feb 14 20:29 : client: [195] opened from 127.0.0.1:57496
+Feb 14 20:29 : client: [195] closed
+Feb 14 20:29 : client: [196] opened from 127.0.0.1:57498
+Feb 14 20:29 : client: [196] closed
+Feb 14 20:29 : client: [197] opened from 127.0.0.1:57500
+Feb 14 20:33 : player: played "Initial D ~D Selection 2~/15  Wings Of Fire  Mako & Sayuki.mp3"
+Feb 14 20:33 : client: [198] opened from 127.0.0.1:57598
+Feb 14 20:33 : client: [198] closed
+Feb 14 20:33 : client: [199] opened from 127.0.0.1:57602
+Feb 14 20:33 : client: [199] closed
+Feb 14 20:33 : client: [197] closed
+Feb 14 20:33 : client: [200] opened from 127.0.0.1:57604
+Feb 14 20:33 : client: [200] closed
+Feb 14 20:33 : client: [201] opened from 127.0.0.1:57606
+Feb 14 20:35 : client: [201] closed
+Feb 14 20:35 : client: [202] opened from 127.0.0.1:57628
+Feb 14 20:36 : client: [202] closed
+Feb 14 20:36 : client: [203] opened from 127.0.0.1:57630
+Feb 14 20:36 : client: [203] closed
+Feb 14 20:36 : client: [204] opened from 127.0.0.1:57632
+Feb 14 20:36 : client: [204] closed
+Feb 14 20:36 : client: [205] opened from 127.0.0.1:57634
+Feb 14 20:37 : player: played "Super Eurobeat Vol. 152/18 Dancing Around the World.mp3"
+Feb 14 20:37 : client: [206] opened from 127.0.0.1:57640
+Feb 14 20:37 : client: [206] closed
+Feb 14 20:37 : client: [207] opened from 127.0.0.1:57644
+Feb 14 20:37 : client: [207] closed
+Feb 14 20:41 : player: played "Super Eurobeat Vol. 161/18 Space Invader.mp3"
+Feb 14 20:41 : client: [208] opened from 127.0.0.1:57822
+Feb 14 20:41 : client: [208] closed
+Feb 14 20:41 : client: [209] opened from 127.0.0.1:57826
+Feb 14 20:41 : client: [209] closed
+Feb 14 20:42 : client: [205] closed
+Feb 14 20:42 : client: [210] opened from 127.0.0.1:57846
+Feb 14 20:45 : player: played "Super Eurobeat Vol. 162/18 Eldorado.mp3"
+Feb 14 20:45 : client: [211] opened from 127.0.0.1:57890
+Feb 14 20:45 : client: [211] closed
+Feb 14 20:45 : client: [212] opened from 127.0.0.1:57894
+Feb 14 20:45 : client: [212] closed
+Feb 14 20:46 : client: [210] closed
+Feb 14 20:46 : client: [213] opened from 127.0.0.1:57896
+Feb 14 20:46 : client: [213] closed
+Feb 14 20:46 : client: [214] opened from 127.0.0.1:57898
+Feb 14 20:46 : client: [214] closed
+Feb 14 20:48 : client: [215] opened from 127.0.0.1:57978
+Feb 14 20:48 : client: [215] closed
+Feb 14 20:48 : client: [216] opened from 127.0.0.1:57982
+Feb 14 20:48 : client: [216] closed
+Feb 14 20:51 : client: [217] opened from 127.0.0.1:58014
+Feb 14 20:52 : client: [217] closed
+Feb 14 20:52 : player: played "Super Eurobeat Vol. 163/03 Got to be Your Lover.mp3"
+Feb 14 20:52 : client: [218] opened from 127.0.0.1:58020
+Feb 14 20:52 : client: [218] closed
+Feb 14 20:52 : client: [219] opened from 127.0.0.1:58024
+Feb 14 20:52 : client: [219] closed
+Feb 14 20:52 : client: [220] opened from 127.0.0.1:58052
+Feb 14 20:52 : client: [220] closed
+Feb 14 20:52 : client: [221] opened from 127.0.0.1:58084
+Feb 14 20:53 : client: [221] closed
+Feb 14 20:53 : client: [222] opened from 127.0.0.1:58088
+Feb 14 20:53 : client: [222] closed
+Feb 14 20:53 : client: [223] opened from 127.0.0.1:58090
+Feb 14 20:54 : client: [223] closed
+Feb 14 20:54 : client: [224] opened from 127.0.0.1:58100
+Feb 14 20:54 : client: [224] closed
+Feb 14 20:54 : client: [225] opened from 127.0.0.1:58102
+Feb 14 20:54 : client: [225] closed
+Feb 14 20:54 : client: [226] opened from 127.0.0.1:58104
+Feb 14 20:54 : client: [226] closed
+Feb 14 20:54 : client: [227] opened from 127.0.0.1:58106
+Feb 14 20:54 : client: [227] closed
+Feb 14 20:54 : client: [228] opened from 127.0.0.1:58108
+Feb 14 20:54 : client: [228] closed
+Feb 14 20:54 : client: [229] opened from 127.0.0.1:58112
+Feb 14 20:54 : client: [229] closed
+Feb 14 20:54 : client: [230] opened from 127.0.0.1:58114
+Feb 14 20:54 : client: [230] closed
+Feb 14 20:54 : client: [231] opened from 127.0.0.1:58116
+Feb 14 20:54 : client: [231] closed
+Feb 14 20:54 : client: [232] opened from 127.0.0.1:58118
+Feb 14 20:55 : client: [232] closed
+Feb 14 20:55 : client: [233] opened from 127.0.0.1:58120
+Feb 14 20:55 : client: [233] closed
+Feb 14 20:55 : client: [234] opened from 127.0.0.1:58122
+Feb 14 20:55 : client: [234] closed
+Feb 14 20:55 : client: [235] opened from 127.0.0.1:58124
+Feb 14 20:55 : client: [235] closed
+Feb 14 20:55 : client: [236] opened from 127.0.0.1:58126
+Feb 14 20:55 : client: [236] closed
+Feb 14 20:55 : client: [237] opened from 127.0.0.1:58128
+Feb 14 20:55 : client: [237] closed
+Feb 14 20:55 : client: [238] opened from 127.0.0.1:58130
+Feb 14 20:55 : client: [238] closed
+Feb 14 20:56 : client: [239] opened from 127.0.0.1:58132
+Feb 14 20:56 : client: [239] closed
+Feb 14 20:56 : client: [240] opened from 127.0.0.1:58134
+Feb 14 20:56 : client: [240] closed
+Feb 14 20:56 : client: [241] opened from 127.0.0.1:58136
+Feb 14 20:56 : client: [241] closed
+Feb 14 20:56 : client: [242] opened from 127.0.0.1:58138
+Feb 14 20:56 : client: [242] closed
+Feb 14 20:56 : client: [243] opened from 127.0.0.1:58140
+Feb 14 20:56 : client: [243] closed
+Feb 14 20:56 : client: [244] opened from 127.0.0.1:58142
+Feb 14 20:56 : client: [244] closed
+Feb 14 20:56 : client: [245] opened from 127.0.0.1:58144
+Feb 14 20:56 : client: [245] closed
+Feb 14 20:56 : client: [246] opened from 127.0.0.1:58146
+Feb 14 20:56 : player: played "Super Eurobeat Vol. 163/07 I Wanna Rock with You.mp3"
+Feb 14 20:56 : client: [247] opened from 127.0.0.1:58150
+Feb 14 20:56 : client: [247] closed
+Feb 14 20:56 : client: [248] opened from 127.0.0.1:58154
+Feb 14 20:56 : client: [248] closed
+Feb 14 20:57 : client: [246] closed
+Feb 14 20:57 : client: [249] opened from 127.0.0.1:58156
+Feb 14 20:57 : client: [249] closed
+Feb 14 20:57 : client: [250] opened from 127.0.0.1:58158
+Feb 14 20:57 : client: [250] closed
+Feb 14 20:57 : client: [251] opened from 127.0.0.1:58160
+Feb 14 20:57 : client: [251] closed
+Feb 14 20:57 : client: [252] opened from 127.0.0.1:58188
+Feb 14 20:57 : client: [252] closed
+Feb 14 20:57 : client: [253] opened from 127.0.0.1:58220
+Feb 14 20:57 : client: [253] closed
+Feb 14 20:57 : client: [254] opened from 127.0.0.1:58222
+Feb 14 20:57 : client: [254] closed
+Feb 14 20:57 : client: [255] opened from 127.0.0.1:58224
+Feb 14 20:57 : client: [255] closed
+Feb 14 20:57 : client: [256] opened from 127.0.0.1:58226
+Feb 14 20:57 : client: [256] closed
+Feb 14 20:57 : client: [257] opened from 127.0.0.1:58228
+Feb 14 21:00 : player: played "Super Eurobeat Vol. 163/11 Move into My Heart.mp3"
+Feb 14 21:00 : client: [258] opened from 127.0.0.1:58248
+Feb 14 21:00 : client: [258] closed
+Feb 14 21:00 : client: [259] opened from 127.0.0.1:58252
+Feb 14 21:00 : client: [259] closed
+Feb 14 21:04 : player: played "Super Eurobeat Vol. 163/12 Viva the Night.mp3"
+Feb 14 21:38 : client: [260] opened from 127.0.0.1:58814
+Feb 14 21:38 : client: [260] closed
+Feb 14 21:38 : client: [261] opened from 127.0.0.1:58818
+Feb 14 21:38 : client: [261] closed
+Feb 14 21:38 : client: [262] opened from 127.0.0.1:58822
+Feb 14 21:38 : client: [262] closed
+Feb 14 21:39 : client: [257] closed
+Feb 14 21:39 : client: [263] opened from 127.0.0.1:58824
+Feb 14 21:40 : client: [263] closed
+Feb 14 21:40 : client: [264] opened from 127.0.0.1:58982
+Feb 14 21:41 : client: [264] closed
+Feb 14 21:41 : client: [265] opened from 127.0.0.1:59124
+Feb 14 21:41 : client: [265] closed
+Feb 14 21:41 : client: [266] opened from 127.0.0.1:59182
+Feb 14 21:43 : player: played "Initial D ~D Selection 2~/14  Everybody's Warming  Tension.mp3"
+Feb 14 21:43 : client: [267] opened from 127.0.0.1:59328
+Feb 14 21:43 : client: [267] closed
+Feb 14 21:43 : client: [268] opened from 127.0.0.1:59332
+Feb 14 21:43 : client: [268] closed
+Feb 14 21:44 : client: [266] closed
+Feb 14 21:44 : client: [269] opened from 127.0.0.1:59360
+Feb 14 21:45 : client: [269] closed
+Feb 14 21:45 : client: [270] opened from 127.0.0.1:59384
+Feb 14 21:45 : client: [270] closed
+Feb 14 21:45 : client: [271] opened from 127.0.0.1:59534
+Feb 14 21:46 : client: [271] closed
+Feb 14 21:46 : client: [272] opened from 127.0.0.1:59576
+Feb 14 21:46 : client: [272] closed
+Feb 14 21:46 : client: [273] opened from 127.0.0.1:59578
+Feb 14 21:46 : client: [273] closed
+Feb 14 21:46 : client: [274] opened from 127.0.0.1:59620
+Feb 14 21:47 : client: [274] closed
+Feb 14 21:47 : client: [275] opened from 127.0.0.1:59664
+Feb 14 21:47 : player: played "Initial D ~D Selection 2~/15  Wings Of Fire  Mako & Sayuki.mp3"
+Feb 14 21:47 : client: [276] opened from 127.0.0.1:59714
+Feb 14 21:47 : client: [276] closed
+Feb 14 21:47 : client: [277] opened from 127.0.0.1:59718
+Feb 14 21:47 : client: [277] closed
+Feb 14 21:48 : client: [275] closed
+Feb 14 21:48 : client: [278] opened from 127.0.0.1:59738
+Feb 14 21:51 : player: played "Super Eurobeat Vol. 152/18 Dancing Around the World.mp3"
+Feb 14 21:51 : client: [279] opened from 127.0.0.1:59808
+Feb 14 21:51 : client: [279] closed
+Feb 14 21:51 : client: [280] opened from 127.0.0.1:59812
+Feb 14 21:51 : client: [280] closed
+Feb 14 21:52 : client: [278] closed
+Feb 14 21:52 : client: [281] opened from 127.0.0.1:59814
+Feb 14 21:53 : client: [281] closed
+Feb 14 21:53 : client: [282] opened from 127.0.0.1:59928
+Feb 14 21:54 : client: [282] closed
+Feb 14 21:54 : client: [283] opened from 127.0.0.1:59980
+Feb 14 21:54 : client: [283] closed
+Feb 14 21:54 : client: [284] opened from 127.0.0.1:60014
+Feb 14 21:54 : client: [284] closed
+Feb 14 21:54 : client: [285] opened from 127.0.0.1:60016
+Feb 14 21:54 : client: [285] closed
+Feb 14 21:54 : client: [286] opened from 127.0.0.1:60018
+Feb 14 21:55 : client: [286] closed
+Feb 14 21:55 : client: [287] opened from 127.0.0.1:60080
+Feb 14 21:55 : client: [287] closed
+Feb 14 21:55 : client: [288] opened from 127.0.0.1:60110
+Feb 14 21:55 : player: played "Super Eurobeat Vol. 161/18 Space Invader.mp3"
+Feb 14 21:55 : client: [289] opened from 127.0.0.1:60124
+Feb 14 21:55 : client: [289] closed
+Feb 14 21:55 : client: [290] opened from 127.0.0.1:60128
+Feb 14 21:55 : client: [290] closed
+Feb 14 21:55 : client: [288] closed
+Feb 14 21:55 : client: [291] opened from 127.0.0.1:60138
+Feb 14 21:56 : client: [291] closed
+Feb 14 21:56 : client: [292] opened from 127.0.0.1:60156
+Feb 14 21:56 : client: [292] closed
+Feb 14 21:56 : client: [293] opened from 127.0.0.1:60188
+Feb 14 21:57 : client: [293] closed
+Feb 14 21:57 : client: [294] opened from 127.0.0.1:60190
+Feb 14 21:57 : client: [294] closed
+Feb 14 21:57 : client: [295] opened from 127.0.0.1:60192
+Feb 14 21:58 : client: [295] closed
+Feb 14 21:58 : client: [296] opened from 127.0.0.1:60244
+Feb 14 21:59 : client: [296] closed
+Feb 14 21:59 : player: played "Super Eurobeat Vol. 162/18 Eldorado.mp3"
+Feb 14 21:59 : client: [297] opened from 127.0.0.1:60392
+Feb 14 21:59 : client: [297] closed
+Feb 14 21:59 : client: [298] opened from 127.0.0.1:60396
+Feb 14 21:59 : client: [298] closed
+Feb 14 22:03 : player: played "Super Eurobeat Vol. 163/02 Everybody's Looking.mp3"
+Feb 14 22:03 : client: [299] opened from 127.0.0.1:60408
+Feb 14 22:03 : client: [299] closed
+Feb 14 22:03 : client: [300] opened from 127.0.0.1:60412
+Feb 14 22:03 : client: [300] closed
+Feb 14 22:07 : player: played "Super Eurobeat Vol. 163/03 Got to be Your Lover.mp3"
+Feb 14 22:07 : client: [301] opened from 127.0.0.1:60554
+Feb 14 22:07 : client: [301] closed
+Feb 14 22:07 : client: [302] opened from 127.0.0.1:60558
+Feb 14 22:07 : client: [302] closed
+Feb 14 22:11 : player: played "Super Eurobeat Vol. 163/07 I Wanna Rock with You.mp3"
+Feb 14 22:11 : client: [303] opened from 127.0.0.1:60568
+Feb 14 22:11 : client: [303] closed
+Feb 14 22:11 : client: [304] opened from 127.0.0.1:60572
+Feb 14 22:11 : client: [304] closed
+Feb 14 22:15 : player: played "Super Eurobeat Vol. 163/11 Move into My Heart.mp3"
+Feb 14 22:15 : client: [305] opened from 127.0.0.1:60592
+Feb 14 22:15 : client: [305] closed
+Feb 14 22:15 : client: [306] opened from 127.0.0.1:60596
+Feb 14 22:15 : client: [306] closed
