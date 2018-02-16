@@ -9,12 +9,12 @@
 ;	          \/_/                    \/__/                        
 
 [colors]
-background = #1b1619
-background-alt = #708e8a
+background = #0c0c0c
+background-alt = #aca092
 foreground = #efefef
 foreground-alt = #ffffff
-active = #a05f52
-inactive = #6e4138
+active = #211a9d
+inactive = #17126c
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
@@ -235,7 +235,7 @@ modules-right =
 
 [module/ewmh]
 type = internal/xworkspaces
-pin-workspaces = true
+pin-workspaces = false
 enable-click = true
 enable-scroll = false
 format-label = <label-state>

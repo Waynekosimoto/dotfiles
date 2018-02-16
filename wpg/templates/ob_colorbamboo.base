@@ -4,18 +4,19 @@
 #everything else is editable, please edit themerc.base instead of themerc
 
 border.width: 8
-menu.border.color: #COLORTOOL
+menu.border.color: #COLOR0
 menu.border.width: 8
-menu.items.active.bg: Solid Flat
-menu.items.active.bg.color: Solid Flat
-menu.items.active.text.color: #COLORACT
+menu.items.active.bg: #COLOR0
+menu.items.active.bg.color: #COLOR0
+menu.items.active.text.color: #COLOR1
 menu.items.bg: Flat Solid
-menu.items.bg.color: #COLORTOOL
+menu.items.bg.color: #COLOR0
 menu.items.disabled.text.color: #c3c3c3
 menu.items.font: shadow=n
 menu.items.text.color: #FFFFFF
+menu.items.padding: 8
 menu.overlap: 0
-menu.separator.color: #COLORTOOL
+menu.separator.color: #COLOR0
 menu.title.bg: Solid Flat
 menu.title.bg.color: Solid Flat
 menu.title.text.color: #FFFFFF

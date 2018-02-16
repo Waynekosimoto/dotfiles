@@ -11289,3 +11289,344 @@ Feb 14 22:15 : client: [305] opened from 127.0.0.1:60592
 Feb 14 22:15 : client: [305] closed
 Feb 14 22:15 : client: [306] opened from 127.0.0.1:60596
 Feb 14 22:15 : client: [306] closed
+Feb 14 22:30 : client: [9] closed
+Feb 14 22:46 : exception: "Pulse_Output" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Feb 14 22:46 : client: [307] opened from 127.0.0.1:33090
+Feb 14 22:46 : client: [307] closed
+Feb 14 22:46 : client: [308] opened from 127.0.0.1:33092
+Feb 14 22:46 : client: [308] closed
+Feb 14 22:46 : client: [309] opened from 127.0.0.1:33094
+Feb 14 22:46 : client: [309] closed
+Feb 14 22:46 : client: [310] opened from 127.0.0.1:33096
+Feb 14 22:46 : client: [310] closed
+Feb 14 22:46 : client: [311] opened from 127.0.0.1:33128
+Feb 14 22:46 : client: [311] closed
+Feb 14 22:46 : client: [312] opened from 127.0.0.1:33130
+Feb 14 22:46 : client: [313] opened from 127.0.0.1:33140
+Feb 14 22:46 : client: [313] closed
+Feb 14 22:46 : client: [314] opened from 127.0.0.1:33148
+Feb 14 22:46 : client: [314] closed
+Feb 14 22:47 : client: [315] opened from 127.0.0.1:33220
+Feb 14 22:47 : client: [315] closed
+Feb 14 22:50 : client: [316] opened from 127.0.0.1:33292
+Feb 14 22:50 : client: [316] closed
+Feb 14 22:50 : client: [317] opened from 127.0.0.1:33296
+Feb 14 22:50 : client: [318] opened from 127.0.0.1:33300
+Feb 14 22:50 : client: [318] closed
+Feb 14 22:50 : client: [319] opened from 127.0.0.1:33304
+Feb 14 22:50 : client: [319] closed
+Feb 14 23:20 : client: [320] opened from 127.0.0.1:33548
+Feb 14 23:20 : client: [320] closed
+Feb 14 23:20 : client: [321] opened from 127.0.0.1:33552
+Feb 14 23:20 : client: [321] closed
+Feb 14 23:20 : client: [322] opened from 127.0.0.1:33556
+Feb 14 23:20 : client: [322] closed
+Feb 14 23:20 : client: [323] opened from 127.0.0.1:33560
+Feb 14 23:20 : client: [323] closed
+Feb 14 23:20 : client: [324] opened from 127.0.0.1:33564
+Feb 14 23:20 : client: [324] closed
+Feb 14 23:20 : client: [325] opened from 127.0.0.1:33568
+Feb 14 23:20 : client: [325] closed
+Feb 14 23:26 : client: [326] opened from 127.0.0.1:33604
+Feb 14 23:26 : client: [326] closed
+Feb 14 23:39 : player: played "Initial D Battle Stage/12 Destination Love.mp3"
+Feb 14 23:47 : client: [327] opened from 127.0.0.1:34192
+Feb 14 23:47 : client: [327] closed
+Feb 14 23:47 : client: [328] opened from 127.0.0.1:34196
+Feb 14 23:47 : client: [328] closed
+Feb 14 23:47 : client: [329] opened from 127.0.0.1:34200
+Feb 14 23:47 : client: [329] closed
+Feb 14 23:47 : client: [330] opened from 127.0.0.1:34204
+Feb 14 23:47 : client: [330] closed
+Feb 14 23:47 : client: [331] opened from 127.0.0.1:34208
+Feb 14 23:47 : client: [331] closed
+Feb 14 23:47 : client: [332] opened from 127.0.0.1:34212
+Feb 14 23:47 : client: [332] closed
+Feb 14 23:47 : client: [333] opened from 127.0.0.1:34216
+Feb 14 23:47 : client: [333] closed
+Feb 14 23:47 : client: [334] opened from 127.0.0.1:34220
+Feb 14 23:47 : client: [334] closed
+Feb 14 23:47 : client: [335] opened from 127.0.0.1:34224
+Feb 14 23:47 : client: [335] closed
+Feb 14 23:47 : client: [336] opened from 127.0.0.1:34228
+Feb 14 23:47 : client: [336] closed
+Feb 14 23:48 : client: [337] opened from 127.0.0.1:34232
+Feb 14 23:48 : client: [337] closed
+Feb 14 23:48 : client: [338] opened from 127.0.0.1:34236
+Feb 14 23:48 : client: [338] closed
+Feb 14 23:48 : client: [339] opened from 127.0.0.1:34240
+Feb 14 23:48 : client: [339] closed
+Feb 14 23:48 : client: [340] opened from 127.0.0.1:34244
+Feb 14 23:48 : client: [340] closed
+Feb 14 23:48 : player: played "Super Eurobeat Vol. 3 - Extended Version/06  My World  Sophie.mp3"
+Feb 14 23:49 : client: [341] opened from 127.0.0.1:34254
+Feb 14 23:49 : client: [341] closed
+Feb 14 23:49 : client: [342] opened from 127.0.0.1:34258
+Feb 14 23:49 : client: [342] closed
+Feb 14 23:56 : player: played "Super Eurobeat Vol. 97 - History of SEB from Vol. 61-70/08 Friday Night (Extended Mix).mp3"
+Feb 15 00:23 : client: [317] closed
+Feb 15 00:23 : client: [312] closed
+Feb 15 00:23 : avahi: Client Disconnected, will reconnect shortly
+Feb 15 00:23 : avahi: Could not reconnect: Daemon not running
+Feb 15 20:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 20:07 : client: [0] opened from 127.0.0.1:50388
+Feb 15 20:08 : client: [0] closed
+Feb 15 20:08 : client: [1] opened from 127.0.0.1:50452
+Feb 15 20:41 : client: [2] opened from 127.0.0.1:51038
+Feb 15 20:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 15 20:41 : client: [3] opened from 127.0.0.1:51066
+Feb 15 20:41 : client: [3] closed
+Feb 15 20:41 : client: [4] opened from 127.0.0.1:51070
+Feb 15 20:41 : client: [4] closed
+Feb 15 20:41 : client: [5] opened from 127.0.0.1:51130
+Feb 15 20:41 : client: [5] closed
+Feb 15 20:41 : client: [6] opened from 127.0.0.1:51134
+Feb 15 20:41 : client: [6] closed
+Feb 15 20:41 : client: [7] opened from 127.0.0.1:51158
+Feb 15 20:41 : client: [7] closed
+Feb 15 20:41 : client: [8] opened from 127.0.0.1:51162
+Feb 15 20:41 : client: [8] closed
+Feb 15 20:43 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/2-25 Music for the People.mp3"
+Feb 15 21:06 : client: [9] opened from 127.0.0.1:52138
+Feb 15 21:06 : client: [9] closed
+Feb 15 21:06 : client: [10] opened from 127.0.0.1:52142
+Feb 15 21:06 : client: [10] closed
+Feb 15 21:06 : client: [11] opened from 127.0.0.1:52146
+Feb 15 21:06 : client: [11] closed
+Feb 15 21:06 : client: [12] opened from 127.0.0.1:52148
+Feb 15 21:06 : client: [12] closed
+Feb 15 21:07 : client: [2] closed
+Feb 15 21:07 : client: [13] opened from 127.0.0.1:52152
+Feb 15 21:07 : client: [14] opened from 127.0.0.1:52156
+Feb 15 21:07 : client: [15] opened from 127.0.0.1:52160
+Feb 15 21:07 : client: [14] closed
+Feb 15 21:07 : client: [15] closed
+Feb 15 21:08 : client: [13] closed
+Feb 15 21:08 : client: [16] opened from 127.0.0.1:52172
+Feb 15 21:08 : client: [16] closed
+Feb 15 21:08 : update: added SEB Vol. 206 [2010]/14. Dave Rodgers - Music for the People (Rock Mix).mp3
+Feb 15 21:08 : update: added SEB Vol. 206 [2010]/05. Garcon - On the Top Again.mp3
+Feb 15 21:08 : client: [17] opened from 127.0.0.1:52176
+Feb 15 21:08 : client: [18] opened from 127.0.0.1:52180
+Feb 15 21:08 : client: [18] closed
+Feb 15 21:08 : client: [19] opened from 127.0.0.1:52184
+Feb 15 21:08 : client: [19] closed
+Feb 15 21:08 : client: [20] opened from 127.0.0.1:52188
+Feb 15 21:08 : client: [20] closed
+Feb 15 21:08 : client: [21] opened from 127.0.0.1:52192
+Feb 15 21:08 : client: [21] closed
+Feb 15 21:12 : client: [22] opened from 127.0.0.1:52290
+Feb 15 21:12 : client: [22] closed
+Feb 15 21:13 : client: [23] opened from 127.0.0.1:52294
+Feb 15 21:13 : client: [23] closed
+Feb 15 21:13 : update: added Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3
+Feb 15 21:14 : client: [17] closed
+Feb 15 21:14 : client: [24] opened from 127.0.0.1:52298
+Feb 15 21:14 : client: [25] opened from 127.0.0.1:52302
+Feb 15 21:14 : client: [25] closed
+Feb 15 21:14 : client: [26] opened from 127.0.0.1:52306
+Feb 15 21:14 : client: [26] closed
+Feb 15 21:14 : client: [27] opened from 127.0.0.1:52310
+Feb 15 21:14 : client: [27] closed
+Feb 15 21:14 : client: [28] opened from 127.0.0.1:52314
+Feb 15 21:14 : client: [28] closed
+Feb 15 21:18 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Feb 15 21:18 : client: [29] opened from 127.0.0.1:52326
+Feb 15 21:18 : client: [29] closed
+Feb 15 21:18 : client: [30] opened from 127.0.0.1:52330
+Feb 15 21:18 : client: [30] closed
+Feb 15 21:20 : client: [31] opened from 127.0.0.1:52344
+Feb 15 21:20 : client: [31] closed
+Feb 15 21:20 : client: [32] opened from 127.0.0.1:52348
+Feb 15 21:20 : client: [32] closed
+Feb 15 21:23 : client: [33] opened from 127.0.0.1:52388
+Feb 15 21:23 : client: [33] closed
+Feb 15 21:24 : client: [34] opened from 127.0.0.1:52390
+Feb 15 21:24 : client: [34] closed
+Feb 15 21:25 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Feb 15 21:25 : client: [35] opened from 127.0.0.1:52396
+Feb 15 21:25 : client: [35] closed
+Feb 15 21:25 : client: [36] opened from 127.0.0.1:52400
+Feb 15 21:25 : client: [36] closed
+Feb 15 21:25 : client: [37] opened from 127.0.0.1:52414
+Feb 15 21:25 : client: [37] closed
+Feb 15 21:26 : client: [38] opened from 127.0.0.1:52416
+Feb 15 21:26 : client: [38] closed
+Feb 15 21:29 : client: [1] closed
+Feb 15 21:29 : client: [39] opened from 127.0.0.1:52440
+Feb 15 21:29 : client: [39] closed
+Feb 15 21:29 : client: [40] opened from 127.0.0.1:52442
+Feb 15 21:29 : client: [40] closed
+Feb 15 21:29 : client: [41] opened from 127.0.0.1:52444
+Feb 15 21:29 : client: [41] closed
+Feb 15 21:29 : client: [42] opened from 127.0.0.1:52446
+Feb 15 21:30 : client: [42] closed
+Feb 15 21:30 : client: [43] opened from 127.0.0.1:52448
+Feb 15 21:30 : client: [43] closed
+Feb 15 21:30 : client: [44] opened from 127.0.0.1:52450
+Feb 15 21:30 : client: [44] closed
+Feb 15 21:30 : client: [45] opened from 127.0.0.1:52452
+Feb 15 21:30 : player: played "Super Eurobeat Vol. 158/07 Superlove Superaction.mp3"
+Feb 15 21:30 : client: [46] opened from 127.0.0.1:52458
+Feb 15 21:30 : client: [46] closed
+Feb 15 21:30 : client: [47] opened from 127.0.0.1:52462
+Feb 15 21:30 : client: [47] closed
+Feb 15 21:30 : client: [45] closed
+Feb 15 21:30 : client: [48] opened from 127.0.0.1:52464
+Feb 15 21:30 : client: [48] closed
+Feb 15 21:30 : client: [49] opened from 127.0.0.1:52466
+Feb 15 21:30 : client: [49] closed
+Feb 15 21:30 : client: [50] opened from 127.0.0.1:52468
+Feb 15 21:30 : client: [50] closed
+Feb 15 21:30 : client: [51] opened from 127.0.0.1:52470
+Feb 15 21:31 : client: [52] opened from 127.0.0.1:52474
+Feb 15 21:31 : client: [52] closed
+Feb 15 21:31 : client: [53] opened from 127.0.0.1:52478
+Feb 15 21:31 : client: [53] closed
+Feb 15 21:33 : client: [24] closed
+Feb 15 21:34 : client: [51] closed
+Feb 15 21:34 : client: [54] opened from 127.0.0.1:52494
+Feb 15 21:35 : client: [54] closed
+Feb 15 21:35 : client: [55] opened from 127.0.0.1:52496
+Feb 15 21:35 : client: [55] closed
+Feb 15 21:35 : client: [56] opened from 127.0.0.1:52498
+Feb 15 21:35 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Feb 15 21:35 : client: [56] closed
+Feb 15 21:35 : client: [57] opened from 127.0.0.1:52500
+Feb 15 21:37 : client: [57] closed
+Feb 15 21:37 : client: [58] opened from 127.0.0.1:52504
+Feb 15 21:38 : client: [58] closed
+Feb 15 21:38 : client: [59] opened from 127.0.0.1:52508
+Feb 15 21:38 : client: [59] closed
+Feb 15 21:38 : client: [60] opened from 127.0.0.1:52510
+Feb 15 21:38 : client: [60] closed
+Feb 15 21:38 : client: [61] opened from 127.0.0.1:52512
+Feb 15 21:39 : client: [61] closed
+Feb 15 21:39 : client: [62] opened from 127.0.0.1:52514
+Feb 15 21:39 : player: played "Super Eurobeat Vol. 158/07 Superlove Superaction.mp3"
+Feb 15 21:39 : client: [62] closed
+Feb 15 21:39 : client: [63] opened from 127.0.0.1:52516
+Feb 15 21:40 : client: [63] closed
+Feb 15 21:40 : client: [64] opened from 127.0.0.1:52518
+Feb 15 21:40 : client: [64] closed
+Feb 15 21:40 : client: [65] opened from 127.0.0.1:52520
+Feb 15 21:40 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/2-15 What is Love.mp3"
+Feb 15 21:41 : client: [65] closed
+Feb 15 21:41 : client: [66] opened from 127.0.0.1:52522
+Feb 15 21:41 : client: [66] closed
+Feb 15 21:41 : client: [67] opened from 127.0.0.1:52532
+Feb 15 21:42 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/2-25 Music for the People.mp3"
+Feb 15 21:42 : client: [67] closed
+Feb 15 21:42 : client: [68] opened from 127.0.0.1:52534
+Feb 15 21:43 : client: [68] closed
+Feb 15 21:43 : client: [69] opened from 127.0.0.1:52536
+Feb 15 21:43 : client: [69] closed
+Feb 15 21:43 : client: [70] opened from 127.0.0.1:52538
+Feb 15 21:43 : client: [70] closed
+Feb 15 21:43 : client: [71] opened from 127.0.0.1:52540
+Feb 15 21:43 : client: [71] closed
+Feb 15 21:43 : client: [72] opened from 127.0.0.1:52542
+Feb 15 21:44 : client: [72] closed
+Feb 15 21:44 : client: [73] opened from 127.0.0.1:52544
+Feb 15 21:44 : client: [74] opened from 127.0.0.1:52546
+Feb 15 21:44 : client: [74] closed
+Feb 15 21:44 : client: [75] opened from 127.0.0.1:52548
+Feb 15 21:44 : client: [75] closed
+Feb 15 21:44 : client: [73] closed
+Feb 15 21:44 : client: [76] opened from 127.0.0.1:52550
+Feb 15 21:45 : client: [76] closed
+Feb 15 21:45 : client: [77] opened from 127.0.0.1:52592
+Feb 15 21:47 : client: [78] opened from 127.0.0.1:52620
+Feb 15 21:47 : client: [79] opened from 127.0.0.1:52624
+Feb 15 21:47 : client: [79] closed
+Feb 15 21:47 : client: [80] opened from 127.0.0.1:52628
+Feb 15 21:47 : client: [80] closed
+Feb 15 21:48 : client: [81] opened from 127.0.0.1:52632
+Feb 15 21:48 : client: [81] closed
+Feb 15 21:48 : client: [82] opened from 127.0.0.1:52636
+Feb 15 21:48 : client: [82] closed
+Feb 15 21:48 : client: [83] opened from 127.0.0.1:52638
+Feb 15 21:48 : client: [83] closed
+Feb 15 21:48 : client: [84] opened from 127.0.0.1:52642
+Feb 15 21:48 : client: [84] closed
+Feb 15 21:48 : client: [85] opened from 127.0.0.1:52646
+Feb 15 21:48 : client: [85] closed
+Feb 15 21:48 : client: [78] closed
+Feb 15 21:49 : client: [77] closed
+Feb 15 21:49 : client: [86] opened from 127.0.0.1:52648
+Feb 15 21:49 : client: [86] closed
+Feb 15 21:49 : client: [87] opened from 127.0.0.1:52650
+Feb 15 21:49 : client: [87] closed
+Feb 15 21:49 : client: [88] opened from 127.0.0.1:52652
+Feb 15 21:49 : client: [88] closed
+Feb 15 21:49 : client: [89] opened from 127.0.0.1:52654
+Feb 15 21:49 : client: [89] closed
+Feb 15 21:49 : client: [90] opened from 127.0.0.1:52656
+Feb 15 21:49 : client: [90] closed
+Feb 15 21:49 : client: [91] opened from 127.0.0.1:52658
+Feb 15 21:49 : client: [91] closed
+Feb 15 21:49 : client: [92] opened from 127.0.0.1:52660
+Feb 15 21:52 : client: [93] opened from 127.0.0.1:52704
+Feb 15 21:52 : client: [94] opened from 127.0.0.1:52708
+Feb 15 21:52 : client: [94] closed
+Feb 15 21:52 : client: [95] opened from 127.0.0.1:52712
+Feb 15 21:52 : client: [95] closed
+Feb 15 21:52 : player: played "Super Eurobeat Vol. 162/14 Memories & Feelings.mp3"
+Feb 15 21:52 : client: [96] opened from 127.0.0.1:52720
+Feb 15 21:52 : client: [96] closed
+Feb 15 21:52 : client: [97] opened from 127.0.0.1:52724
+Feb 15 21:52 : client: [97] closed
+Feb 15 21:56 : player: played "Super Eurobeat Vol. 162/05 Line on Fire.mp3"
+Feb 15 21:56 : client: [98] opened from 127.0.0.1:52754
+Feb 15 21:56 : client: [98] closed
+Feb 15 21:56 : client: [99] opened from 127.0.0.1:52758
+Feb 15 21:56 : client: [99] closed
+Feb 15 22:00 : player: played "Super Eurobeat Vol. 168/08 Stop Teasing My Heart.mp3"
+Feb 15 22:00 : client: [100] opened from 127.0.0.1:52770
+Feb 15 22:00 : client: [100] closed
+Feb 15 22:00 : client: [101] opened from 127.0.0.1:52774
+Feb 15 22:00 : client: [101] closed
+Feb 15 22:05 : player: played "Super Eurobeat Vol. 168/14 Hurricane.mp3"
+Feb 15 22:05 : client: [102] opened from 127.0.0.1:52806
+Feb 15 22:05 : client: [102] closed
+Feb 15 22:05 : client: [103] opened from 127.0.0.1:52810
+Feb 15 22:05 : client: [103] closed
+Feb 15 22:09 : player: played "Super Eurobeat Vol. 232 - Extended Version/09 Invisible Rocket.mp3"
+Feb 15 22:09 : client: [104] opened from 127.0.0.1:52872
+Feb 15 22:09 : client: [104] closed
+Feb 15 22:09 : client: [105] opened from 127.0.0.1:52876
+Feb 15 22:09 : client: [105] closed
+Feb 15 22:13 : player: played "Super Eurobeat Vol. 232 - Extended Version/05 I Know.mp3"
+Feb 15 22:13 : client: [106] opened from 127.0.0.1:52900
+Feb 15 22:13 : client: [106] closed
+Feb 15 22:13 : client: [107] opened from 127.0.0.1:52904
+Feb 15 22:13 : client: [107] closed
+Feb 15 22:17 : player: played "Super Eurobeat Vol. 236 - Extended Version/05 Fly with Me Tonight.mp3"
+Feb 15 22:17 : client: [108] opened from 127.0.0.1:53006
+Feb 15 22:17 : client: [108] closed
+Feb 15 22:17 : client: [109] opened from 127.0.0.1:53010
+Feb 15 22:17 : client: [109] closed
+Feb 15 22:22 : player: played "Super Eurobeat Vol. 236 - Extended Version/01 Games We Play.mp3"
+Feb 15 22:22 : client: [110] opened from 127.0.0.1:53058
+Feb 15 22:22 : client: [110] closed
+Feb 15 22:22 : client: [111] opened from 127.0.0.1:53062
+Feb 15 22:22 : client: [111] closed
+Feb 15 22:26 : player: played "Super Eurobeat Vol. 158/07 Superlove Superaction.mp3"
+Feb 15 22:26 : client: [112] opened from 127.0.0.1:53116
+Feb 15 22:26 : client: [112] closed
+Feb 15 22:26 : client: [113] opened from 127.0.0.1:53120
+Feb 15 22:26 : client: [113] closed
+Feb 15 22:26 : client: [92] closed
+Feb 15 22:26 : client: [114] opened from 127.0.0.1:53122
+Feb 15 22:26 : client: [114] closed
+Feb 15 22:26 : client: [115] opened from 127.0.0.1:53124
+Feb 15 22:26 : client: [115] closed
+Feb 15 22:26 : client: [116] opened from 127.0.0.1:53126
+Feb 15 22:26 : client: [116] closed
+Feb 15 22:26 : client: [117] opened from 127.0.0.1:53128
+Feb 15 22:26 : client: [117] closed
+Feb 15 22:26 : client: [118] opened from 127.0.0.1:53130
+Feb 15 22:27 : client: [118] closed
+Feb 15 22:27 : client: [119] opened from 127.0.0.1:53132
+Feb 15 22:27 : client: [119] closed
+Feb 15 22:27 : client: [120] opened from 127.0.0.1:53134

@@ -267,3 +267,10 @@
 2018-02-14 19:43:00		  jump to last buffer number:
 2018-02-14 19:43:00		    /buffer +
 2018-02-14 19:43:13		fifo: pipe closed
+2018-02-15 21:52:21		script: downloading list of scripts...
+2018-02-15 21:52:21		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, xfer
+2018-02-15 21:52:22		script: 351 scripts for WeeChat 2.0.1
+2018-02-15 21:54:22		fifo: pipe closed
+2018-02-15 22:15:00		script: 351 scripts for WeeChat 2.0.1
+2018-02-15 22:15:00		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, xfer
+2018-02-15 22:15:05	 !!! 	irc: command "join" must be executed on irc buffer (server or channel)
