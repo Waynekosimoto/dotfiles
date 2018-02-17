@@ -14,9 +14,9 @@ rounded = 0
 border_width = 0
 background_color = #COLOR0 100
 border_color = #ffffff 100
-background_color_hover = #202020 100
+background_color_hover = #COLOR2 100
 border_color_hover = #ffffff 100
-background_color_pressed = #202020 100
+background_color_pressed = #COLOR2 100
 border_color_pressed = #ffffff 100
 
 # Background 2: Active desktop name, Active task, Clock, Launcher icon, Urgent task
@@ -25,9 +25,9 @@ border_width = 0
 border_sides = TBLR
 background_color = #COLORACT 100
 border_color = #224f55 0
-background_color_hover = #46919c 100
+background_color_hover = #COLOR2 100
 border_color_hover = #224f55 0
-background_color_pressed = #46919c 100
+background_color_pressed = #COLOR2 100
 border_color_pressed = #224f55 0
 
 # Background 3: Battery, Default task, Iconified task, Inactive desktop name, Launcher, Systray, Tooltip
@@ -36,9 +36,9 @@ border_width = 0
 border_sides = TBLR
 background_color = #COLOR0 100
 border_color = #ffffff 100
-background_color_hover = #46919c 32
+background_color_hover = #COLOR2 32
 border_color_hover = #ffffff 100
-background_color_pressed = #46919c 32
+background_color_pressed = #COLOR2 32
 border_color_pressed = #ffffff 100
 
 #-------------------------------------

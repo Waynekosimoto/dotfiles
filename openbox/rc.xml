@@ -41,7 +41,7 @@
   </placement>
   <theme>
     <name>colorbamboo</name>
-    <titleLayout/>
+    <titleLayout>L</titleLayout>
     <!--
       avaible characters are NDSLIMC, each can occur at most once.
       N: window icon
@@ -156,7 +156,7 @@
        cases. -->
   <margins>
     <top>10</top>
-    <bottom>70</bottom>
+    <bottom>60</bottom>
     <left>10</left>
     <right>10</right>
   </margins>

@@ -3,7 +3,7 @@
 #OR THINGS WITH COLORIN as this are the colors that my program searchs and replaces
 #everything else is editable, please edit themerc.base instead of themerc
 
-border.width: 8
+border.width: 4
 menu.border.color: #COLOR0
 menu.border.width: 8
 menu.items.active.bg: #COLOR0
@@ -36,7 +36,7 @@ osd.label.text.color: #f0f0f0
 padding.height: 0
 padding.width: 8
 window.active.border.color: #COLORACT
-window.inactive.border.color: #COLORIN
+window.inactive.border.color: #COLOR0
 window.active.button.disabled.bg: Solid Flat
 window.active.button.disabled.bg.color: #COLORACT
 window.active.button.disabled.bg.border.color: #COLORACT

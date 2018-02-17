@@ -274,3 +274,4 @@
 2018-02-15 22:15:00		script: 351 scripts for WeeChat 2.0.1
 2018-02-15 22:15:00		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, relay, script, trigger, xfer
 2018-02-15 22:15:05	 !!! 	irc: command "join" must be executed on irc buffer (server or channel)
+2018-02-15 23:46:41		fifo: pipe closed

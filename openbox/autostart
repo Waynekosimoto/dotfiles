@@ -7,12 +7,15 @@ nm-applet &
 ## Start Clipboard manager
 (sleep 3s && clipit) &
 
-## Polybar just in case
+## Bar just in case
 polybar wpgtk &
 polybar music & 
 polybar window &
+tint2 &
+
 ## mpd
 mpd &
+
 
 ## Notifications
 dunst &
