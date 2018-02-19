@@ -9,12 +9,12 @@
 ;	          \/_/                    \/__/                        
 
 [colors]
-background = #1b1619
-background-alt = #708e8a
+background = #150e14
+background-alt = #a39e9b
 foreground = #efefef
 foreground-alt = #ffffff
-active = #a05f52
-inactive = #6e4138
+active = #ae3f3f
+inactive = #772b2b
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 

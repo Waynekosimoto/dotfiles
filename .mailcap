@@ -14,7 +14,7 @@
 # - The first entry with a matching MIME type will be executed, * is a wildcard
 # - %s will be replaced with the image or video url
 # - Add ``test=test -n "$DISPLAY"`` if your command opens a new window
-# - Add ``needstermial`` for commands that use the terminal
+# - Add ``needsterminal`` for commands that use the terminal
 # - Add ``copiousoutput`` for commands that dump text to stdout
 
 ###############################################################################
@@ -26,21 +26,25 @@
 # Note that rtv returns a list of urls for imgur albums, so we don't put quotes
 # around the `%s`
 image/x-imgur-album; feh -g 640x480 %s; test=test -n "$DISPLAY"
+image/gif; mpv '%s' --autofit 640x480 --loop=inf; test=test -n "$DISPLAY"
 image/*; feh -g 640x480 '%s'; test=test -n "$DISPLAY"
 
 # Youtube videos are assigned a custom mime-type, which can be streamed with
 # vlc or youtube-dl.
-video/x-youtube; youtube-dl -q -o - '%s' | mpv --autofit 640x480; test=test -n "$DISPLAY"
-video/x-youtube; youtube-dl -q -o - '%s' | mpv - --autofit 640x480; test=test -n "$DISPLAY"
+video/x-youtube; vlc '%s' --width 640 --height 480; test=test -n "$DISPLAY"
+video/x-youtube; mpv --ytdl-format=best '%s' --autofit 640x480; test=test -n "$DISPLAY"
 
 # Mpv is a simple and effective video streamer
-video/webm; mpv '%s' --no-border --autofit 640x480 --loop=inf; test=test -n "$DISPLAY"
-video/*; mpv '%s' --no-border  --autofit 640x480 --loop=inf; test=test -n "$DISPLAY"
+video/*; mpv '%s' --autofit 640x480 --loop=inf; test=test -n "$DISPLAY"
 
 ###############################################################################
 # Commands below this point will attempt to display media directly in the
 # terminal when X is not available.
 ###############################################################################
+
+# View images directly in your terminal with iTerm2
+# curl -L https://iterm2.com/misc/install_shell_integration_and_utilities.sh | bash
+# image/*; curl -s %s | ~/.iterm2/imgcat && read -n 1; needsterminal
 
 # View true images in the terminal, supported by rxvt-unicode, xterm and st
 # Requires the w3m-img package
@@ -57,8 +61,10 @@ image/*; curl -s '%s' | convert -resize 80x80 - jpg:/tmp/rtv.jpg && img2xterm /t
 # Display images in classic ascii using img2txt and lib-caca
 image/*; curl -s '%s' | convert - jpg:/tmp/rtv.jpg && img2txt -f utf8 /tmp/rtv.jpg; needsterminal; copiousoutput
 
-# Ascii videos
-video/x-youtube; youtube-dl -q -o - '%s' | mplayer -cache 8192 -vo caca -quiet -; needsterminal
-video/*; wget '%s' -O - | mplayer -cache 8192 -vo caca -quiet -; needsterminal
+# Full motion videos - requires a framebuffer to view
+video/x-youtube; mpv -vo drm -quiet '%s'; needsterminal
+video/*; mpv -vo drm -quiet '%s'; needsterminal
 
-$RTV_EDITOR nvim
+# Ascii videos
+# video/x-youtube; youtube-dl -q -o - '%s' | mplayer -cache 8192 -vo caca -quiet -; needsterminal
+# video/*; wget '%s' -O - | mplayer -cache 8192 -vo caca -quiet -; needsterminal

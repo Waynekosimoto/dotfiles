@@ -1,2 +1,2 @@
 #!/bin/bash
-wpg -rs jo-san-frankenpunk15.jpg jo-san-frankenpunk15.jpg
+wpg -rs 1518902452975.png 1518902452975.png

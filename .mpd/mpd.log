@@ -11880,3 +11880,414 @@ Feb 16 20:57 : client: [59] closed
 Feb 16 20:57 : player: played "Super Eurobeat Vol. 234 - Extended Version/11 Girl in the Night.mp3"
 Feb 16 20:58 : client: [60] opened from 127.0.0.1:46194
 Feb 16 20:58 : client: [60] closed
+Feb 16 21:53 : client: [61] opened from 127.0.0.1:46952
+Feb 16 21:53 : client: [62] opened from 127.0.0.1:46956
+Feb 16 21:53 : client: [62] closed
+Feb 16 21:53 : client: [63] opened from 127.0.0.1:46960
+Feb 16 21:53 : client: [63] closed
+Feb 16 23:21 : client: [64] opened from 127.0.0.1:47846
+Feb 16 23:21 : client: [64] closed
+Feb 16 23:21 : client: [56] closed
+Feb 16 23:21 : client: [65] opened from 127.0.0.1:47848
+Feb 16 23:22 : client: [65] closed
+Feb 16 23:22 : client: [66] opened from 127.0.0.1:47850
+Feb 16 23:22 : client: [66] closed
+Feb 16 23:22 : client: [67] opened from 127.0.0.1:47852
+Feb 16 23:23 : client: [67] closed
+Feb 16 23:23 : client: [68] opened from 127.0.0.1:47854
+Feb 16 23:23 : client: [68] closed
+Feb 16 23:23 : client: [69] opened from 127.0.0.1:47856
+Feb 16 23:23 : client: [69] closed
+Feb 16 23:23 : client: [70] opened from 127.0.0.1:47858
+Feb 16 23:23 : client: [70] closed
+Feb 16 23:23 : client: [71] opened from 127.0.0.1:47860
+Feb 16 23:25 : client: [71] closed
+Feb 16 23:25 : client: [72] opened from 127.0.0.1:47862
+Feb 16 23:25 : client: [72] closed
+Feb 16 23:25 : client: [73] opened from 127.0.0.1:47864
+Feb 16 23:25 : client: [73] closed
+Feb 16 23:25 : exception: "Pulse_Output" [pulse] failed to play: disconnected
+Feb 16 23:25 : player: played "Super Eurobeat Vol. 234 - Extended Version/13 Way up Across the Sky.mp3"
+Feb 16 23:25 : avahi: Client Disconnected, will reconnect shortly
+Feb 16 23:25 : avahi: Could not reconnect: Daemon not running
+Feb 17 12:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+No protocol specified
+xcb_connection_has_error() returned true
+No protocol specified
+Feb 17 12:44 : client: [0] opened from 127.0.0.1:54682
+Feb 17 14:05 : client: [0] closed
+Feb 17 14:05 : client: [1] opened from 127.0.0.1:55192
+Feb 17 18:52 : client: [2] opened from 127.0.0.1:60474
+Feb 17 18:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 17 18:52 : client: [3] opened from 127.0.0.1:60478
+Feb 17 18:52 : client: [3] closed
+Feb 17 18:52 : client: [4] opened from 127.0.0.1:60482
+Feb 17 18:52 : client: [4] closed
+Feb 17 18:58 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 19:02 : client: [5] opened from 127.0.0.1:60550
+Feb 17 19:02 : client: [5] closed
+Feb 17 19:02 : client: [6] opened from 127.0.0.1:60554
+Feb 17 19:02 : client: [6] closed
+Feb 17 19:02 : client: [7] opened from 127.0.0.1:60558
+Feb 17 19:02 : client: [7] closed
+Feb 17 19:08 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 20:02 : client: [8] opened from 127.0.0.1:32888
+Feb 17 20:02 : client: [8] closed
+Feb 17 20:02 : client: [9] opened from 127.0.0.1:32892
+Feb 17 20:02 : client: [9] closed
+Feb 17 20:02 : client: [10] opened from 127.0.0.1:32896
+Feb 17 20:02 : client: [10] closed
+Feb 17 20:07 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 20:08 : client: [11] opened from 127.0.0.1:32998
+Feb 17 20:08 : client: [11] closed
+Feb 17 20:08 : client: [12] opened from 127.0.0.1:33002
+Feb 17 20:08 : client: [12] closed
+Feb 17 20:08 : client: [13] opened from 127.0.0.1:33006
+Feb 17 20:08 : client: [13] closed
+Feb 17 20:13 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 20:13 : client: [14] opened from 127.0.0.1:33144
+Feb 17 20:13 : client: [14] closed
+Feb 17 20:13 : client: [15] opened from 127.0.0.1:33148
+Feb 17 20:13 : client: [15] closed
+Feb 17 20:13 : client: [16] opened from 127.0.0.1:33152
+Feb 17 20:13 : client: [16] closed
+Feb 17 20:18 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 20:19 : client: [17] opened from 127.0.0.1:33330
+Feb 17 20:19 : client: [17] closed
+Feb 17 20:19 : client: [18] opened from 127.0.0.1:33334
+Feb 17 20:19 : client: [18] closed
+Feb 17 20:19 : client: [19] opened from 127.0.0.1:33338
+Feb 17 20:19 : client: [19] closed
+Feb 17 20:25 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 20:26 : client: [20] opened from 127.0.0.1:33416
+Feb 17 20:26 : client: [20] closed
+Feb 17 20:26 : client: [21] opened from 127.0.0.1:33420
+Feb 17 20:26 : client: [21] closed
+Feb 17 20:26 : client: [22] opened from 127.0.0.1:33424
+Feb 17 20:26 : client: [22] closed
+Feb 17 20:31 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 20:32 : client: [23] opened from 127.0.0.1:33598
+Feb 17 20:32 : client: [23] closed
+Feb 17 20:32 : client: [24] opened from 127.0.0.1:33602
+Feb 17 20:32 : client: [24] closed
+Feb 17 20:32 : client: [25] opened from 127.0.0.1:33606
+Feb 17 20:32 : client: [25] closed
+Feb 17 20:32 : client: [26] opened from 127.0.0.1:33610
+Feb 17 20:32 : client: [26] closed
+Feb 17 20:32 : client: [27] opened from 127.0.0.1:33614
+Feb 17 20:32 : client: [27] closed
+Feb 17 20:32 : client: [28] opened from 127.0.0.1:33618
+Feb 17 20:32 : client: [28] closed
+Feb 17 20:32 : client: [29] opened from 127.0.0.1:33622
+Feb 17 20:32 : client: [29] closed
+Feb 17 20:32 : client: [30] opened from 127.0.0.1:33626
+Feb 17 20:32 : client: [30] closed
+Feb 17 20:32 : client: [31] opened from 127.0.0.1:33630
+Feb 17 20:32 : client: [31] closed
+Feb 17 20:32 : client: [32] opened from 127.0.0.1:33634
+Feb 17 20:32 : client: [32] closed
+Feb 17 20:32 : client: [33] opened from 127.0.0.1:33640
+Feb 17 20:32 : client: [33] closed
+Feb 17 20:32 : client: [34] opened from 127.0.0.1:33644
+Feb 17 20:32 : client: [34] closed
+Feb 17 20:32 : client: [35] opened from 127.0.0.1:33650
+Feb 17 20:32 : client: [35] closed
+Feb 17 20:32 : client: [36] opened from 127.0.0.1:33654
+Feb 17 20:32 : client: [36] closed
+Feb 17 20:32 : client: [37] opened from 127.0.0.1:33658
+Feb 17 20:32 : client: [37] closed
+Feb 17 20:32 : client: [38] opened from 127.0.0.1:33662
+Feb 17 20:32 : client: [38] closed
+Feb 17 20:32 : client: [39] opened from 127.0.0.1:33666
+Feb 17 20:32 : client: [39] closed
+Feb 17 20:32 : client: [40] opened from 127.0.0.1:33670
+Feb 17 20:32 : client: [40] closed
+Feb 17 20:37 : player: played "Initial D ~D Selection 1~/05  Spark In The Dark  Man Power.mp3"
+Feb 17 20:38 : client: [41] opened from 127.0.0.1:33922
+Feb 17 20:38 : client: [41] closed
+Feb 17 20:38 : client: [42] opened from 127.0.0.1:33926
+Feb 17 20:38 : client: [42] closed
+Feb 17 20:42 : player: played "Initial D The Movie of Super Eurobeat/05  Fly to Me to the Moon & Back  The Spiders from Mars.mp3"
+Feb 17 21:02 : client: [43] opened from 127.0.0.1:34300
+Feb 17 21:02 : client: [43] closed
+Feb 17 21:02 : client: [44] opened from 127.0.0.1:34304
+Feb 17 21:02 : client: [44] closed
+Feb 17 21:02 : client: [45] opened from 127.0.0.1:34308
+Feb 17 21:02 : client: [45] closed
+Feb 17 21:03 : client: [46] opened from 127.0.0.1:34372
+Feb 17 21:03 : client: [46] closed
+Feb 17 21:11 : client: [47] opened from 127.0.0.1:34646
+Feb 17 21:11 : client: [47] closed
+Feb 17 21:16 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 21:16 : client: [48] opened from 127.0.0.1:34718
+Feb 17 21:16 : client: [48] closed
+Feb 17 21:16 : client: [49] opened from 127.0.0.1:34722
+Feb 17 21:16 : client: [49] closed
+Feb 17 21:20 : player: played "Initial D Second Stage ~D Selection 1~/02  100  Dave Rodgers.mp3"
+Feb 17 21:20 : client: [50] opened from 127.0.0.1:34750
+Feb 17 21:20 : client: [50] closed
+Feb 17 21:20 : client: [51] opened from 127.0.0.1:34754
+Feb 17 21:20 : client: [51] closed
+Feb 17 21:27 : player: played "Initial D Second Stage ~D Selection 1~/03  Mikado  Dave MC Loud.mp3"
+Feb 17 21:27 : client: [52] opened from 127.0.0.1:34852
+Feb 17 21:27 : client: [52] closed
+Feb 17 21:27 : client: [53] opened from 127.0.0.1:34856
+Feb 17 21:27 : client: [53] closed
+Feb 17 21:31 : player: played "Initial D Second Stage ~D Selection 1~/06  Take My Soul  Mickey B..mp3"
+Feb 17 21:31 : client: [54] opened from 127.0.0.1:34894
+Feb 17 21:31 : client: [54] closed
+Feb 17 21:31 : client: [55] opened from 127.0.0.1:34898
+Feb 17 21:31 : client: [55] closed
+Feb 17 21:36 : player: played "Initial D ~D Selection 2~/01  Killing My Love  Leslie Parrish.mp3"
+Feb 17 21:36 : client: [56] opened from 127.0.0.1:35056
+Feb 17 21:36 : client: [56] closed
+Feb 17 21:36 : client: [57] opened from 127.0.0.1:35060
+Feb 17 21:36 : client: [57] closed
+Feb 17 21:38 : client: [58] opened from 127.0.0.1:35154
+Feb 17 21:38 : client: [58] closed
+Feb 17 21:39 : client: [1] closed
+Feb 17 21:39 : client: [59] opened from 127.0.0.1:35178
+Feb 17 21:39 : client: [59] closed
+Feb 17 21:39 : client: [60] opened from 127.0.0.1:35180
+Feb 17 21:40 : client: [60] closed
+Feb 17 21:40 : client: [61] opened from 127.0.0.1:35182
+Feb 17 21:41 : client: [61] closed
+Feb 17 21:41 : client: [62] opened from 127.0.0.1:35186
+Feb 17 21:41 : client: [62] closed
+Feb 17 21:41 : client: [63] opened from 127.0.0.1:35188
+Feb 17 21:45 : client: [63] closed
+Feb 17 21:45 : client: [64] opened from 127.0.0.1:35238
+Feb 17 22:14 : client: [65] opened from 127.0.0.1:35862
+Feb 17 22:14 : client: [65] closed
+Feb 17 22:14 : client: [66] opened from 127.0.0.1:35868
+Feb 17 22:14 : client: [66] closed
+Feb 17 22:14 : client: [67] opened from 127.0.0.1:35872
+Feb 17 22:14 : client: [67] closed
+Feb 17 22:14 : client: [68] opened from 127.0.0.1:35876
+Feb 17 22:14 : client: [68] closed
+Feb 17 22:14 : client: [69] opened from 127.0.0.1:35880
+Feb 17 22:14 : client: [69] closed
+Feb 17 22:14 : client: [70] opened from 127.0.0.1:35884
+Feb 17 22:14 : client: [70] closed
+Feb 17 22:14 : client: [71] opened from 127.0.0.1:35888
+Feb 17 22:14 : client: [71] closed
+Feb 17 22:18 : player: played "Initial D The Movie of Super Eurobeat/05  Fly to Me to the Moon & Back  The Spiders from Mars.mp3"
+Feb 17 22:21 : client: [72] opened from 127.0.0.1:36102
+Feb 17 22:21 : client: [72] closed
+Feb 17 22:21 : client: [73] opened from 127.0.0.1:36106
+Feb 17 22:21 : client: [73] closed
+Feb 17 22:21 : client: [74] opened from 127.0.0.1:36110
+Feb 17 22:21 : client: [74] closed
+Feb 17 22:26 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Feb 17 22:27 : client: [75] opened from 127.0.0.1:36188
+Feb 17 22:27 : client: [75] closed
+Feb 17 22:27 : client: [76] opened from 127.0.0.1:36192
+Feb 17 22:27 : client: [76] closed
+Feb 17 22:30 : player: played "Initial D Second Stage ~D Selection 1~/02  100  Dave Rodgers.mp3"
+Feb 17 22:30 : client: [77] opened from 127.0.0.1:36206
+Feb 17 22:30 : client: [77] closed
+Feb 17 22:30 : client: [78] opened from 127.0.0.1:36210
+Feb 17 22:30 : client: [78] closed
+Feb 17 22:37 : player: played "Initial D Second Stage ~D Selection 1~/03  Mikado  Dave MC Loud.mp3"
+Feb 17 22:37 : client: [79] opened from 127.0.0.1:36246
+Feb 17 22:37 : client: [79] closed
+Feb 17 22:37 : client: [80] opened from 127.0.0.1:36250
+Feb 17 22:37 : client: [80] closed
+Feb 17 22:41 : player: played "Initial D Second Stage ~D Selection 1~/06  Take My Soul  Mickey B..mp3"
+Feb 17 22:41 : client: [81] opened from 127.0.0.1:36270
+Feb 17 22:41 : client: [81] closed
+Feb 17 22:41 : client: [82] opened from 127.0.0.1:36274
+Feb 17 22:41 : client: [82] closed
+Feb 17 22:46 : player: played "Initial D ~D Selection 2~/01  Killing My Love  Leslie Parrish.mp3"
+Feb 17 22:46 : client: [83] opened from 127.0.0.1:36292
+Feb 17 22:46 : client: [83] closed
+Feb 17 22:46 : client: [84] opened from 127.0.0.1:36296
+Feb 17 22:46 : client: [84] closed
+Feb 17 22:51 : player: played "Initial D ~D Selection 2~/09  I Need Your Love  Dave Simon.mp3"
+Feb 17 22:51 : client: [85] opened from 127.0.0.1:36322
+Feb 17 22:51 : client: [85] closed
+Feb 17 22:51 : client: [86] opened from 127.0.0.1:36326
+Feb 17 22:51 : client: [86] closed
+Feb 17 22:56 : player: played "Initial D ~D Selection 3~/01  Night Of Fire  Niko.mp3"
+Feb 17 22:56 : client: [87] opened from 127.0.0.1:36394
+Feb 17 22:56 : client: [87] closed
+Feb 17 22:56 : client: [88] opened from 127.0.0.1:36398
+Feb 17 22:56 : client: [88] closed
+Feb 17 23:17 : client: [89] opened from 127.0.0.1:36484
+Feb 17 23:17 : client: [89] closed
+Feb 17 23:22 : player: played "Initial D ~D Selection 3~/04  Boom Boom Japan  Dave Rodgers.mp3"
+Feb 17 23:22 : client: [90] opened from 127.0.0.1:36506
+Feb 17 23:22 : client: [90] closed
+Feb 17 23:22 : client: [91] opened from 127.0.0.1:36510
+Feb 17 23:22 : client: [91] closed
+Feb 17 23:27 : player: played "Initial D ~D Selection 3~/03  One Night In Arabia  Go Go Girls.mp3"
+Feb 17 23:27 : client: [92] opened from 127.0.0.1:36532
+Feb 17 23:27 : client: [92] closed
+Feb 17 23:27 : client: [93] opened from 127.0.0.1:36536
+Feb 17 23:27 : client: [93] closed
+Feb 17 23:31 : player: played "Initial D ~D Selection 1~/05  Spark In The Dark  Man Power.mp3"
+Feb 17 23:31 : client: [94] opened from 127.0.0.1:36578
+Feb 17 23:31 : client: [94] closed
+Feb 17 23:31 : client: [95] opened from 127.0.0.1:36582
+Feb 17 23:31 : client: [95] closed
+Feb 17 23:35 : player: played "Initial D The Movie of Super Eurobeat/05  Fly to Me to the Moon & Back  The Spiders from Mars.mp3"
+Feb 17 23:40 : client: [96] opened from 127.0.0.1:36610
+Feb 17 23:40 : client: [96] closed
+Feb 17 23:40 : client: [97] opened from 127.0.0.1:36614
+Feb 17 23:40 : client: [97] closed
+Feb 17 23:40 : client: [98] opened from 127.0.0.1:36618
+Feb 17 23:40 : client: [98] closed
+Feb 17 23:40 : client: [99] opened from 127.0.0.1:36620
+Feb 17 23:40 : client: [99] closed
+Feb 17 23:40 : client: [100] opened from 127.0.0.1:36624
+Feb 17 23:40 : client: [100] closed
+Feb 17 23:40 : client: [101] opened from 127.0.0.1:36628
+Feb 17 23:40 : client: [101] closed
+Feb 17 23:40 : client: [102] opened from 127.0.0.1:36630
+Feb 17 23:40 : client: [102] closed
+Feb 17 23:40 : client: [103] opened from 127.0.0.1:36634
+Feb 17 23:40 : client: [103] closed
+Feb 17 23:40 : client: [104] opened from 127.0.0.1:36638
+Feb 17 23:40 : client: [104] closed
+Feb 17 23:40 : client: [105] opened from 127.0.0.1:36640
+Feb 17 23:40 : client: [105] closed
+Feb 17 23:40 : client: [106] opened from 127.0.0.1:36644
+Feb 17 23:40 : client: [106] closed
+Feb 17 23:40 : client: [107] opened from 127.0.0.1:36648
+Feb 17 23:40 : client: [107] closed
+Feb 17 23:40 : client: [108] opened from 127.0.0.1:36650
+Feb 17 23:40 : client: [108] closed
+Feb 17 23:40 : client: [109] opened from 127.0.0.1:36652
+Feb 17 23:40 : client: [109] closed
+Feb 17 23:40 : client: [110] opened from 127.0.0.1:36654
+Feb 17 23:40 : client: [110] closed
+Feb 17 23:40 : client: [111] opened from 127.0.0.1:36658
+Feb 17 23:40 : client: [111] closed
+Feb 17 23:40 : client: [112] opened from 127.0.0.1:36662
+Feb 17 23:40 : client: [112] closed
+Feb 17 23:40 : client: [113] opened from 127.0.0.1:36666
+Feb 17 23:40 : client: [113] closed
+Feb 17 23:40 : client: [114] opened from 127.0.0.1:36670
+Feb 17 23:40 : client: [114] closed
+Feb 17 23:40 : client: [115] opened from 127.0.0.1:36674
+Feb 17 23:40 : client: [115] closed
+Feb 17 23:40 : client: [116] opened from 127.0.0.1:36678
+Feb 17 23:40 : client: [116] closed
+Feb 17 23:43 : client: [64] closed
+Feb 17 23:43 : client: [2] closed
+Feb 17 23:43 : exception: "Pulse_Output" [pulse] failed to play: disconnected
+Feb 17 23:45 : player: played "Initial D ~D Selection 3~/01  Night Of Fire  Niko.mp3"
+xcb_connection_has_error() returned true
+Feb 17 23:46 : avahi: Client Disconnected, will reconnect shortly
+Feb 17 23:46 : avahi: Could not reconnect: Daemon not running
+Feb 17 23:46 : exception: "Pulse_Output" [pulse] failed to play: disconnected
+Feb 17 23:46 : player: played "Initial D ~D Selection 3~/04  Boom Boom Japan  Dave Rodgers.mp3"
+Feb 18 18:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 18 18:08 : client: [0] opened from 127.0.0.1:51520
+Feb 18 19:02 : client: [0] closed
+Feb 18 19:02 : client: [1] opened from 127.0.0.1:52128
+Feb 18 21:27 : client: [1] closed
+Feb 18 21:28 : avahi: Client Disconnected, will reconnect shortly
+Feb 18 21:28 : avahi: Could not reconnect: Daemon not running
+Feb 19 14:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 14:53 : client: [0] opened from 127.0.0.1:47322
+Feb 19 14:53 : client: [0] closed
+Feb 19 14:53 : client: [1] opened from 127.0.0.1:47324
+Feb 19 14:54 : client: [1] closed
+Feb 19 14:54 : client: [2] opened from 127.0.0.1:47366
+Feb 19 14:55 : client: [3] opened from 127.0.0.1:47586
+Feb 19 14:56 : client: [2] closed
+Feb 19 14:56 : client: [4] opened from 127.0.0.1:47588
+Feb 19 14:56 : client: [3] closed
+Feb 19 14:56 : client: [5] opened from 127.0.0.1:47592
+Feb 19 14:56 : client: [4] closed
+Feb 19 14:56 : client: [6] opened from 127.0.0.1:47594
+Feb 19 14:56 : client: [6] closed
+Feb 19 14:56 : client: [7] opened from 127.0.0.1:47596
+Feb 19 14:56 : client: [5] closed
+Feb 19 14:56 : client: [7] closed
+Feb 19 14:56 : client: [8] opened from 127.0.0.1:47598
+Feb 19 14:56 : client: [8] closed
+Feb 19 14:56 : client: [9] opened from 127.0.0.1:47626
+Feb 19 14:57 : client: [9] closed
+Feb 19 14:57 : client: [10] opened from 127.0.0.1:47628
+Feb 19 14:57 : client: [10] closed
+Feb 19 14:57 : client: [11] opened from 127.0.0.1:47630
+Feb 19 14:58 : client: [11] closed
+Feb 19 14:58 : client: [12] opened from 127.0.0.1:47662
+Feb 19 14:58 : client: [12] closed
+Feb 19 14:58 : client: [13] opened from 127.0.0.1:47678
+Feb 19 14:58 : client: [13] closed
+Feb 19 14:58 : client: [14] opened from 127.0.0.1:47680
+Feb 19 15:03 : client: [14] closed
+Feb 19 15:03 : client: [15] opened from 127.0.0.1:47910
+Feb 19 15:11 : client: [16] opened from 127.0.0.1:48058
+Feb 19 15:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 19 15:11 : client: [17] opened from 127.0.0.1:48062
+Feb 19 15:11 : client: [17] closed
+Feb 19 15:11 : client: [18] opened from 127.0.0.1:48066
+Feb 19 15:11 : client: [18] closed
+Feb 19 15:11 : client: [19] opened from 127.0.0.1:48070
+Feb 19 15:11 : client: [19] closed
+Feb 19 15:11 : client: [20] opened from 127.0.0.1:48074
+Feb 19 15:11 : client: [20] closed
+Feb 19 15:11 : client: [21] opened from 127.0.0.1:48078
+Feb 19 15:11 : client: [21] closed
+Feb 19 15:11 : client: [22] opened from 127.0.0.1:48082
+Feb 19 15:11 : client: [22] closed
+Feb 19 15:13 : player: played "Super Eurobeat Vol. 235 - Non-Stop Mega Mix/13 Higher Higher More and More.mp3"
+Feb 19 15:14 : client: [23] opened from 127.0.0.1:48130
+Feb 19 15:14 : client: [23] closed
+Feb 19 15:14 : client: [24] opened from 127.0.0.1:48134
+Feb 19 15:14 : client: [24] closed
+Feb 19 15:14 : client: [25] opened from 127.0.0.1:48138
+Feb 19 15:14 : client: [25] closed
+Feb 19 15:16 : client: [26] opened from 127.0.0.1:48208
+Feb 19 15:16 : client: [26] closed
+Feb 19 15:17 : client: [27] opened from 127.0.0.1:48222
+Feb 19 15:17 : client: [27] closed
+Feb 19 15:17 : player: played "Super Eurobeat Vol. 235 - Non-Stop Mega Mix/08 Nothing's Gonna Stop Us Tonight.mp3"
+Feb 19 15:17 : client: [28] opened from 127.0.0.1:48236
+Feb 19 15:17 : client: [28] closed
+Feb 19 15:17 : client: [29] opened from 127.0.0.1:48240
+Feb 19 15:17 : client: [29] closed
+Feb 19 15:19 : client: [30] opened from 127.0.0.1:48282
+Feb 19 15:19 : client: [30] closed
+Feb 19 15:19 : client: [31] opened from 127.0.0.1:48286
+Feb 19 15:19 : client: [31] closed
+Feb 19 15:19 : client: [32] opened from 127.0.0.1:48290
+Feb 19 15:19 : client: [32] closed
+Feb 19 15:19 : client: [15] closed
+Feb 19 15:19 : client: [33] opened from 127.0.0.1:48292
+Feb 19 15:20 : client: [34] opened from 127.0.0.1:48298
+Feb 19 15:20 : client: [34] closed
+Feb 19 15:20 : client: [35] opened from 127.0.0.1:48302
+Feb 19 15:20 : client: [35] closed
+Feb 19 15:20 : client: [36] opened from 127.0.0.1:48306
+Feb 19 15:20 : client: [36] closed
+Feb 19 15:20 : client: [37] opened from 127.0.0.1:48310
+Feb 19 15:20 : client: [37] closed
+Feb 19 15:22 : player: played "Super Eurobeat Vol. 235 - Non-Stop Mega Mix/24 Angel.mp3"
+Feb 19 15:33 : client: [38] opened from 127.0.0.1:48586
+Feb 19 15:33 : client: [38] closed
+Feb 19 15:33 : client: [39] opened from 127.0.0.1:48590
+Feb 19 15:33 : client: [39] closed
+Feb 19 15:33 : client: [40] opened from 127.0.0.1:48594
+Feb 19 15:33 : client: [40] closed
+Feb 19 15:33 : client: [41] opened from 127.0.0.1:48596
+Feb 19 15:33 : client: [41] closed
+Feb 19 15:51 : client: [42] opened from 127.0.0.1:48744
+Feb 19 15:51 : client: [42] closed
+Feb 19 15:51 : client: [33] closed
+Feb 19 15:51 : client: [43] opened from 127.0.0.1:48746
+Feb 19 15:53 : player: played "Super Eurobeat Vol. 235 - Non-Stop Mega Mix/10 Fight.mp3"
+Feb 19 15:53 : client: [44] opened from 127.0.0.1:48810
+Feb 19 15:53 : client: [44] closed
+Feb 19 15:53 : client: [45] opened from 127.0.0.1:48814
+Feb 19 15:53 : client: [45] closed
+Feb 19 15:54 : client: [43] closed
+Feb 19 15:54 : client: [46] opened from 127.0.0.1:48822
+Feb 19 15:55 : client: [47] opened from 127.0.0.1:48900
+Feb 19 15:55 : client: [47] closed
+Feb 19 16:12 : client: [46] closed
+Feb 19 16:12 : client: [48] opened from 127.0.0.1:49222

@@ -33,7 +33,7 @@
     dmenu = /usr/bin/dmenu -p dunst:
     browser = /usr/bin/firefox -new-tab
     icon_position = off
-    frame_color = "#C97767"
+    frame_color = "#DA4F4F"
 
 [shortcuts]
 
@@ -46,17 +46,17 @@
     context = ctrl+shift+period
 
 [urgency_low]
-    background = "#C97767"
+    background = "#DA4F4F"
     foreground = "#efefef"
     timeout = 10
 
 [urgency_normal]
-    background = "#C97767"
+    background = "#DA4F4F"
     foreground = "#efefef"
     timeout = 10
 
 [urgency_critical]
-    background = "#C97767"
+    background = "#DA4F4F"
     foreground = "#efefef"
     timeout = 0
 

@@ -7,7 +7,7 @@ rofi.color-normal:                   #COLOR0, #COLORX15, #COLOR0, #COLORACT, #CO
 rofi.color-urgent:                   #COLOR0, #d6b48d, #22231D, #d6b48d, #COLORX15
 rofi.color-active:                   #COLOR0, #COLORX14, #COLOR0, #COLORX14, #COLOR0
 rofi.color-window:                   #COLOR0, #COLORACT, #COLORIN
-rofi.bw:                             8
+rofi.bw:                             4
 rofi.location:                       0
 rofi.padding:                        50
 rofi.yoffset:                        0

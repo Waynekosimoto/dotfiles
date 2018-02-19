@@ -42,24 +42,37 @@ background-color: #COLOR1 !important;
 	
 }
 
+.tab-line{
+	height: 20px !important;
+}
+
+tabs#tabbrowser-tabs {
+  padding: 0px !important;
+}
+
+tabs#tabbrowser-tabs * {
+height: 19px !important;
+}
 
 /* Move Tab-bar beside Nav-bar */
 #TabsToolbar {      
-  margin-bottom: 15px !important;             
-  margin-top: 5px !important;                  
-  margin-left: 30vw !important;
+  margin-bottom: 8px !important;             
+  margin-top: 0px !important;                  
+  margin-left: 32vw !important;
   margin-right: 10vw !important;
 }
 
+/* Addressbar */
 #nav-bar {      
-  margin-bottom: 5x !important;             
-  margin-top: -32px !important;
+  margin-bottom: -3px !important;             
+  margin-top: -26px !important;
   margin-right: 70vw !important;
   margin-left: 5px !important;
+  padding-bottom: 0px !important;
   border-top: 0px !important;
   max-height: 16px !important;
   background: none !important;
-}   
+}
 
 
 /* Remove padding above tabbar in compact mode */
@@ -106,7 +119,7 @@ tabs#tabbrowser-tabs, tabs#tabbrowser-tabs * {
 }  
 
 tabs#tabbrowser-tabs {
-	padding: 2px !important;
+	padding: 0px !important;
 	border: 0px none !important;
 	box-shadow: none !important;
 	margin-left: -15px !important;

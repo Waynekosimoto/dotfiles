@@ -20,5 +20,8 @@ mpd &
 ## Notifications
 dunst &
 
+##Discord
+Discord &
+
 ## Compton
 compton --config ~/.config/compton/compton.conf &

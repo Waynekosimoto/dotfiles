@@ -1,6 +1,7 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/1515609678202.png",
     "alpha": "100",
+
     "special": {
         "background": "#000000",
         "foreground": "#9ec4d1",
@@ -9,7 +10,7 @@
     "colors": {
         "color0": "#000000",
         "color1": "#E41C71",
-        "color2": "#966671",
+        "color2": "#7cddff",
         "color3": "#EBA10E",
         "color4": "#CD9C3A",
         "color5": "#335A9C",
