@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/gondola-clay.png",
+    "alpha": "100",
+    "special": {
+        "background": "#150d0c",
+        "foreground": "#b2b9c1",
+        "cursor": "#b2b9c1"
+    },
+    "colors": {
+        "color0": "#150d0c",
+        "color1": "#383B45",
+        "color2": "#3E4244",
+        "color3": "#554C49",
+        "color4": "#66594F",
+        "color5": "#5D6470",
+        "color6": "#6D7988",
+        "color7": "#b2b9c1",
+        "color8": "#7c8187",
+        "color9": "#383B45",
+        "color10": "#3E4244",
+        "color11": "#554C49",
+        "color12": "#66594F",
+        "color13": "#5D6470",
+        "color14": "#6D7988",
+        "color15": "#b2b9c1"
+    }
+}

@@ -1,8 +1,13 @@
-
-#  _         _____ 
-# | \| ||\ |(_  |  
-# |_/|_|| \|__) |  
-#                  
+#   __                           __      
+#  /\ \                         /\ \__   
+#  \_\ \  __  __    ___     ____\ \ ,_\  
+#  /'_` \/\ \/\ \ /' _ `\  /',__\\ \ \/  
+# /\ \L\ \ \ \_\ \/\ \/\ \/\__, `\\ \ \_ 
+# \ \___,_\ \____/\ \_\ \_\/\____/ \ \__\
+#  \/__,_ /\/___/  \/_/\/_/\/___/   \/__/
+                                       
+                                       
+                
 
 [global]
     font = kakwafont 8
@@ -33,7 +38,7 @@
     dmenu = /usr/bin/dmenu -p dunst:
     browser = /usr/bin/firefox -new-tab
     icon_position = off
-    frame_color = "#DA4F4F"
+    frame_color = "#ffffff"
 
 [shortcuts]
 
@@ -46,18 +51,18 @@
     context = ctrl+shift+period
 
 [urgency_low]
-    background = "#DA4F4F"
-    foreground = "#efefef"
+    background = "#ffffff"
+    foreground = "#0E0507"
     timeout = 10
 
 [urgency_normal]
-    background = "#DA4F4F"
-    foreground = "#efefef"
+    background = "#ffffff"
+    foreground = "#0E0507"
     timeout = 10
 
 [urgency_critical]
-    background = "#DA4F4F"
-    foreground = "#efefef"
+    background = "#ffffff"
+    foreground = "#0E0507"
     timeout = 0
 
 

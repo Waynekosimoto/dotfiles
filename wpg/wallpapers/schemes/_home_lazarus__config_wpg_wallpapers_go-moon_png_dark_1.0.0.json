@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/go-moon.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0608",
+        "foreground": "#f6c1da",
+        "cursor": "#f6c1da"
+    },
+    "colors": {
+        "color0": "#0C0608",
+        "color1": "#A3699C",
+        "color2": "#D076A4",
+        "color3": "#8E7AC4",
+        "color4": "#E787B7",
+        "color5": "#A390CD",
+        "color6": "#D087C5",
+        "color7": "#f6c1da",
+        "color8": "#ac8798",
+        "color9": "#A3699C",
+        "color10": "#D076A4",
+        "color11": "#8E7AC4",
+        "color12": "#E787B7",
+        "color13": "#A390CD",
+        "color14": "#D087C5",
+        "color15": "#f6c1da"
+    }
+}

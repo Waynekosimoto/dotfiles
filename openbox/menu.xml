@@ -3,13 +3,11 @@
 	<menu id="root-menu" label="Openbox 3">
 		<item label="Run">
 			<action name="Execute">
-				<command>
-					gmrun
-				</command>
+				<execute>rofi -show run</execute>
 			</action>
 		</item>
 		<separator/>
-		<item label="Web Browser">
+		<item label="Browser">
 			<action name="Execute">
 				<execute>firefox</execute>
 			</action>
@@ -29,9 +27,14 @@
 				<execute>urxvt -e ncmpcpp</execute>
 			</action>
 		</item>
-		<item label="Discurses">
+		<item label="Discord">
 			<action name="Execute">
-				<execute>urxvt -e discurses</execute>
+				<execute>Discord</execute>
+			</action>
+		</item>
+		<item label="Wpgtk">
+			<action name="Execute">
+				<execute>wpg</execute>
 			</action>
 		</item>
 		<item label="Steam">
@@ -39,218 +42,48 @@
 				<execute>steam</execute>
 			</action>
 		</item>
-		<item label="Minecraft">
-			<action name="Execute">
-				<execute>java -jar ~/downloads/Minecraft.jar </execute>
-			</action>
-		</item>
-		<menu id="graphics" label="Graphics">
-			<item label="GIMP">
-				<action name="Execute">
-					<execute>gimp</execute>
-				</action>
-			</item>
-			<item label="Viewnior Image Viewer">
-				<action name="Execute">
-					<execute>viewnior</execute>
-				</action>
-			</item>
-			<menu id="graphicsScreenshots" label="Take Screenshot">
-				<item label="Screenshooter">
-					<action name="Execute">
-						<execute>xfce4-screenshooter</execute>
-					</action>
-				</item>
-				<separator label="scrot"/>
-				<item label="Now">
-					<action name="Execute">
-						<execute>scrot '%Y-%m-%d--%s_$wx$h_scrot.png' -e 'mv $f ~/images/ &amp;amp; viewnior ~/images/$f'</execute>
-					</action>
-				</item>
-				<item label="In 3 Seconds...">
-					<action name="Execute">
-						<execute>scrot -d 3 '%Y-%m-%d--%s_$wx$h_scrot.png' -e 'mv $f ~/images/ &amp;amp; viewnior ~/images/$f'</execute>
-					</action>
-				</item>
-				<item label="In 9 Seconds...">
-					<action name="Execute">
-						<execute>scrot -d 9 '%Y-%m-%d--%s_$wx$h_scrot.png' -e 'mv $f ~/images/ &amp;amp; viewnior ~/images/$f'</execute>
-					</action>
-				</item>
-				<item label="Selected Area... (click &amp; drag mouse)">
-					<action name="Execute">
-						<execute>scrot -s '%Y-%m-%d--%s_$wx$h_scrot.png' -e 'mv $f ~/images/ &amp;amp; viewnior ~/images/$f'</execute>
-					</action>
-				</item>
-			</menu>
-		</menu>
-		<menu id="multimedia" label="Multimedia">
-			<item label="Volume Control">
-				<action name="Execute">
-					<execute>mate-volume-control</execute>
-				</action>
-			</item>
-			<item label="Xfburn">
-				<action name="Execute">
-					<execute>xfburn</execute>
-				</action>
-			</item>
-		</menu>
-		<menu id="network" label="Network">
-			<item label="Filezilla">
-				<action name="Execute">
-					<execute>filezilla</execute>
-				</action>
-			</item>
-			<item label="Remote Filesystems">
-				<action name="Execute">
-					<execute>gigolo</execute>
-				</action>
-			</item>
-		</menu>
-		<menu id="office" label="Office">
-			<item label="Google Docs">
-				<action name="Execute">
-					<execute>x-www-browser https://docs.google.com/u/1/</execute>
-				</action>
-			</item>
-			<item label="Calculator">
-				<action name="Execute">
-					<execute>galculator</execute>
-				</action>
-			</item>
-			<item label="Atril PDF Viewer">
-				<action name="Execute">
-					<execute>atril</execute>
-				</action>
-			</item>
-		</menu>
 		<separator/>
 		<menu id="settings" label="Settings">
-			<menu id="obConfig" label="Openbox">
-				<item label="Edit menu.xml">
-					<action name="Execute">
-						<execute>geany ~/.config/openbox/menu.xml</execute>
-					</action>
-				</item>
-				<item label="Edit rc.xml">
-					<action name="Execute">
-						<execute>geany ~/.config/openbox/rc.xml</execute>
-					</action>
-				</item>
-				<item label="Edit autostart">
-					<action name="Execute">
-						<execute>geany ~/.config/openbox/autostart</execute>
-					</action>
-				</item>
-				<separator/>
-				<item label="GUI Menu Editor">
-					<action name="Execute">
-						<execute>obmenu</execute>
-					</action>
-				</item>
-				<item label="GUI Applications Settings Editor">
-					<action name="Execute">
-						<execute>obapps</execute>
-					</action>
-				</item>
-				<item label="GUI Config Tool">
-					<action name="Execute">
-						<execute>obconf</execute>
-					</action>
-				</item>
-				<separator/>
-				<item label="Reconfigure">
-					<action name="Reconfigure"/>
-				</item>
-				<item label="Restart">
-					<action name="Restart"/>
-				</item>
-			</menu>
-			<menu id="conkyconfig" label="Conky">
-				<item label="Edit .conkyrc">
-					<action name="Execute">
-						<execute>geany ~/.conkyrc</execute>
-					</action>
-				</item>
-				<item label="Restart Conky">
-					<action name="Execute">
-						<execute>conkywonky</execute>
-					</action>
-				</item>
-				<separator label="Help?"/>
-				<item label="man page">
-					<action name="Execute">
-						<execute>x-terminal-emulator -e man conky</execute>
-					</action>
-				</item>
-				<item label="Documentation">
-					<action name="Execute">
-						<execute>x-www-browser http://conky.sourceforge.net/documentation.html</execute>
-					</action>
-				</item>
-			</menu>
-			<menu id="dmenuconfig" label="dmenu">
-				<item label="Edit start-up script">
-					<action name="Execute">
-						<execute>geany ~/.config/dmenu/dmenu-bind.sh</execute>
-					</action>
-				</item>
-			</menu>
-			<menu id="gmrunconfig" label="gmrun">
-				<item label="Edit config file">
-					<action name="Execute">
-						<execute>geany ~/.gmrunrc</execute>
-					</action>
-				</item>
-			</menu>
-			<item label="Restart tint2">
+			<item label="Openbox">
 				<action name="Execute">
-					<execute>tint2restart</execute>
+					<execute/>
 				</action>
 			</item>
-			<menu id="Notifications" label="Notifications">
-				<item label="settings">
-					<action name="Execute">
-						<execute>xfce4-notifyd-config</execute>
-					</action>
-				</item>
-			</menu>
-			<item label="Edit Default Applications">
+			<item label="Edit Menu">
 				<action name="Execute">
-					<execute>x-terminal-emulator -e sudo update-alternatives --all</execute>
+					<execute>obmenu</execute>
+				</action>
+			</item>
+			<item label="Edit RC">
+				<action name="Execute">
+					<execute>geany ~/.config/openbox/rc.xml</execute>
+				</action>
+			</item>
+			<item label="Edit Autostart">
+				<action name="Execute">
+					<execute>geany ~/.config/openbox/autostart</execute>
+				</action>
+			</item>
+			<item label="GUI Config Tool">
+				<action name="Execute">
+					<execute>obconf</execute>
+				</action>
+			</item>
+			<item label="Reconfigure">
+				<action name="Reconfigure"/>
+			</item>
+			<item label="Restart">
+				<action name="Restart"/>
+			</item>
+			<separator/>
+			<item label="Restart Tint2">
+				<action name="Execute">
+					<execute>tint2restart</execute>
 				</action>
 			</item>
 			<item label="User Interface Settings">
 				<action name="Execute">
 					<execute>lxappearance</execute>
-				</action>
-			</item>
-			<item label="Power Management">
-				<action name="Execute">
-					<execute>mate-power-preferences</execute>
-				</action>
-			</item>
-			<item label="Screensaver">
-				<action name="Execute">
-					<execute>xscreensaver-demo</execute>
-				</action>
-			</item>
-			<item label="Choose Wallpaper">
-				<action name="Execute">
-					<execute>nitrogen ~/images/wallpapers/</execute>
-				</action>
-			</item>
-		</menu>
-		<menu id="system" label="System">
-			<item label="GParted">
-				<action name="Execute">
-					<execute>gksudo gparted</execute>
-				</action>
-			</item>
-			<item label="Synaptic Package Manager">
-				<action name="Execute">
-					<execute>gksudo synaptic</execute>
 				</action>
 			</item>
 		</menu>

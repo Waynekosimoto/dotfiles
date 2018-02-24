@@ -1,2 +1,2 @@
 #!/bin/bash
-wpg -rs 1518902452975.png 1518902452975.png
+wpg -rs pink-eva.png pink-eva.png

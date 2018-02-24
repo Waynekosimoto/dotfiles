@@ -1,8 +1,13 @@
-
-#  _         _____ 
-# | \| ||\ |(_  |  
-# |_/|_|| \|__) |  
-#                  
+#   __                           __      
+#  /\ \                         /\ \__   
+#  \_\ \  __  __    ___     ____\ \ ,_\  
+#  /'_` \/\ \/\ \ /' _ `\  /',__\\ \ \/  
+# /\ \L\ \ \ \_\ \/\ \/\ \/\__, `\\ \ \_ 
+# \ \___,_\ \____/\ \_\ \_\/\____/ \ \__\
+#  \/__,_ /\/___/  \/_/\/_/\/___/   \/__/
+                                       
+                                       
+                
 
 [global]
     font = !FONT 8
@@ -33,7 +38,7 @@
     dmenu = /usr/bin/dmenu -p dunst:
     browser = /usr/bin/firefox -new-tab
     icon_position = off
-    frame_color = "#COLOR1"
+    frame_color = "#ffffff"
 
 [shortcuts]
 
@@ -46,18 +51,18 @@
     context = ctrl+shift+period
 
 [urgency_low]
-    background = "#COLOR1"
-    foreground = "#efefef"
+    background = "#ffffff"
+    foreground = "#COLOR0"
     timeout = 10
 
 [urgency_normal]
-    background = "#COLOR1"
-    foreground = "#efefef"
+    background = "#ffffff"
+    foreground = "#COLOR0"
     timeout = 10
 
 [urgency_critical]
-    background = "#COLOR1"
-    foreground = "#efefef"
+    background = "#ffffff"
+    foreground = "#COLOR0"
     timeout = 0
 
 

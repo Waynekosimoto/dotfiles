@@ -8,8 +8,8 @@ nm-applet &
 (sleep 3s && clipit) &
 
 ## Bar just in case
-polybar wpgtk &
-polybar music & 
+polybar music &
+polybar wpgtk & 
 polybar window &
 tint2 &
 
