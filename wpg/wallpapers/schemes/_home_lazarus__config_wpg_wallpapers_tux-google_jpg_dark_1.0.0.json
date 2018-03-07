@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/tux-google.jpg",
     "alpha": "100",
+
     "special": {
         "background": "#010201",
-        "foreground": "#ead5a3",
+        "foreground": "#ffffd1",
         "cursor": "#ead5a3"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#059608",
         "color6": "#08E005",
         "color7": "#ead5a3",
-        "color8": "#a39572",
-        "color9": "#254B3A",
-        "color10": "#242345",
-        "color11": "#2A2946",
-        "color12": "#4C5348",
-        "color13": "#059608",
-        "color14": "#08E005",
-        "color15": "#ead5a3"
+        "color8": "#012a01",
+        "color9": "#28684c",
+        "color10": "#282660",
+        "color11": "#2f2e62",
+        "color12": "#607553",
+        "color13": "#01c805",
+        "color14": "#05ff01",
+        "color15": "#ffffd1"
     }
 }

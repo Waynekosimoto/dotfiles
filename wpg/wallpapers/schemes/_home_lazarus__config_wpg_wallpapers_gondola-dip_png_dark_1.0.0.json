@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/gondola-dip.png",
     "alpha": "100",
+
     "special": {
         "background": "#191719",
-        "foreground": "#b4b7c5",
+        "foreground": "#edf1ff",
         "cursor": "#b4b7c5"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#63729B",
         "color6": "#687AA8",
         "color7": "#b4b7c5",
-        "color8": "#7d8089",
-        "color9": "#9C9273",
-        "color10": "#D2886C",
-        "color11": "#535E83",
-        "color12": "#5A6890",
-        "color13": "#63729B",
-        "color14": "#687AA8",
-        "color15": "#b4b7c5"
+        "color8": "#2d2a2d",
+        "color9": "#dcc683",
+        "color10": "#ffa777",
+        "color11": "#5e72b8",
+        "color12": "#657fca",
+        "color13": "#708cd9",
+        "color14": "#7596ec",
+        "color15": "#edf1ff"
     }
 }

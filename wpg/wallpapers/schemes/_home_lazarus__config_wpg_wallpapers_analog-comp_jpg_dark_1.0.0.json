@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/analog-comp.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#210f1b",
+        "foreground": "#e0dcde",
+        "cursor": "#e0dcde"
+    },
+    "colors": {
+        "color0": "#210f1b",
+        "color1": "#D96D8D",
+        "color2": "#DF6D8D",
+        "color3": "#AB9BA2",
+        "color4": "#C8AEB6",
+        "color5": "#C8BDC2",
+        "color6": "#D0C0C0",
+        "color7": "#e0dcde",
+        "color8": "#9c9a9b",
+        "color9": "#D96D8D",
+        "color10": "#DF6D8D",
+        "color11": "#AB9BA2",
+        "color12": "#C8AEB6",
+        "color13": "#C8BDC2",
+        "color14": "#D0C0C0",
+        "color15": "#e0dcde"
+    }
+}

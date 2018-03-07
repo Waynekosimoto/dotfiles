@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/\u200bPilot ACE.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1812",
+        "foreground": "#e0d7ca",
+        "cursor": "#e0d7ca"
+    },
+    "colors": {
+        "color0": "#1b1812",
+        "color1": "#A38C6E",
+        "color2": "#DDA255",
+        "color3": "#F5BE6E",
+        "color4": "#EAC95A",
+        "color5": "#F7C374",
+        "color6": "#FCCB82",
+        "color7": "#e0d7ca",
+        "color8": "#9c968d",
+        "color9": "#A38C6E",
+        "color10": "#DDA255",
+        "color11": "#F5BE6E",
+        "color12": "#EAC95A",
+        "color13": "#F7C374",
+        "color14": "#FCCB82",
+        "color15": "#e0d7ca"
+    }
+}

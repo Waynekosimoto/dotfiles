@@ -1,2 +1,2 @@
 #!/bin/bash
-wpg -rs pink-eva.png pink-eva.png
+wpg -rs Cyberpunk In A Shell.png Cyberpunk In A Shell.png

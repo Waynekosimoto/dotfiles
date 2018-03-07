@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/Control Data 6600.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F1516",
+        "foreground": "#e2e7e6",
+        "cursor": "#e2e7e6"
+    },
+    "colors": {
+        "color0": "#0F1516",
+        "color1": "#69978F",
+        "color2": "#6EA49E",
+        "color3": "#78ACA7",
+        "color4": "#84B6B2",
+        "color5": "#A1B2B1",
+        "color6": "#B4C8C7",
+        "color7": "#e2e7e6",
+        "color8": "#9ea1a1",
+        "color9": "#69978F",
+        "color10": "#6EA49E",
+        "color11": "#78ACA7",
+        "color12": "#84B6B2",
+        "color13": "#A1B2B1",
+        "color14": "#B4C8C7",
+        "color15": "#e2e7e6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/\u200bHDR 75.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#140f06",
+        "foreground": "#d3d7dc",
+        "cursor": "#d3d7dc"
+    },
+    "colors": {
+        "color0": "#140f06",
+        "color1": "#F8D76F",
+        "color2": "#F8E272",
+        "color3": "#B4A590",
+        "color4": "#C7B8A2",
+        "color5": "#D4CAB8",
+        "color6": "#EEDDA3",
+        "color7": "#d3d7dc",
+        "color8": "#93969a",
+        "color9": "#F8D76F",
+        "color10": "#F8E272",
+        "color11": "#B4A590",
+        "color12": "#C7B8A2",
+        "color13": "#D4CAB8",
+        "color14": "#EEDDA3",
+        "color15": "#d3d7dc"
+    }
+}

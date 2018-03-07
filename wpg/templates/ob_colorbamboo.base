@@ -3,9 +3,9 @@
 #OR THINGS WITH COLORIN as this are the colors that my program searchs and replaces
 #everything else is editable, please edit themerc.base instead of themerc
 
-border.width: 4
+border.width: 8
 menu.border.color: #COLOR0
-menu.border.width: 8
+menu.border.width: 16
 menu.items.active.bg: #COLOR0
 menu.items.active.bg.color: #COLOR0
 menu.items.active.text.color: #COLOR1
@@ -14,7 +14,7 @@ menu.items.bg.color: #COLOR0
 menu.items.disabled.text.color: #c3c3c3
 menu.items.font: shadow=n
 menu.items.text.color: #FFFFFF
-menu.items.padding: 8
+menu.items.padding: 16
 menu.overlap: 0
 menu.separator.color: #COLOR0
 menu.title.bg: Solid Flat
