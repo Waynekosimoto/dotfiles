@@ -9,8 +9,8 @@
 set number
 set ruler
 set wrap
-let g:vimtex_view_method ='zathura'
-let g:livepreview_previewer = 'zathura'
+let g:vimtex_view_method ='mupdf'
+let g:livepreview_previewer = 'mupdf'
 set clipboard+=unnamed
 set shiftwidth=4
 let g:NERDTreeMinimalUI = 0
