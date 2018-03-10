@@ -72,7 +72,6 @@ let g:bc_server_path = "/home/lazarus/.config/nvim/plugged/browser-connect.vim/s
 call plug#begin('~/.config/nvim/plugged')
 
 " Declare the list of plugins.
-Plug 'scrooloose/syntastic'
 Plug 'tpope/vim-sensible'
 Plug 'lervag/vimtex'
 Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
@@ -83,12 +82,11 @@ Plug 'rbgrouleff/bclose.vim'
 Plug 'docunext/closetag.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'roxma/nvim-completion-manager'
-Plug 'jalvesaq/Nvim-R'
-Plug 'gaalcaras/ncm-R'
 Plug 'othree/csscomplete.vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
+Plug 'valloric/youcompleteme'
+Plug 'w0rp/ale'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 

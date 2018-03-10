@@ -1,2 +1,2 @@
 #!/bin/bash
-wpg -rs pink-eva.png pink-eva.png
+wpg -rs shin_godzilla.jpg shin_godzilla.jpg

@@ -13730,3 +13730,208 @@ Mar 09 17:36 : client: [63] opened from 127.0.0.1:53378
 Mar 09 17:36 : client: [63] closed
 Mar 09 17:36 : client: [61] closed
 Mar 09 17:36 : client: [2] closed
+Mar 09 18:39 : client: [64] opened from 127.0.0.1:54498
+Mar 09 18:39 : client: [64] closed
+Mar 09 18:40 : client: [65] opened from 127.0.0.1:54504
+Mar 09 18:40 : client: [65] closed
+Mar 09 18:58 : client: [66] opened from 127.0.0.1:54726
+Mar 09 18:58 : client: [66] closed
+Mar 09 18:58 : client: [67] opened from 127.0.0.1:54728
+Mar 09 18:58 : client: [67] closed
+Mar 09 19:11 : client: [68] opened from 127.0.0.1:55210
+Mar 09 19:11 : client: [68] closed
+Mar 09 19:11 : client: [69] opened from 127.0.0.1:55212
+Mar 09 19:11 : client: [69] closed
+Mar 09 19:13 : client: [70] opened from 127.0.0.1:55286
+Mar 09 19:13 : client: [70] closed
+Mar 09 19:17 : client: [6] closed
+Mar 09 19:17 : client: [71] opened from 127.0.0.1:55298
+Mar 09 19:17 : client: [71] closed
+Mar 09 19:17 : client: [72] opened from 127.0.0.1:55300
+Mar 09 19:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 19:49 : client: [0] opened from 127.0.0.1:48500
+Mar 09 19:49 : client: [0] closed
+Mar 09 19:49 : client: [1] opened from 127.0.0.1:48518
+Mar 09 19:50 : client: [1] closed
+Mar 09 19:50 : client: [2] opened from 127.0.0.1:48520
+Mar 09 19:50 : client: [2] closed
+Mar 09 19:50 : client: [3] opened from 127.0.0.1:48522
+Mar 09 20:56 : client: [4] opened from 127.0.0.1:50100
+Mar 09 20:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 20:56 : client: [5] opened from 127.0.0.1:50104
+Mar 09 20:56 : client: [5] closed
+Mar 09 20:56 : client: [6] opened from 127.0.0.1:50108
+Mar 09 20:56 : client: [6] closed
+Mar 09 20:57 : client: [7] opened from 127.0.0.1:50112
+Mar 09 20:57 : client: [7] closed
+Mar 09 20:57 : client: [8] opened from 127.0.0.1:50116
+Mar 09 20:57 : client: [8] closed
+Mar 09 20:58 : client: [9] opened from 127.0.0.1:50162
+Mar 09 20:58 : client: [9] closed
+Mar 09 21:00 : client: [10] opened from 127.0.0.1:50180
+Mar 09 21:00 : client: [10] closed
+Mar 09 21:00 : client: [11] opened from 127.0.0.1:50184
+Mar 09 21:00 : client: [11] closed
+Mar 09 21:03 : player: played "Super Eurobeat Vol. 8/20. Mark Farina - Russian.mp3"
+Mar 09 21:03 : client: [12] opened from 127.0.0.1:50192
+Mar 09 21:03 : client: [12] closed
+Mar 09 21:03 : client: [13] opened from 127.0.0.1:50196
+Mar 09 21:03 : client: [13] closed
+Mar 09 21:09 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 09 21:09 : client: [14] opened from 127.0.0.1:50266
+Mar 09 21:09 : client: [14] closed
+Mar 09 21:09 : client: [15] opened from 127.0.0.1:50270
+Mar 09 21:09 : client: [15] closed
+Mar 09 21:10 : client: [16] opened from 127.0.0.1:50286
+Mar 09 21:10 : client: [16] closed
+Mar 09 21:10 : client: [17] opened from 127.0.0.1:50290
+Mar 09 21:10 : client: [17] closed
+Mar 09 21:10 : client: [18] opened from 127.0.0.1:50294
+Mar 09 21:10 : client: [18] closed
+Mar 09 21:10 : client: [19] opened from 127.0.0.1:50298
+Mar 09 21:10 : client: [19] closed
+Mar 09 21:14 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 09 21:14 : client: [20] opened from 127.0.0.1:50404
+Mar 09 21:14 : client: [20] closed
+Mar 09 21:14 : client: [21] opened from 127.0.0.1:50408
+Mar 09 21:14 : client: [21] closed
+Mar 09 21:16 : player: played "Super Eurobeat Vol. 8/20. Mark Farina - Russian.mp3"
+Mar 09 21:16 : client: [22] opened from 127.0.0.1:50680
+Mar 09 21:16 : client: [22] closed
+Mar 09 21:16 : client: [23] opened from 127.0.0.1:50684
+Mar 09 21:16 : client: [23] closed
+Mar 09 21:22 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 09 21:22 : client: [24] opened from 127.0.0.1:50966
+Mar 09 21:22 : client: [24] closed
+Mar 09 21:22 : client: [25] opened from 127.0.0.1:50970
+Mar 09 21:22 : client: [25] closed
+Mar 09 21:25 : player: played "Super Eurobeat Vol. 8/07. Alphatown - Japan Japan.mp3"
+Mar 09 21:25 : client: [26] opened from 127.0.0.1:51168
+Mar 09 21:25 : client: [26] closed
+Mar 09 21:25 : client: [27] opened from 127.0.0.1:51172
+Mar 09 21:25 : client: [27] closed
+Mar 09 21:25 : client: [28] opened from 127.0.0.1:51176
+Mar 09 21:25 : client: [28] closed
+Mar 09 21:25 : client: [29] opened from 127.0.0.1:51178
+Mar 09 21:25 : client: [29] closed
+Mar 09 21:25 : client: [30] opened from 127.0.0.1:51182
+Mar 09 21:25 : client: [30] closed
+Mar 09 21:25 : client: [31] opened from 127.0.0.1:51186
+Mar 09 21:25 : client: [31] closed
+Mar 09 21:25 : client: [32] opened from 127.0.0.1:51188
+Mar 09 21:25 : client: [32] closed
+Mar 09 21:25 : client: [33] opened from 127.0.0.1:51192
+Mar 09 21:25 : client: [33] closed
+Mar 09 21:25 : client: [34] opened from 127.0.0.1:51196
+Mar 09 21:25 : client: [34] closed
+Mar 09 21:29 : player: played "Super Eurobeat Vol. 158/06 Dancin' Time.mp3"
+Mar 09 21:29 : client: [35] opened from 127.0.0.1:51266
+Mar 09 21:29 : client: [35] closed
+Mar 09 21:29 : client: [36] opened from 127.0.0.1:51270
+Mar 09 21:29 : client: [36] closed
+Mar 09 21:35 : player: played "Super Eurobeat Vol. 3 - Extended Version/08  Bye Bye Baby  Max Coveri.mp3"
+Mar 09 21:35 : client: [37] opened from 127.0.0.1:51578
+Mar 09 21:35 : client: [37] closed
+Mar 09 21:35 : client: [38] opened from 127.0.0.1:51582
+Mar 09 21:35 : client: [38] closed
+Mar 09 21:37 : client: [39] opened from 127.0.0.1:51658
+Mar 09 21:37 : client: [39] closed
+Mar 09 21:37 : client: [40] opened from 127.0.0.1:51662
+Mar 09 21:37 : client: [40] closed
+Mar 09 21:37 : client: [41] opened from 127.0.0.1:51666
+Mar 09 21:37 : client: [41] closed
+Mar 09 21:37 : client: [42] opened from 127.0.0.1:51670
+Mar 09 21:37 : client: [42] closed
+Mar 09 21:41 : player: played "Initial D The Movie of Super Eurobeat/05  Fly to Me to the Moon & Back  The Spiders from Mars.mp3"
+Mar 09 21:41 : client: [43] opened from 127.0.0.1:51846
+Mar 09 21:41 : client: [43] closed
+Mar 09 21:41 : client: [44] opened from 127.0.0.1:51850
+Mar 09 21:41 : client: [44] closed
+Mar 09 21:45 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 09 21:45 : client: [45] opened from 127.0.0.1:52114
+Mar 09 21:45 : client: [45] closed
+Mar 09 21:45 : client: [46] opened from 127.0.0.1:52118
+Mar 09 21:45 : client: [46] closed
+Mar 09 21:48 : player: played "Super Eurobeat Vol. 8/20. Mark Farina - Russian.mp3"
+Mar 09 21:48 : client: [47] opened from 127.0.0.1:52220
+Mar 09 21:48 : client: [47] closed
+Mar 09 21:48 : client: [48] opened from 127.0.0.1:52224
+Mar 09 21:48 : client: [48] closed
+Mar 09 21:54 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 09 21:54 : client: [49] opened from 127.0.0.1:52306
+Mar 09 21:54 : client: [49] closed
+Mar 09 21:54 : client: [50] opened from 127.0.0.1:52310
+Mar 09 21:54 : client: [50] closed
+Mar 09 21:56 : player: played "Super Eurobeat Vol. 8/07. Alphatown - Japan Japan.mp3"
+Mar 09 21:57 : client: [51] opened from 127.0.0.1:52374
+Mar 09 21:57 : client: [51] closed
+Mar 09 21:57 : client: [52] opened from 127.0.0.1:52378
+Mar 09 21:57 : client: [52] closed
+Mar 09 21:57 : client: [53] opened from 127.0.0.1:52382
+Mar 09 21:57 : client: [53] closed
+Mar 09 21:57 : client: [54] opened from 127.0.0.1:52384
+Mar 09 21:57 : client: [54] closed
+Mar 09 21:57 : client: [55] opened from 127.0.0.1:52388
+Mar 09 21:57 : client: [55] closed
+Mar 09 21:57 : client: [56] opened from 127.0.0.1:52392
+Mar 09 21:57 : client: [56] closed
+Mar 09 21:57 : client: [57] opened from 127.0.0.1:52394
+Mar 09 21:57 : client: [57] closed
+Mar 09 21:57 : client: [58] opened from 127.0.0.1:52398
+Mar 09 21:57 : client: [58] closed
+Mar 09 21:57 : client: [59] opened from 127.0.0.1:52402
+Mar 09 21:57 : client: [59] closed
+Mar 09 22:01 : player: played "Super Eurobeat Vol. 158/06 Dancin' Time.mp3"
+Mar 09 22:01 : client: [60] opened from 127.0.0.1:52664
+Mar 09 22:01 : client: [60] closed
+Mar 09 22:01 : client: [61] opened from 127.0.0.1:52668
+Mar 09 22:01 : client: [61] closed
+Mar 09 22:07 : player: played "Super Eurobeat Vol. 3 - Extended Version/08  Bye Bye Baby  Max Coveri.mp3"
+Mar 09 22:07 : client: [62] opened from 127.0.0.1:53044
+Mar 09 22:07 : client: [62] closed
+Mar 09 22:07 : client: [63] opened from 127.0.0.1:53048
+Mar 09 22:07 : client: [63] closed
+Mar 09 22:12 : player: played "Initial D ~D Selection 1~/05  Spark In The Dark  Man Power.mp3"
+Mar 09 22:12 : client: [64] opened from 127.0.0.1:53182
+Mar 09 22:12 : client: [64] closed
+Mar 09 22:12 : client: [65] opened from 127.0.0.1:53186
+Mar 09 22:12 : client: [65] closed
+Mar 09 22:27 : client: [66] opened from 127.0.0.1:53254
+Mar 09 22:27 : client: [66] closed
+Mar 09 22:27 : client: [67] opened from 127.0.0.1:53258
+Mar 09 22:27 : client: [67] closed
+Mar 09 22:29 : player: played "Super Eurobeat Vol. 8/20. Mark Farina - Russian.mp3"
+Mar 09 22:29 : client: [68] opened from 127.0.0.1:53344
+Mar 09 22:29 : client: [68] closed
+Mar 09 22:29 : client: [69] opened from 127.0.0.1:53348
+Mar 09 22:29 : client: [69] closed
+Mar 09 22:31 : client: [70] opened from 127.0.0.1:53386
+Mar 09 22:31 : client: [70] closed
+Mar 09 23:29 : client: [3] closed
+Mar 09 23:29 : client: [71] opened from 127.0.0.1:53966
+Mar 09 23:36 : client: [72] opened from 127.0.0.1:54142
+Mar 09 23:36 : client: [72] closed
+Mar 09 23:36 : client: [73] opened from 127.0.0.1:54146
+Mar 09 23:36 : client: [73] closed
+Mar 09 23:36 : client: [74] opened from 127.0.0.1:54150
+Mar 09 23:36 : client: [74] closed
+Mar 09 23:39 : player: played "Super Eurobeat Vol. 8/20. Mark Farina - Russian.mp3"
+Mar 09 23:39 : client: [75] opened from 127.0.0.1:54216
+Mar 09 23:39 : client: [75] closed
+Mar 09 23:39 : client: [76] opened from 127.0.0.1:54220
+Mar 09 23:39 : client: [76] closed
+Mar 09 23:44 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 09 23:44 : client: [77] opened from 127.0.0.1:54618
+Mar 09 23:44 : client: [77] closed
+Mar 09 23:44 : client: [78] opened from 127.0.0.1:54622
+Mar 09 23:44 : client: [78] closed
+Mar 09 23:46 : avahi: Client Disconnected, will reconnect shortly
+Mar 09 23:46 : avahi: Could not reconnect: Daemon not running
+Mar 09 23:46 : client: [71] closed
+Mar 09 23:46 : client: [4] closed
+Mar 09 23:46 : exception: "Pulse_Output" [pulse] failed to play: disconnected
+Mar 09 23:46 : player: played "Super Eurobeat Vol. 8/07. Alphatown - Japan Japan.mp3"
+Mar 10 13:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 10 13:32 : client: [0] opened from 127.0.0.1:57908
+Mar 10 13:32 : client: [0] closed
+Mar 10 13:32 : client: [1] opened from 127.0.0.1:57918

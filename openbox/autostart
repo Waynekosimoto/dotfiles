@@ -7,6 +7,9 @@ nm-applet &
 ## Start Clipboard manager
 (sleep 3s && clipit) &
 
+
+##Colors
+wal -R &
 ## Bar just in case
 polybar music &
 polybar wpgtk & 
