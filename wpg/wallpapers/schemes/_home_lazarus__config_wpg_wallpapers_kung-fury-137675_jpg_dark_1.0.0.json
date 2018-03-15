@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/kung-fury-137675.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040814",
+        "foreground": "#c3c8cb",
+        "cursor": "#c3c8cb"
+    },
+    "colors": {
+        "color0": "#040814",
+        "color1": "#374652",
+        "color2": "#525D67",
+        "color3": "#A11A2E",
+        "color4": "#D80E26",
+        "color5": "#E10F28",
+        "color6": "#74808A",
+        "color7": "#c3c8cb",
+        "color8": "#888c8e",
+        "color9": "#374652",
+        "color10": "#525D67",
+        "color11": "#A11A2E",
+        "color12": "#D80E26",
+        "color13": "#E10F28",
+        "color14": "#74808A",
+        "color15": "#c3c8cb"
+    }
+}

@@ -12,33 +12,33 @@
 # Background 1: Active taskbar, Inactive taskbar, Panel
 rounded = 0
 border_width = 0
-background_color = #COLOR0 100
+background_color = #<COLOR0> 100
 border_color = #ffffff 100
-background_color_hover = #COLOR2 100
+background_color_hover = #<COLOR2> 100
 border_color_hover = #ffffff 100
-background_color_pressed = #COLOR2 100
+background_color_pressed = #<COLOR2> 100
 border_color_pressed = #ffffff 100
 
 # Background 2: Active desktop name, Active task, Clock, Launcher icon, Urgent task
 rounded = 0
 border_width = 0
 border_sides = TBLR
-background_color = #COLORACT 100
+background_color = #<COLORACT> 100
 border_color = #224f55 0
-background_color_hover = #COLOR2 100
+background_color_hover = #<COLOR2> 100
 border_color_hover = #224f55 0
-background_color_pressed = #COLOR2 100
+background_color_pressed = #<COLOR2> 100
 border_color_pressed = #224f55 0
 
 # Background 3: Battery, Default task, Iconified task, Inactive desktop name, Launcher, Systray, Tooltip
 rounded = 0
 border_width = 0
 border_sides = TBLR
-background_color = #COLOR0 100
+background_color = #<COLOR0> 100
 border_color = #ffffff 100
-background_color_hover = #COLOR2 32
+background_color_hover = #<COLOR2> 32
 border_color_hover = #ffffff 100
-background_color_pressed = #COLOR2 32
+background_color_pressed = #<COLOR2> 32
 border_color_pressed = #ffffff 100
 
 #-------------------------------------
@@ -79,9 +79,9 @@ taskbar_always_show_all_desktop_tasks = 0
 taskbar_name_padding = 0 
 taskbar_name_background_id = 0
 taskbar_name_active_background_id = 1
-taskbar_name_font = !FONT 8
-taskbar_name_font_color = #COLORIN 100
-taskbar_name_active_font_color = #COLORIN 100
+taskbar_name_font = <!FONT> 8
+taskbar_name_font_color = #<COLORIN> 100
+taskbar_name_active_font_color = #<COLORIN> 100
 taskbar_distribute_size = 0
 taskbar_sort_order = center
 task_align = left
@@ -94,12 +94,12 @@ task_centered = 1
 urgent_nb_of_blink = 10
 task_maximum_size = 0 1
 task_padding = 5 8
-task_font = !FONT 8
+task_font = <!FONT> 8
 task_tooltip = 0
 task_font_color = #fafafa 100
 task_active_font_color = #fafafa 100
-task_urgent_font_color = #COLOR7 100
-task_iconified_font_color = #COLOR8 100
+task_urgent_font_color = #<COLOR7> 100
+task_iconified_font_color = #<COLOR8> 100
 task_icon_asb = 100 0 0
 task_active_icon_asb = 100 0 0
 task_urgent_icon_asb = 100 0 0

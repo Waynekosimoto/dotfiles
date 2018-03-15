@@ -13935,3 +13935,1690 @@ Mar 10 13:32 : exception: OutputThread could not get realtime scheduling, contin
 Mar 10 13:32 : client: [0] opened from 127.0.0.1:57908
 Mar 10 13:32 : client: [0] closed
 Mar 10 13:32 : client: [1] opened from 127.0.0.1:57918
+Mar 10 14:05 : client: [1] closed
+Mar 10 14:05 : client: [2] opened from 127.0.0.1:59020
+Mar 10 14:05 : client: [2] closed
+Mar 10 14:05 : client: [3] opened from 127.0.0.1:59022
+Mar 11 00:04 : client: [3] closed
+Mar 11 00:04 : avahi: Client Disconnected, will reconnect shortly
+Mar 11 00:04 : avahi: Could not reconnect: Daemon not running
+Mar 11 13:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 13:18 : client: [0] opened from 127.0.0.1:53966
+Mar 11 13:18 : client: [0] closed
+Mar 11 13:18 : client: [1] opened from 127.0.0.1:53968
+Mar 11 15:41 : client: [2] opened from 127.0.0.1:56284
+Mar 11 15:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 15:41 : client: [3] opened from 127.0.0.1:56288
+Mar 11 15:41 : client: [3] closed
+Mar 11 15:41 : client: [4] opened from 127.0.0.1:56292
+Mar 11 15:41 : client: [4] closed
+Mar 11 15:47 : player: played "Super Eurobeat Vol. 6/04. F.C.F. - Samurai.mp3"
+Mar 11 17:07 : client: [5] opened from 127.0.0.1:58268
+Mar 11 17:07 : client: [5] closed
+Mar 11 17:07 : client: [6] opened from 127.0.0.1:58272
+Mar 11 17:07 : client: [6] closed
+Mar 11 17:13 : player: played "Super Eurobeat Vol. 6/04. F.C.F. - Samurai.mp3"
+Mar 11 17:20 : client: [7] opened from 127.0.0.1:58482
+Mar 11 17:20 : client: [7] closed
+Mar 11 17:20 : client: [8] opened from 127.0.0.1:58486
+Mar 11 17:20 : client: [8] closed
+Mar 11 17:22 : client: [2] closed
+Mar 11 17:26 : player: played "Super Eurobeat Vol. 6/04. F.C.F. - Samurai.mp3"
+Mar 11 17:30 : client: [9] opened from 127.0.0.1:58724
+Mar 11 17:30 : client: [9] closed
+Mar 11 17:30 : client: [10] opened from 127.0.0.1:58726
+Mar 11 17:30 : player: played "Super Eurobeat Vol. 6/04. F.C.F. - Samurai.mp3"
+Mar 11 17:30 : client: [10] closed
+Mar 11 17:30 : client: [11] opened from 127.0.0.1:58728
+Mar 11 17:30 : client: [11] closed
+Mar 11 17:30 : client: [12] opened from 127.0.0.1:58748
+Mar 11 17:30 : client: [12] closed
+Mar 11 17:31 : client: [1] closed
+Mar 11 17:31 : exception: "Pulse_Output" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Mar 11 17:32 : client: [13] opened from 127.0.0.1:58750
+Mar 11 17:32 : client: [13] closed
+Mar 11 17:32 : client: [14] opened from 127.0.0.1:58752
+Mar 11 18:14 : client: [15] opened from 127.0.0.1:60222
+Mar 11 18:14 : client: [16] opened from 127.0.0.1:60226
+Mar 11 18:14 : client: [16] closed
+Mar 11 18:14 : client: [17] opened from 127.0.0.1:60230
+Mar 11 18:14 : client: [17] closed
+Mar 11 18:14 : client: [15] closed
+Mar 11 19:14 : client: [18] opened from 127.0.0.1:34124
+Mar 11 19:14 : client: [19] opened from 127.0.0.1:34128
+Mar 11 19:14 : client: [19] closed
+Mar 11 19:14 : client: [20] opened from 127.0.0.1:34132
+Mar 11 19:14 : client: [20] closed
+Mar 11 19:14 : client: [21] opened from 127.0.0.1:34136
+Mar 11 19:14 : client: [21] closed
+Mar 11 19:14 : client: [22] opened from 127.0.0.1:34140
+Mar 11 19:14 : client: [22] closed
+Mar 11 19:14 : client: [18] closed
+Mar 11 19:14 : client: [23] opened from 127.0.0.1:34160
+Mar 11 19:14 : client: [23] closed
+Mar 11 19:45 : client: [24] opened from 127.0.0.1:34666
+Mar 11 19:45 : client: [24] closed
+Mar 11 19:48 : player: played "One Piece Opening 2.m4a"
+Mar 11 20:09 : client: [14] closed
+Mar 11 20:09 : client: [25] opened from 127.0.0.1:35044
+Mar 11 20:47 : client: [26] opened from 127.0.0.1:35434
+Mar 11 20:47 : client: [26] closed
+Mar 11 20:47 : update: added /One Piece Opening 1 Full Version.m4a
+Mar 11 20:47 : client: [27] opened from 127.0.0.1:35438
+Mar 11 20:47 : client: [28] opened from 127.0.0.1:35442
+Mar 11 20:47 : client: [28] closed
+Mar 11 20:47 : client: [29] opened from 127.0.0.1:35446
+Mar 11 20:47 : client: [29] closed
+Mar 11 20:47 : client: [30] opened from 127.0.0.1:35448
+Mar 11 20:47 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 11 20:47 : client: [30] closed
+Mar 11 20:47 : client: [31] opened from 127.0.0.1:35450
+Mar 11 20:47 : client: [31] closed
+Mar 11 20:47 : client: [32] opened from 127.0.0.1:35454
+Mar 11 20:47 : client: [32] closed
+Mar 11 20:47 : client: [33] opened from 127.0.0.1:35458
+Mar 11 20:47 : client: [33] closed
+Mar 11 20:47 : client: [34] opened from 127.0.0.1:35462
+Mar 11 20:47 : client: [34] closed
+Mar 11 20:47 : client: [35] opened from 127.0.0.1:35466
+Mar 11 20:47 : client: [35] closed
+Mar 11 20:47 : client: [36] opened from 127.0.0.1:35470
+Mar 11 20:47 : client: [36] closed
+Mar 11 20:47 : client: [37] opened from 127.0.0.1:35474
+Mar 11 20:47 : client: [37] closed
+Mar 11 20:51 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 11 20:51 : client: [38] opened from 127.0.0.1:35662
+Mar 11 20:51 : client: [38] closed
+Mar 11 20:51 : client: [39] opened from 127.0.0.1:35666
+Mar 11 20:51 : client: [39] closed
+Mar 11 20:51 : client: [40] opened from 127.0.0.1:35670
+Mar 11 20:51 : client: [40] closed
+Mar 11 20:51 : client: [41] opened from 127.0.0.1:35672
+Mar 11 20:51 : client: [41] closed
+Mar 11 20:51 : client: [42] opened from 127.0.0.1:35676
+Mar 11 20:51 : client: [42] closed
+Mar 11 20:51 : client: [43] opened from 127.0.0.1:35680
+Mar 11 20:51 : client: [43] closed
+Mar 11 20:51 : client: [44] opened from 127.0.0.1:35682
+Mar 11 20:51 : client: [44] closed
+Mar 11 20:51 : client: [45] opened from 127.0.0.1:35686
+Mar 11 20:51 : client: [45] closed
+Mar 11 20:51 : client: [46] opened from 127.0.0.1:35690
+Mar 11 20:51 : client: [46] closed
+Mar 11 20:55 : client: [47] opened from 127.0.0.1:35774
+Mar 11 20:55 : client: [47] closed
+Mar 11 21:06 : client: [48] opened from 127.0.0.1:35846
+Mar 11 21:06 : client: [48] closed
+Mar 11 21:37 : client: [27] closed
+Mar 11 21:37 : client: [49] opened from 127.0.0.1:36510
+Mar 11 21:37 : client: [49] closed
+Mar 11 21:38 : client: [50] opened from 127.0.0.1:36514
+Mar 11 21:38 : client: [50] closed
+Mar 11 21:38 : client: [51] opened from 127.0.0.1:36538
+Mar 11 21:38 : client: [51] closed
+Mar 11 21:38 : update: added gunship/11 - tech-noir-carpenter-brut-remix.mp3
+Mar 11 21:38 : update: added gunship/06 - kitsune.mp3
+Mar 11 21:38 : update: added gunship/09 - fly-for-your-life.mp3
+Mar 11 21:38 : update: added gunship/01 - the-mountain.mp3
+Mar 11 21:38 : update: added gunship/07 - black-sun-on-the-horizon.mp3
+Mar 11 21:38 : update: added gunship/12 - revel-in-your-time-miami-nights-1984-remix.mp3
+Mar 11 21:38 : update: added gunship/10 - maximum-black.mp3
+Mar 11 21:38 : update: added gunship/13 - black-sun-on-the-horizon-makeup-and-vanity-set.mp3
+Mar 11 21:38 : update: added gunship/03 - tech-noir.mp3
+Mar 11 21:38 : update: added gunship/08 - the-hegemon.mp3
+Mar 11 21:38 : update: added gunship/04 - shadow-fury.mp3
+Mar 11 21:38 : update: added gunship/02 - revel-in-your-time.mp3
+Mar 11 21:38 : update: added gunship/05 - pink-mist.mp3
+Mar 11 21:39 : client: [52] opened from 127.0.0.1:36544
+Mar 11 21:39 : client: [53] opened from 127.0.0.1:36548
+Mar 11 21:39 : client: [53] closed
+Mar 11 21:39 : client: [54] opened from 127.0.0.1:36552
+Mar 11 21:39 : client: [54] closed
+Mar 11 21:39 : client: [55] opened from 127.0.0.1:36556
+Mar 11 21:39 : client: [55] closed
+Mar 11 21:39 : client: [56] opened from 127.0.0.1:36560
+Mar 11 21:39 : client: [56] closed
+Mar 11 21:39 : client: [57] opened from 127.0.0.1:36564
+Mar 11 21:39 : client: [57] closed
+Mar 11 21:39 : client: [58] opened from 127.0.0.1:36568
+Mar 11 21:39 : client: [58] closed
+Mar 11 21:39 : client: [59] opened from 127.0.0.1:36572
+Mar 11 21:39 : client: [59] closed
+Mar 11 21:39 : client: [60] opened from 127.0.0.1:36576
+Mar 11 21:39 : client: [60] closed
+Mar 11 21:40 : client: [25] closed
+Mar 11 21:40 : client: [61] opened from 127.0.0.1:36578
+Mar 11 21:40 : client: [61] closed
+Mar 11 21:40 : client: [62] opened from 127.0.0.1:36580
+Mar 11 21:42 : player: played "gunship/11 - tech-noir-carpenter-brut-remix.mp3"
+Mar 11 21:43 : client: [63] opened from 127.0.0.1:36596
+Mar 11 21:43 : client: [64] opened from 127.0.0.1:36604
+Mar 11 21:43 : client: [65] opened from 127.0.0.1:36606
+Mar 11 21:43 : client: [64] closed
+Mar 11 21:43 : client: [65] closed
+Mar 11 21:43 : client: [66] opened from 127.0.0.1:36610
+Mar 11 21:43 : client: [67] opened from 127.0.0.1:36614
+Mar 11 21:43 : client: [66] closed
+Mar 11 21:43 : client: [67] closed
+Mar 11 21:48 : player: played "gunship/01 - the-mountain.mp3"
+Mar 11 21:48 : client: [68] opened from 127.0.0.1:36688
+Mar 11 21:48 : client: [69] opened from 127.0.0.1:36692
+Mar 11 21:48 : client: [68] closed
+Mar 11 21:48 : client: [69] closed
+Mar 11 21:48 : client: [70] opened from 127.0.0.1:36700
+Mar 11 21:48 : client: [71] opened from 127.0.0.1:36698
+Mar 11 21:48 : client: [71] closed
+Mar 11 21:48 : client: [70] closed
+Mar 11 21:49 : client: [62] closed
+Mar 11 21:50 : client: [72] opened from 127.0.0.1:36726
+Mar 11 21:51 : client: [72] closed
+Mar 11 21:51 : client: [73] opened from 127.0.0.1:36730
+Mar 11 21:52 : player: played "gunship/02 - revel-in-your-time.mp3"
+Mar 11 21:52 : client: [74] opened from 127.0.0.1:36734
+Mar 11 21:52 : client: [75] opened from 127.0.0.1:36738
+Mar 11 21:52 : client: [74] closed
+Mar 11 21:52 : client: [75] closed
+Mar 11 21:52 : client: [76] opened from 127.0.0.1:36744
+Mar 11 21:52 : client: [77] opened from 127.0.0.1:36746
+Mar 11 21:52 : client: [76] closed
+Mar 11 21:52 : client: [77] closed
+Mar 11 21:57 : player: played "gunship/03 - tech-noir.mp3"
+Mar 11 21:57 : client: [78] opened from 127.0.0.1:36768
+Mar 11 21:57 : client: [78] closed
+Mar 11 21:57 : client: [79] opened from 127.0.0.1:36772
+Mar 11 21:57 : client: [80] opened from 127.0.0.1:36776
+Mar 11 21:57 : client: [79] closed
+Mar 11 21:57 : client: [80] closed
+Mar 11 21:57 : client: [81] opened from 127.0.0.1:36780
+Mar 11 21:57 : client: [81] closed
+Mar 11 22:01 : player: played "gunship/04 - shadow-fury.mp3"
+Mar 11 22:01 : client: [82] opened from 127.0.0.1:36872
+Mar 11 22:01 : client: [83] opened from 127.0.0.1:36870
+Mar 11 22:01 : client: [82] closed
+Mar 11 22:01 : client: [83] closed
+Mar 11 22:01 : client: [84] opened from 127.0.0.1:36884
+Mar 11 22:01 : client: [85] opened from 127.0.0.1:36882
+Mar 11 22:01 : client: [84] closed
+Mar 11 22:01 : client: [85] closed
+Mar 11 22:05 : player: played "gunship/05 - pink-mist.mp3"
+Mar 11 22:05 : client: [86] opened from 127.0.0.1:36938
+Mar 11 22:05 : client: [87] opened from 127.0.0.1:36942
+Mar 11 22:05 : client: [86] closed
+Mar 11 22:05 : client: [87] closed
+Mar 11 22:05 : client: [88] opened from 127.0.0.1:36946
+Mar 11 22:05 : client: [89] opened from 127.0.0.1:36950
+Mar 11 22:05 : client: [88] closed
+Mar 11 22:05 : client: [89] closed
+Mar 11 22:09 : player: played "gunship/06 - kitsune.mp3"
+Mar 11 22:09 : client: [90] opened from 127.0.0.1:36982
+Mar 11 22:09 : client: [91] opened from 127.0.0.1:36984
+Mar 11 22:09 : client: [91] closed
+Mar 11 22:09 : client: [90] closed
+Mar 11 22:09 : client: [92] opened from 127.0.0.1:36992
+Mar 11 22:09 : client: [93] opened from 127.0.0.1:36994
+Mar 11 22:09 : client: [92] closed
+Mar 11 22:09 : client: [93] closed
+Mar 11 22:14 : player: played "gunship/07 - black-sun-on-the-horizon.mp3"
+Mar 11 22:14 : client: [94] opened from 127.0.0.1:37016
+Mar 11 22:14 : client: [95] opened from 127.0.0.1:37020
+Mar 11 22:14 : client: [95] closed
+Mar 11 22:14 : client: [94] closed
+Mar 11 22:14 : client: [96] opened from 127.0.0.1:37024
+Mar 11 22:14 : client: [97] opened from 127.0.0.1:37028
+Mar 11 22:14 : client: [96] closed
+Mar 11 22:14 : client: [97] closed
+Mar 11 22:18 : player: played "gunship/08 - the-hegemon.mp3"
+Mar 11 22:18 : client: [98] opened from 127.0.0.1:37036
+Mar 11 22:18 : client: [99] opened from 127.0.0.1:37040
+Mar 11 22:18 : client: [98] closed
+Mar 11 22:18 : client: [99] closed
+Mar 11 22:18 : client: [100] opened from 127.0.0.1:37044
+Mar 11 22:18 : client: [101] opened from 127.0.0.1:37048
+Mar 11 22:18 : client: [100] closed
+Mar 11 22:18 : client: [101] closed
+Mar 11 22:21 : client: [52] closed
+Mar 11 22:22 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 11 22:22 : client: [102] opened from 127.0.0.1:37110
+Mar 11 22:22 : client: [102] closed
+Mar 11 22:22 : client: [103] opened from 127.0.0.1:37114
+Mar 11 22:22 : client: [103] closed
+Mar 11 22:28 : player: played "gunship/10 - maximum-black.mp3"
+Mar 11 22:28 : client: [104] opened from 127.0.0.1:37144
+Mar 11 22:28 : client: [104] closed
+Mar 11 22:28 : client: [105] opened from 127.0.0.1:37148
+Mar 11 22:28 : client: [105] closed
+Mar 11 22:31 : player: played "gunship/11 - tech-noir-carpenter-brut-remix.mp3"
+Mar 11 22:31 : client: [106] opened from 127.0.0.1:37196
+Mar 11 22:31 : client: [106] closed
+Mar 11 22:31 : client: [107] opened from 127.0.0.1:37200
+Mar 11 22:31 : client: [107] closed
+Mar 11 22:35 : client: [63] closed
+Mar 11 22:35 : player: played "gunship/12 - revel-in-your-time-miami-nights-1984-remix.mp3"
+Mar 11 22:40 : client: [108] opened from 127.0.0.1:37354
+Mar 11 22:40 : client: [109] opened from 127.0.0.1:37358
+Mar 11 22:40 : client: [109] closed
+Mar 11 22:40 : client: [110] opened from 127.0.0.1:37362
+Mar 11 22:40 : client: [110] closed
+Mar 11 22:40 : client: [111] opened from 127.0.0.1:37364
+Mar 11 22:40 : client: [111] closed
+Mar 11 22:58 : client: [112] opened from 127.0.0.1:37412
+Mar 11 22:58 : client: [112] closed
+Mar 11 23:02 : client: [113] opened from 127.0.0.1:37470
+Mar 11 23:02 : client: [113] closed
+Mar 11 23:02 : client: [114] opened from 127.0.0.1:37474
+Mar 11 23:02 : client: [114] closed
+Mar 11 23:07 : player: played "gunship/01 - the-mountain.mp3"
+Mar 11 23:07 : client: [115] opened from 127.0.0.1:37536
+Mar 11 23:07 : client: [115] closed
+Mar 11 23:07 : client: [116] opened from 127.0.0.1:37540
+Mar 11 23:07 : client: [116] closed
+Mar 11 23:11 : player: played "gunship/02 - revel-in-your-time.mp3"
+Mar 11 23:11 : client: [117] opened from 127.0.0.1:37714
+Mar 11 23:11 : client: [117] closed
+Mar 11 23:11 : client: [118] opened from 127.0.0.1:37718
+Mar 11 23:11 : client: [118] closed
+Mar 11 23:16 : player: played "gunship/03 - tech-noir.mp3"
+Mar 11 23:16 : client: [119] opened from 127.0.0.1:38022
+Mar 11 23:16 : client: [119] closed
+Mar 11 23:16 : client: [120] opened from 127.0.0.1:38026
+Mar 11 23:16 : client: [120] closed
+Mar 11 23:20 : player: played "gunship/04 - shadow-fury.mp3"
+Mar 11 23:20 : client: [121] opened from 127.0.0.1:38076
+Mar 11 23:20 : client: [121] closed
+Mar 11 23:20 : client: [122] opened from 127.0.0.1:38080
+Mar 11 23:20 : client: [122] closed
+Mar 11 23:24 : player: played "gunship/05 - pink-mist.mp3"
+Mar 11 23:24 : client: [123] opened from 127.0.0.1:38118
+Mar 11 23:24 : client: [123] closed
+Mar 11 23:24 : client: [124] opened from 127.0.0.1:38122
+Mar 11 23:24 : client: [124] closed
+Mar 11 23:28 : player: played "gunship/06 - kitsune.mp3"
+Mar 11 23:28 : client: [125] opened from 127.0.0.1:38406
+Mar 11 23:28 : client: [125] closed
+Mar 11 23:28 : client: [126] opened from 127.0.0.1:38410
+Mar 11 23:28 : client: [126] closed
+Mar 11 23:33 : player: played "gunship/07 - black-sun-on-the-horizon.mp3"
+Mar 11 23:33 : client: [127] opened from 127.0.0.1:38592
+Mar 11 23:33 : client: [127] closed
+Mar 11 23:33 : client: [128] opened from 127.0.0.1:38596
+Mar 11 23:33 : client: [128] closed
+Mar 11 23:36 : client: [129] opened from 127.0.0.1:38668
+Mar 11 23:36 : client: [129] closed
+Mar 11 23:38 : client: [130] opened from 127.0.0.1:39086
+Mar 11 23:38 : client: [130] closed
+Mar 11 23:38 : player: played "gunship/08 - the-hegemon.mp3"
+Mar 11 23:38 : client: [131] opened from 127.0.0.1:39092
+Mar 11 23:38 : client: [131] closed
+Mar 11 23:38 : client: [132] opened from 127.0.0.1:39096
+Mar 11 23:38 : client: [132] closed
+Mar 11 23:43 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 11 23:43 : client: [133] opened from 127.0.0.1:39154
+Mar 11 23:43 : client: [133] closed
+Mar 11 23:43 : client: [134] opened from 127.0.0.1:39158
+Mar 11 23:43 : client: [134] closed
+Mar 11 23:48 : player: played "gunship/10 - maximum-black.mp3"
+Mar 11 23:48 : client: [135] opened from 127.0.0.1:39234
+Mar 11 23:48 : client: [135] closed
+Mar 11 23:48 : client: [136] opened from 127.0.0.1:39238
+Mar 11 23:48 : client: [136] closed
+Mar 11 23:52 : player: played "gunship/11 - tech-noir-carpenter-brut-remix.mp3"
+Mar 11 23:52 : client: [137] opened from 127.0.0.1:39278
+Mar 11 23:52 : client: [137] closed
+Mar 11 23:52 : client: [138] opened from 127.0.0.1:39282
+Mar 11 23:52 : client: [138] closed
+Mar 11 23:54 : client: [139] opened from 127.0.0.1:39340
+Mar 11 23:54 : client: [139] closed
+Mar 12 00:19 : client: [140] opened from 127.0.0.1:40212
+Mar 12 00:19 : client: [140] closed
+Mar 12 00:20 : client: [141] opened from 127.0.0.1:40340
+Mar 12 00:20 : client: [141] closed
+Mar 12 00:27 : client: [142] opened from 127.0.0.1:40490
+Mar 12 00:27 : client: [142] closed
+Mar 12 00:27 : client: [108] closed
+Mar 12 00:28 : player: played "gunship/12 - revel-in-your-time-miami-nights-1984-remix.mp3"
+Mar 12 00:33 : player: played "gunship/13 - black-sun-on-the-horizon-makeup-and-vanity-set.mp3"
+Mar 12 00:36 : client: [143] opened from 127.0.0.1:40568
+Mar 12 00:36 : client: [144] opened from 127.0.0.1:40572
+Mar 12 00:36 : client: [144] closed
+Mar 12 00:36 : client: [145] opened from 127.0.0.1:40576
+Mar 12 00:36 : client: [145] closed
+Mar 12 00:36 : client: [73] closed
+Mar 12 00:36 : client: [146] opened from 127.0.0.1:40578
+Mar 12 00:38 : client: [147] opened from 127.0.0.1:40584
+Mar 12 00:38 : client: [147] closed
+Mar 12 00:38 : client: [148] opened from 127.0.0.1:40588
+Mar 12 00:38 : client: [148] closed
+Mar 12 00:38 : client: [146] closed
+Mar 12 00:38 : client: [149] opened from 127.0.0.1:40590
+Mar 12 00:43 : player: played "PERTURBATOR - New Model/PERTURBATOR - New Model - 02 Tactical Precision Disarray.mp3"
+Mar 12 00:43 : client: [150] opened from 127.0.0.1:41066
+Mar 12 00:43 : client: [150] closed
+Mar 12 00:43 : client: [151] opened from 127.0.0.1:41070
+Mar 12 00:43 : client: [151] closed
+Mar 12 00:48 : player: played "PERTURBATOR - New Model/PERTURBATOR - New Model - 03 Vantablack.mp3"
+Mar 12 00:48 : client: [152] opened from 127.0.0.1:41284
+Mar 12 00:48 : client: [152] closed
+Mar 12 00:48 : client: [153] opened from 127.0.0.1:41288
+Mar 12 00:48 : client: [153] closed
+Mar 12 00:53 : player: played "PERTURBATOR - New Model/PERTURBATOR - New Model - 04 Tainted Empire.mp3"
+Mar 12 00:53 : client: [154] opened from 127.0.0.1:41314
+Mar 12 00:53 : client: [154] closed
+Mar 12 00:53 : client: [155] opened from 127.0.0.1:41318
+Mar 12 00:53 : client: [155] closed
+Mar 12 00:56 : client: [156] opened from 127.0.0.1:41354
+Mar 12 00:56 : client: [156] closed
+Mar 12 01:02 : client: [149] closed
+Mar 12 01:02 : client: [157] opened from 127.0.0.1:41550
+Mar 12 01:05 : client: [157] closed
+Mar 12 01:05 : client: [158] opened from 127.0.0.1:41564
+Mar 12 01:05 : client: [158] closed
+Mar 12 01:05 : client: [159] opened from 127.0.0.1:41566
+Mar 12 01:05 : client: [159] closed
+Mar 12 01:05 : client: [160] opened from 127.0.0.1:41568
+Mar 12 01:20 : client: [143] closed
+Mar 12 01:20 : client: [160] closed
+Mar 12 01:20 : exception: "Pulse_Output" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Mar 12 01:21 : avahi: Client Disconnected, will reconnect shortly
+Mar 12 01:21 : avahi: Could not reconnect: An unexpected D-Bus error occurred
+Mar 12 01:21 : player: played "PERTURBATOR - New Model/PERTURBATOR - New Model - 05 Corrupted by Design.mp3"
+Mar 12 16:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 16:26 : client: [0] opened from 127.0.0.1:46072
+Mar 12 16:26 : client: [0] closed
+Mar 12 16:26 : client: [1] opened from 127.0.0.1:46074
+Mar 12 16:47 : client: [2] opened from 127.0.0.1:46584
+Mar 12 16:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 16:47 : client: [3] opened from 127.0.0.1:46588
+Mar 12 16:47 : client: [3] closed
+Mar 12 16:47 : client: [4] opened from 127.0.0.1:46592
+Mar 12 16:47 : client: [4] closed
+Mar 12 16:51 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 12 17:18 : client: [1] closed
+Mar 12 17:18 : client: [5] opened from 127.0.0.1:47882
+Mar 12 17:20 : client: [5] closed
+Mar 12 17:20 : client: [6] opened from 127.0.0.1:47938
+Mar 12 17:20 : client: [6] closed
+Mar 12 17:20 : client: [7] opened from 127.0.0.1:47940
+Mar 12 17:20 : client: [7] closed
+Mar 12 17:20 : client: [8] opened from 127.0.0.1:47942
+Mar 12 17:20 : client: [8] closed
+Mar 12 17:20 : client: [9] opened from 127.0.0.1:47944
+Mar 12 17:20 : client: [9] closed
+Mar 12 17:20 : client: [10] opened from 127.0.0.1:47946
+Mar 12 17:21 : client: [10] closed
+Mar 12 17:21 : client: [11] opened from 127.0.0.1:47954
+Mar 12 17:22 : client: [11] closed
+Mar 12 17:22 : client: [12] opened from 127.0.0.1:47958
+Mar 12 17:22 : client: [12] closed
+Mar 12 17:22 : client: [13] opened from 127.0.0.1:47966
+Mar 12 17:22 : client: [14] opened from 127.0.0.1:47970
+Mar 12 17:22 : client: [14] closed
+Mar 12 17:30 : client: [15] opened from 127.0.0.1:48182
+Mar 12 17:30 : client: [15] closed
+Mar 12 17:30 : client: [16] opened from 127.0.0.1:48186
+Mar 12 17:30 : client: [16] closed
+Mar 12 17:31 : client: [13] closed
+Mar 12 17:31 : client: [17] opened from 127.0.0.1:48346
+Mar 12 17:34 : player: played "gunship/01 - the-mountain.mp3"
+Mar 12 17:34 : client: [18] opened from 127.0.0.1:48350
+Mar 12 17:34 : client: [18] closed
+Mar 12 17:34 : client: [19] opened from 127.0.0.1:48354
+Mar 12 17:34 : client: [19] closed
+Mar 12 17:39 : player: played "gunship/02 - revel-in-your-time.mp3"
+Mar 12 17:39 : client: [20] opened from 127.0.0.1:48462
+Mar 12 17:39 : client: [20] closed
+Mar 12 17:39 : client: [21] opened from 127.0.0.1:48466
+Mar 12 17:39 : client: [21] closed
+Mar 12 17:43 : player: played "gunship/03 - tech-noir.mp3"
+Mar 12 17:43 : client: [22] opened from 127.0.0.1:48562
+Mar 12 17:43 : client: [22] closed
+Mar 12 17:43 : client: [23] opened from 127.0.0.1:48566
+Mar 12 17:43 : client: [23] closed
+Mar 12 17:48 : player: played "gunship/04 - shadow-fury.mp3"
+Mar 12 17:48 : client: [24] opened from 127.0.0.1:48682
+Mar 12 17:48 : client: [24] closed
+Mar 12 17:48 : client: [25] opened from 127.0.0.1:48686
+Mar 12 17:48 : client: [25] closed
+Mar 12 17:52 : player: played "gunship/05 - pink-mist.mp3"
+Mar 12 17:52 : client: [26] opened from 127.0.0.1:48810
+Mar 12 17:52 : client: [26] closed
+Mar 12 17:52 : client: [27] opened from 127.0.0.1:48814
+Mar 12 17:52 : client: [27] closed
+Mar 12 17:56 : player: played "gunship/06 - kitsune.mp3"
+Mar 12 17:56 : client: [28] opened from 127.0.0.1:48820
+Mar 12 17:56 : client: [28] closed
+Mar 12 17:56 : client: [29] opened from 127.0.0.1:48824
+Mar 12 17:56 : client: [29] closed
+Mar 12 18:01 : player: played "gunship/07 - black-sun-on-the-horizon.mp3"
+Mar 12 18:01 : client: [30] opened from 127.0.0.1:48906
+Mar 12 18:01 : client: [30] closed
+Mar 12 18:01 : client: [31] opened from 127.0.0.1:48910
+Mar 12 18:01 : client: [31] closed
+Mar 12 18:04 : player: played "gunship/08 - the-hegemon.mp3"
+Mar 12 18:04 : client: [32] opened from 127.0.0.1:49004
+Mar 12 18:04 : client: [32] closed
+Mar 12 18:04 : client: [33] opened from 127.0.0.1:49008
+Mar 12 18:04 : client: [33] closed
+Mar 12 18:09 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 12 18:09 : client: [34] opened from 127.0.0.1:49024
+Mar 12 18:09 : client: [34] closed
+Mar 12 18:09 : client: [35] opened from 127.0.0.1:49028
+Mar 12 18:09 : client: [35] closed
+Mar 12 18:15 : player: played "gunship/10 - maximum-black.mp3"
+Mar 12 18:15 : client: [36] opened from 127.0.0.1:49056
+Mar 12 18:15 : client: [36] closed
+Mar 12 18:15 : client: [37] opened from 127.0.0.1:49060
+Mar 12 18:15 : client: [37] closed
+Mar 12 18:18 : player: played "gunship/11 - tech-noir-carpenter-brut-remix.mp3"
+Mar 12 18:18 : client: [38] opened from 127.0.0.1:49068
+Mar 12 18:18 : client: [38] closed
+Mar 12 18:18 : client: [39] opened from 127.0.0.1:49072
+Mar 12 18:18 : client: [39] closed
+Mar 12 18:22 : player: played "gunship/12 - revel-in-your-time-miami-nights-1984-remix.mp3"
+Mar 12 18:22 : client: [40] opened from 127.0.0.1:49112
+Mar 12 18:22 : client: [40] closed
+Mar 12 18:22 : client: [41] opened from 127.0.0.1:49116
+Mar 12 18:22 : client: [41] closed
+Mar 12 18:27 : client: [42] opened from 127.0.0.1:49186
+Mar 12 18:27 : client: [42] closed
+Mar 12 18:29 : client: [43] opened from 127.0.0.1:49286
+Mar 12 18:29 : client: [43] closed
+Mar 12 18:29 : client: [44] opened from 127.0.0.1:49290
+Mar 12 18:29 : client: [44] closed
+Mar 12 18:29 : client: [45] opened from 127.0.0.1:49304
+Mar 12 18:29 : client: [45] closed
+Mar 12 18:29 : client: [46] opened from 127.0.0.1:49308
+Mar 12 18:29 : client: [46] closed
+Mar 12 18:33 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 12 18:33 : client: [47] opened from 127.0.0.1:49608
+Mar 12 18:33 : client: [47] closed
+Mar 12 18:33 : client: [48] opened from 127.0.0.1:49612
+Mar 12 18:33 : client: [48] closed
+Mar 12 18:39 : player: played "gunship/10 - maximum-black.mp3"
+Mar 12 18:39 : client: [49] opened from 127.0.0.1:49840
+Mar 12 18:39 : client: [49] closed
+Mar 12 18:39 : client: [50] opened from 127.0.0.1:49844
+Mar 12 18:39 : client: [50] closed
+Mar 12 18:43 : player: played "gunship/11 - tech-noir-carpenter-brut-remix.mp3"
+Mar 12 18:43 : client: [51] opened from 127.0.0.1:49894
+Mar 12 18:43 : client: [51] closed
+Mar 12 18:43 : client: [52] opened from 127.0.0.1:49898
+Mar 12 18:43 : client: [52] closed
+Mar 12 18:45 : client: [53] opened from 127.0.0.1:49924
+Mar 12 18:45 : client: [53] closed
+Mar 12 19:27 : client: [54] opened from 127.0.0.1:50484
+Mar 12 19:27 : client: [54] closed
+Mar 12 19:29 : player: played "gunship/12 - revel-in-your-time-miami-nights-1984-remix.mp3"
+Mar 12 19:29 : client: [55] opened from 127.0.0.1:50512
+Mar 12 19:29 : client: [55] closed
+Mar 12 19:29 : client: [56] opened from 127.0.0.1:50516
+Mar 12 19:29 : client: [56] closed
+Mar 12 19:34 : player: played "gunship/13 - black-sun-on-the-horizon-makeup-and-vanity-set.mp3"
+Mar 12 19:34 : client: [57] opened from 127.0.0.1:50582
+Mar 12 19:34 : client: [57] closed
+Mar 12 19:34 : client: [58] opened from 127.0.0.1:50586
+Mar 12 19:34 : client: [58] closed
+Mar 12 19:35 : client: [59] opened from 127.0.0.1:50592
+Mar 12 19:35 : client: [60] opened from 127.0.0.1:50596
+Mar 12 19:35 : client: [60] closed
+Mar 12 19:35 : client: [61] opened from 127.0.0.1:50600
+Mar 12 19:35 : client: [61] closed
+Mar 12 19:36 : client: [62] opened from 127.0.0.1:50604
+Mar 12 19:36 : client: [62] closed
+Mar 12 19:36 : client: [63] opened from 127.0.0.1:50608
+Mar 12 19:36 : client: [64] opened from 127.0.0.1:50612
+Mar 12 19:36 : client: [64] closed
+Mar 12 19:36 : client: [63] closed
+Mar 12 19:36 : client: [65] opened from 127.0.0.1:50616
+Mar 12 19:36 : client: [65] closed
+Mar 12 19:41 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 12 19:41 : client: [66] opened from 127.0.0.1:50646
+Mar 12 19:41 : client: [67] opened from 127.0.0.1:50650
+Mar 12 19:41 : client: [66] closed
+Mar 12 19:41 : client: [67] closed
+Mar 12 19:41 : client: [68] opened from 127.0.0.1:50654
+Mar 12 19:41 : client: [69] opened from 127.0.0.1:50658
+Mar 12 19:41 : client: [68] closed
+Mar 12 19:41 : client: [69] closed
+Mar 12 19:47 : player: played "gunship/10 - maximum-black.mp3"
+Mar 12 19:47 : client: [70] opened from 127.0.0.1:50748
+Mar 12 19:47 : client: [71] opened from 127.0.0.1:50750
+Mar 12 19:47 : client: [70] closed
+Mar 12 19:47 : client: [71] closed
+Mar 12 19:47 : client: [72] opened from 127.0.0.1:50756
+Mar 12 19:47 : client: [73] opened from 127.0.0.1:50760
+Mar 12 19:47 : client: [72] closed
+Mar 12 19:47 : client: [73] closed
+Mar 12 19:50 : player: played "gunship/11 - tech-noir-carpenter-brut-remix.mp3"
+Mar 12 19:50 : client: [74] opened from 127.0.0.1:50796
+Mar 12 19:50 : client: [75] opened from 127.0.0.1:50800
+Mar 12 19:50 : client: [74] closed
+Mar 12 19:50 : client: [75] closed
+Mar 12 19:50 : client: [76] opened from 127.0.0.1:50810
+Mar 12 19:50 : client: [77] opened from 127.0.0.1:50808
+Mar 12 19:50 : client: [76] closed
+Mar 12 19:50 : client: [77] closed
+Mar 12 20:29 : client: [2] closed
+Mar 12 20:30 : client: [59] closed
+Mar 12 21:04 : client: [78] opened from 127.0.0.1:52614
+Mar 12 21:04 : client: [79] opened from 127.0.0.1:52618
+Mar 12 21:04 : client: [79] closed
+Mar 12 21:04 : client: [80] opened from 127.0.0.1:52622
+Mar 12 21:04 : client: [80] closed
+Mar 12 21:04 : client: [81] opened from 127.0.0.1:52626
+Mar 12 21:04 : client: [81] closed
+Mar 12 21:04 : client: [82] opened from 127.0.0.1:52630
+Mar 12 21:04 : client: [82] closed
+Mar 12 21:08 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 12 21:11 : client: [83] opened from 127.0.0.1:52798
+Mar 12 21:11 : client: [83] closed
+Mar 12 21:11 : client: [84] opened from 127.0.0.1:52802
+Mar 12 21:11 : client: [84] closed
+Mar 12 21:13 : player: played "Super Eurobeat Vol. 8/20. Mark Farina - Russian.mp3"
+Mar 12 21:15 : client: [85] opened from 127.0.0.1:52836
+Mar 12 21:15 : client: [85] closed
+Mar 12 21:15 : client: [86] opened from 127.0.0.1:52840
+Mar 12 21:15 : client: [86] closed
+Mar 12 21:15 : client: [78] closed
+Mar 12 21:15 : client: [87] opened from 127.0.0.1:52846
+Mar 12 21:15 : client: [88] opened from 127.0.0.1:52850
+Mar 12 21:15 : client: [88] closed
+Mar 12 21:15 : client: [89] opened from 127.0.0.1:52854
+Mar 12 21:15 : client: [89] closed
+Mar 12 21:20 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 12 21:20 : client: [90] opened from 127.0.0.1:52998
+Mar 12 21:20 : client: [90] closed
+Mar 12 21:20 : client: [91] opened from 127.0.0.1:53002
+Mar 12 21:20 : client: [91] closed
+Mar 12 21:23 : player: played "Super Eurobeat Vol. 8/07. Alphatown - Japan Japan.mp3"
+Mar 12 21:23 : client: [92] opened from 127.0.0.1:53008
+Mar 12 21:23 : client: [92] closed
+Mar 12 21:23 : client: [93] opened from 127.0.0.1:53012
+Mar 12 21:23 : client: [93] closed
+Mar 12 21:27 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 12 21:27 : client: [94] opened from 127.0.0.1:53046
+Mar 12 21:27 : client: [94] closed
+Mar 12 21:27 : client: [95] opened from 127.0.0.1:53050
+Mar 12 21:27 : client: [95] closed
+Mar 12 21:31 : player: played "Initial D The Movie of Super Eurobeat/05  Fly to Me to the Moon & Back  The Spiders from Mars.mp3"
+Mar 12 21:31 : client: [96] opened from 127.0.0.1:53106
+Mar 12 21:31 : client: [96] closed
+Mar 12 21:31 : client: [97] opened from 127.0.0.1:53110
+Mar 12 21:31 : client: [97] closed
+Mar 12 21:35 : player: played "Super Eurobeat Vol. 158/02 Love Is Freedom.mp3"
+Mar 12 21:35 : client: [98] opened from 127.0.0.1:53260
+Mar 12 21:35 : client: [98] closed
+Mar 12 21:35 : client: [99] opened from 127.0.0.1:53264
+Mar 12 21:35 : client: [99] closed
+Mar 12 21:41 : player: played "Super Eurobeat Vol. 97 - History of SEB from Vol. 61-70/01 Money Go! (Extended Mix).mp3"
+Mar 12 21:41 : client: [100] opened from 127.0.0.1:53422
+Mar 12 21:41 : client: [100] closed
+Mar 12 21:41 : client: [101] opened from 127.0.0.1:53426
+Mar 12 21:41 : client: [101] closed
+Mar 12 21:43 : client: [17] closed
+Mar 12 21:43 : client: [102] opened from 127.0.0.1:53514
+Mar 12 21:45 : client: [102] closed
+Mar 12 21:45 : client: [103] opened from 127.0.0.1:53518
+Mar 12 21:47 : player: played "Super Eurobeat Vol. 3 - Extended Version/08  Bye Bye Baby  Max Coveri.mp3"
+Mar 12 21:47 : client: [104] opened from 127.0.0.1:53574
+Mar 12 21:47 : client: [104] closed
+Mar 12 21:47 : client: [105] opened from 127.0.0.1:53578
+Mar 12 21:47 : client: [105] closed
+Mar 12 21:51 : player: played "Super Eurobeat Vol. 158/06 Dancin' Time.mp3"
+Mar 12 21:52 : client: [106] opened from 127.0.0.1:53666
+Mar 12 21:52 : client: [106] closed
+Mar 12 21:52 : client: [107] opened from 127.0.0.1:53670
+Mar 12 21:52 : client: [107] closed
+Mar 12 21:54 : player: played "Super Eurobeat Vol. 8/07. Alphatown - Japan Japan.mp3"
+Mar 12 21:54 : client: [108] opened from 127.0.0.1:53690
+Mar 12 21:54 : client: [108] closed
+Mar 12 21:54 : client: [109] opened from 127.0.0.1:53694
+Mar 12 21:54 : client: [109] closed
+Mar 12 21:58 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 12 21:58 : client: [110] opened from 127.0.0.1:53768
+Mar 12 21:58 : client: [110] closed
+Mar 12 21:58 : client: [111] opened from 127.0.0.1:53772
+Mar 12 21:58 : client: [111] closed
+Mar 12 22:00 : client: [112] opened from 127.0.0.1:53794
+Mar 12 22:00 : client: [112] closed
+Mar 12 22:36 : client: [113] opened from 127.0.0.1:54074
+Mar 12 22:36 : client: [113] closed
+Mar 12 22:39 : player: played "Initial D The Movie of Super Eurobeat/05  Fly to Me to the Moon & Back  The Spiders from Mars.mp3"
+Mar 12 22:39 : client: [114] opened from 127.0.0.1:54326
+Mar 12 22:39 : client: [114] closed
+Mar 12 22:39 : client: [115] opened from 127.0.0.1:54330
+Mar 12 22:39 : client: [115] closed
+Mar 12 22:42 : player: played "Super Eurobeat Vol. 158/02 Love Is Freedom.mp3"
+Mar 12 22:42 : client: [116] opened from 127.0.0.1:54390
+Mar 12 22:42 : client: [116] closed
+Mar 12 22:42 : client: [117] opened from 127.0.0.1:54394
+Mar 12 22:42 : client: [117] closed
+Mar 12 22:48 : player: played "Super Eurobeat Vol. 97 - History of SEB from Vol. 61-70/01 Money Go! (Extended Mix).mp3"
+Mar 12 22:48 : client: [118] opened from 127.0.0.1:54600
+Mar 12 22:48 : client: [118] closed
+Mar 12 22:48 : client: [119] opened from 127.0.0.1:54604
+Mar 12 22:48 : client: [119] closed
+Mar 12 22:51 : client: [120] opened from 127.0.0.1:54642
+Mar 12 22:51 : client: [121] opened from 127.0.0.1:54646
+Mar 12 22:51 : client: [122] opened from 127.0.0.1:54650
+Mar 12 22:51 : client: [121] closed
+Mar 12 22:51 : client: [122] closed
+Mar 12 22:54 : player: played "Super Eurobeat Vol. 3 - Extended Version/08  Bye Bye Baby  Max Coveri.mp3"
+Mar 12 22:54 : client: [123] opened from 127.0.0.1:54672
+Mar 12 22:54 : client: [124] opened from 127.0.0.1:54674
+Mar 12 22:54 : client: [123] closed
+Mar 12 22:54 : client: [124] closed
+Mar 12 22:54 : client: [125] opened from 127.0.0.1:54680
+Mar 12 22:54 : client: [126] opened from 127.0.0.1:54684
+Mar 12 22:54 : client: [125] closed
+Mar 12 22:54 : client: [126] closed
+Mar 12 22:58 : player: played "Super Eurobeat Vol. 158/06 Dancin' Time.mp3"
+Mar 12 22:59 : client: [127] opened from 127.0.0.1:54740
+Mar 12 22:59 : client: [128] opened from 127.0.0.1:54744
+Mar 12 22:59 : client: [128] closed
+Mar 12 22:59 : client: [127] closed
+Mar 12 22:59 : client: [129] opened from 127.0.0.1:54754
+Mar 12 22:59 : client: [130] opened from 127.0.0.1:54752
+Mar 12 22:59 : client: [130] closed
+Mar 12 22:59 : client: [129] closed
+Mar 12 23:03 : player: played "Super Eurobeat Vol. 229 - Extended Version/01 Brand New World.mp3"
+Mar 12 23:03 : client: [131] opened from 127.0.0.1:54762
+Mar 12 23:03 : client: [132] opened from 127.0.0.1:54766
+Mar 12 23:03 : client: [131] closed
+Mar 12 23:03 : client: [132] closed
+Mar 12 23:03 : client: [133] opened from 127.0.0.1:54770
+Mar 12 23:03 : client: [134] opened from 127.0.0.1:54774
+Mar 12 23:03 : client: [133] closed
+Mar 12 23:03 : client: [134] closed
+Mar 12 23:03 : client: [87] closed
+Mar 12 23:08 : player: played "Super Eurobeat Vol. 229 - Extended Version/06 Hot Like a Fire.mp3"
+Mar 12 23:08 : client: [135] opened from 127.0.0.1:54828
+Mar 12 23:08 : client: [135] closed
+Mar 12 23:08 : client: [136] opened from 127.0.0.1:54832
+Mar 12 23:08 : client: [136] closed
+Mar 12 23:10 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/01 King and Queen.mp3"
+Mar 12 23:10 : client: [137] opened from 127.0.0.1:54896
+Mar 12 23:10 : client: [137] closed
+Mar 12 23:10 : client: [138] opened from 127.0.0.1:54900
+Mar 12 23:10 : client: [138] closed
+Mar 12 23:11 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/02 Fantasy.mp3"
+Mar 12 23:11 : client: [139] opened from 127.0.0.1:54910
+Mar 12 23:11 : client: [139] closed
+Mar 12 23:11 : client: [140] opened from 127.0.0.1:54914
+Mar 12 23:11 : client: [140] closed
+Mar 12 23:12 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/03 Hot Love & Emotion.mp3"
+Mar 12 23:12 : client: [141] opened from 127.0.0.1:54918
+Mar 12 23:12 : client: [141] closed
+Mar 12 23:12 : client: [142] opened from 127.0.0.1:54922
+Mar 12 23:12 : client: [142] closed
+Mar 12 23:14 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/04 Hurricane.mp3"
+Mar 12 23:14 : client: [143] opened from 127.0.0.1:54926
+Mar 12 23:14 : client: [143] closed
+Mar 12 23:14 : client: [144] opened from 127.0.0.1:54930
+Mar 12 23:14 : client: [144] closed
+Mar 12 23:15 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/05 Kamikaze.mp3"
+Mar 12 23:15 : client: [145] opened from 127.0.0.1:54946
+Mar 12 23:15 : client: [145] closed
+Mar 12 23:15 : client: [146] opened from 127.0.0.1:54950
+Mar 12 23:15 : client: [146] closed
+Mar 12 23:17 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/06 Dark in the Night.mp3"
+Mar 12 23:17 : client: [147] opened from 127.0.0.1:54962
+Mar 12 23:17 : client: [147] closed
+Mar 12 23:17 : client: [148] opened from 127.0.0.1:54966
+Mar 12 23:17 : client: [148] closed
+Mar 12 23:18 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/07 Try Me.mp3"
+Mar 12 23:18 : client: [149] opened from 127.0.0.1:54998
+Mar 12 23:18 : client: [149] closed
+Mar 12 23:18 : client: [150] opened from 127.0.0.1:55002
+Mar 12 23:18 : client: [150] closed
+Mar 12 23:20 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/08 Tora Tora Tora.mp3"
+Mar 12 23:20 : client: [151] opened from 127.0.0.1:55010
+Mar 12 23:20 : client: [151] closed
+Mar 12 23:20 : client: [152] opened from 127.0.0.1:55014
+Mar 12 23:20 : client: [152] closed
+Mar 12 23:21 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/09 Sugar Baby.mp3"
+Mar 12 23:21 : client: [153] opened from 127.0.0.1:55066
+Mar 12 23:21 : client: [153] closed
+Mar 12 23:21 : client: [154] opened from 127.0.0.1:55070
+Mar 12 23:21 : client: [154] closed
+Mar 12 23:23 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/10 He-Hey Dancing.mp3"
+Mar 12 23:23 : client: [155] opened from 127.0.0.1:55082
+Mar 12 23:23 : client: [155] closed
+Mar 12 23:23 : client: [156] opened from 127.0.0.1:55086
+Mar 12 23:23 : client: [156] closed
+Mar 12 23:24 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/11 Jungle Night.mp3"
+Mar 12 23:24 : client: [157] opened from 127.0.0.1:55158
+Mar 12 23:24 : client: [157] closed
+Mar 12 23:24 : client: [158] opened from 127.0.0.1:55162
+Mar 12 23:24 : client: [158] closed
+Mar 12 23:26 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/12 Seventies.mp3"
+Mar 12 23:26 : client: [159] opened from 127.0.0.1:55178
+Mar 12 23:26 : client: [159] closed
+Mar 12 23:26 : client: [160] opened from 127.0.0.1:55182
+Mar 12 23:26 : client: [160] closed
+Mar 12 23:27 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/13 Harmony.mp3"
+Mar 12 23:27 : client: [161] opened from 127.0.0.1:55198
+Mar 12 23:27 : client: [161] closed
+Mar 12 23:27 : client: [162] opened from 127.0.0.1:55202
+Mar 12 23:27 : client: [162] closed
+Mar 12 23:29 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/14 Money Go!.mp3"
+Mar 12 23:29 : client: [163] opened from 127.0.0.1:55208
+Mar 12 23:29 : client: [163] closed
+Mar 12 23:29 : client: [164] opened from 127.0.0.1:55212
+Mar 12 23:29 : client: [164] closed
+Mar 12 23:30 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/15 Yesterday.mp3"
+Mar 12 23:30 : client: [165] opened from 127.0.0.1:55236
+Mar 12 23:30 : client: [165] closed
+Mar 12 23:30 : client: [166] opened from 127.0.0.1:55240
+Mar 12 23:30 : client: [166] closed
+Mar 12 23:31 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/16 One Night in Arabia.mp3"
+Mar 12 23:31 : client: [167] opened from 127.0.0.1:55252
+Mar 12 23:31 : client: [167] closed
+Mar 12 23:31 : client: [168] opened from 127.0.0.1:55256
+Mar 12 23:31 : client: [168] closed
+Mar 12 23:33 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/17 Jealousy.mp3"
+Mar 12 23:33 : client: [169] opened from 127.0.0.1:55262
+Mar 12 23:33 : client: [169] closed
+Mar 12 23:33 : client: [170] opened from 127.0.0.1:55266
+Mar 12 23:33 : client: [170] closed
+Mar 12 23:34 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/18 Dancer.mp3"
+Mar 12 23:34 : client: [171] opened from 127.0.0.1:55270
+Mar 12 23:34 : client: [171] closed
+Mar 12 23:34 : client: [172] opened from 127.0.0.1:55274
+Mar 12 23:34 : client: [172] closed
+Mar 12 23:36 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/19 Burning Desire.mp3"
+Mar 12 23:36 : client: [173] opened from 127.0.0.1:55284
+Mar 12 23:36 : client: [173] closed
+Mar 12 23:36 : client: [174] opened from 127.0.0.1:55288
+Mar 12 23:36 : client: [174] closed
+Mar 12 23:37 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/20 Anniversary.mp3"
+Mar 12 23:37 : client: [175] opened from 127.0.0.1:55292
+Mar 12 23:37 : client: [175] closed
+Mar 12 23:37 : client: [176] opened from 127.0.0.1:55296
+Mar 12 23:37 : client: [176] closed
+Mar 12 23:38 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/21 I Wanna Dance.mp3"
+Mar 12 23:38 : client: [177] opened from 127.0.0.1:55302
+Mar 12 23:38 : client: [177] closed
+Mar 12 23:38 : client: [178] opened from 127.0.0.1:55306
+Mar 12 23:38 : client: [178] closed
+Mar 12 23:40 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/22 Romeo & Juliet.mp3"
+Mar 12 23:40 : client: [179] opened from 127.0.0.1:55324
+Mar 12 23:40 : client: [179] closed
+Mar 12 23:40 : client: [180] opened from 127.0.0.1:55328
+Mar 12 23:40 : client: [180] closed
+Mar 12 23:41 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/23 Popteen.mp3"
+Mar 12 23:41 : client: [181] opened from 127.0.0.1:55334
+Mar 12 23:41 : client: [181] closed
+Mar 12 23:41 : client: [182] opened from 127.0.0.1:55338
+Mar 12 23:41 : client: [182] closed
+Mar 12 23:43 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/24 Mickey Mouse March.mp3"
+Mar 12 23:43 : client: [183] opened from 127.0.0.1:55348
+Mar 12 23:43 : client: [183] closed
+Mar 12 23:43 : client: [184] opened from 127.0.0.1:55352
+Mar 12 23:43 : client: [184] closed
+Mar 12 23:44 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/25 Boom Boom Fire.mp3"
+Mar 12 23:44 : client: [185] opened from 127.0.0.1:55396
+Mar 12 23:44 : client: [185] closed
+Mar 12 23:44 : client: [186] opened from 127.0.0.1:55400
+Mar 12 23:44 : client: [186] closed
+Mar 12 23:45 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/26 Eurobeat.mp3"
+Mar 12 23:45 : client: [187] opened from 127.0.0.1:55418
+Mar 12 23:45 : client: [187] closed
+Mar 12 23:45 : client: [188] opened from 127.0.0.1:55422
+Mar 12 23:45 : client: [188] closed
+Mar 12 23:47 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/27 I Need Your Love.mp3"
+Mar 12 23:47 : client: [189] opened from 127.0.0.1:55464
+Mar 12 23:47 : client: [189] closed
+Mar 12 23:47 : client: [190] opened from 127.0.0.1:55468
+Mar 12 23:47 : client: [190] closed
+Mar 12 23:48 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/28 Night of Fire.mp3"
+Mar 12 23:48 : client: [191] opened from 127.0.0.1:55520
+Mar 12 23:48 : client: [191] closed
+Mar 12 23:48 : client: [192] opened from 127.0.0.1:55524
+Mar 12 23:48 : client: [192] closed
+Mar 12 23:50 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/29 Speedway.mp3"
+Mar 12 23:50 : client: [193] opened from 127.0.0.1:55590
+Mar 12 23:50 : client: [193] closed
+Mar 12 23:50 : client: [194] opened from 127.0.0.1:55594
+Mar 12 23:50 : client: [194] closed
+Mar 12 23:51 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/30 Hot Vampire.mp3"
+Mar 12 23:51 : client: [195] opened from 127.0.0.1:55632
+Mar 12 23:51 : client: [195] closed
+Mar 12 23:51 : client: [196] opened from 127.0.0.1:55636
+Mar 12 23:51 : client: [196] closed
+Mar 12 23:53 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/31 Wanna be Your Emotion.mp3"
+Mar 12 23:53 : client: [197] opened from 127.0.0.1:55694
+Mar 12 23:53 : client: [197] closed
+Mar 12 23:53 : client: [198] opened from 127.0.0.1:55698
+Mar 12 23:53 : client: [198] closed
+Mar 12 23:54 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/32 Sunday.mp3"
+Mar 12 23:54 : client: [199] opened from 127.0.0.1:55702
+Mar 12 23:54 : client: [199] closed
+Mar 12 23:54 : client: [200] opened from 127.0.0.1:55706
+Mar 12 23:54 : client: [200] closed
+Mar 12 23:56 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/33 Samurai Blue.mp3"
+Mar 12 23:56 : client: [201] opened from 127.0.0.1:55732
+Mar 12 23:56 : client: [201] closed
+Mar 12 23:56 : client: [202] opened from 127.0.0.1:55736
+Mar 12 23:56 : client: [202] closed
+Mar 12 23:57 : client: [203] opened from 127.0.0.1:55780
+Mar 12 23:57 : client: [203] closed
+Mar 13 00:02 : client: [120] closed
+Mar 13 00:04 : client: [103] closed
+Mar 13 00:04 : exception: "Pulse_Output" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Mar 13 00:04 : avahi: Client Disconnected, will reconnect shortly
+Mar 13 00:04 : avahi: Could not reconnect: Daemon not running
+Mar 13 00:04 : player: played "Super Eurobeat Vol. 230 - Anniversary Hits 100 Tracks/34 Not for Sale.mp3"
+Mar 13 18:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 18:05 : client: [0] opened from 127.0.0.1:57364
+Mar 13 18:05 : client: [0] closed
+Mar 13 18:05 : client: [1] opened from 127.0.0.1:57366
+Mar 13 21:36 : client: [2] opened from 127.0.0.1:33564
+Mar 13 21:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 13 21:36 : client: [3] opened from 127.0.0.1:33590
+Mar 13 21:36 : client: [3] closed
+Mar 13 21:36 : client: [4] opened from 127.0.0.1:33594
+Mar 13 21:36 : client: [4] closed
+Mar 13 21:41 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 13 22:13 : client: [5] opened from 127.0.0.1:34534
+Mar 13 22:13 : client: [5] closed
+Mar 13 22:13 : client: [6] opened from 127.0.0.1:34538
+Mar 13 22:13 : client: [6] closed
+Mar 13 22:17 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 13 22:48 : client: [7] opened from 127.0.0.1:35258
+Mar 13 22:48 : client: [7] closed
+Mar 13 22:48 : client: [8] opened from 127.0.0.1:35262
+Mar 13 22:48 : client: [8] closed
+Mar 13 22:48 : client: [9] opened from 127.0.0.1:35266
+Mar 13 22:48 : client: [9] closed
+Mar 13 22:53 : player: played "gunship/09 - fly-for-your-life.mp3"
+Mar 13 22:54 : client: [10] opened from 127.0.0.1:35374
+Mar 13 22:54 : client: [10] closed
+Mar 13 22:54 : client: [11] opened from 127.0.0.1:35378
+Mar 13 22:54 : client: [11] closed
+Mar 13 22:54 : client: [12] opened from 127.0.0.1:35382
+Mar 13 22:54 : client: [12] closed
+Mar 13 22:58 : client: [13] opened from 127.0.0.1:35508
+Mar 13 22:58 : client: [14] opened from 127.0.0.1:35512
+Mar 13 22:58 : client: [14] closed
+Mar 13 22:58 : client: [15] opened from 127.0.0.1:35516
+Mar 13 22:58 : client: [15] closed
+Mar 13 22:58 : client: [16] opened from 127.0.0.1:35520
+Mar 13 22:58 : client: [16] closed
+Mar 13 22:58 : client: [17] opened from 127.0.0.1:35524
+Mar 13 22:58 : client: [17] closed
+Mar 13 22:58 : client: [18] opened from 127.0.0.1:35528
+Mar 13 22:58 : client: [18] closed
+Mar 13 22:58 : client: [19] opened from 127.0.0.1:35532
+Mar 13 22:58 : client: [19] closed
+Mar 13 22:58 : client: [20] opened from 127.0.0.1:35536
+Mar 13 22:58 : client: [20] closed
+Mar 13 22:58 : client: [21] opened from 127.0.0.1:35540
+Mar 13 22:58 : client: [22] opened from 127.0.0.1:35544
+Mar 13 22:58 : client: [21] closed
+Mar 13 22:58 : client: [22] closed
+Mar 13 22:58 : client: [23] opened from 127.0.0.1:35548
+Mar 13 22:58 : client: [23] closed
+Mar 13 22:59 : client: [24] opened from 127.0.0.1:35552
+Mar 13 22:59 : client: [24] closed
+Mar 13 22:59 : client: [25] opened from 127.0.0.1:35556
+Mar 13 22:59 : client: [25] closed
+Mar 13 22:59 : client: [26] opened from 127.0.0.1:35560
+Mar 13 22:59 : client: [26] closed
+Mar 13 22:59 : client: [27] opened from 127.0.0.1:35564
+Mar 13 22:59 : client: [27] closed
+Mar 13 22:59 : client: [28] opened from 127.0.0.1:35568
+Mar 13 22:59 : client: [28] closed
+Mar 13 22:59 : client: [29] opened from 127.0.0.1:35572
+Mar 13 22:59 : client: [29] closed
+Mar 13 22:59 : client: [30] opened from 127.0.0.1:35576
+Mar 13 22:59 : client: [30] closed
+Mar 13 22:59 : client: [31] opened from 127.0.0.1:35580
+Mar 13 22:59 : client: [31] closed
+Mar 13 23:02 : player: played "gunship/07 - black-sun-on-the-horizon.mp3"
+Mar 13 23:05 : client: [32] opened from 127.0.0.1:35626
+Mar 13 23:05 : client: [32] closed
+Mar 13 23:05 : client: [33] opened from 127.0.0.1:35630
+Mar 13 23:05 : client: [33] closed
+Mar 13 23:05 : client: [34] opened from 127.0.0.1:35634
+Mar 13 23:05 : client: [34] closed
+Mar 13 23:05 : client: [35] opened from 127.0.0.1:35638
+Mar 13 23:05 : client: [35] closed
+Mar 13 23:05 : client: [36] opened from 127.0.0.1:35642
+Mar 13 23:05 : client: [36] closed
+Mar 13 23:05 : client: [37] opened from 127.0.0.1:35646
+Mar 13 23:05 : client: [37] closed
+Mar 13 23:05 : client: [38] opened from 127.0.0.1:35650
+Mar 13 23:05 : client: [38] closed
+Mar 13 23:05 : client: [39] opened from 127.0.0.1:35654
+Mar 13 23:05 : client: [39] closed
+Mar 13 23:05 : client: [40] opened from 127.0.0.1:35658
+Mar 13 23:05 : client: [40] closed
+Mar 13 23:05 : client: [41] opened from 127.0.0.1:35662
+Mar 13 23:05 : client: [42] opened from 127.0.0.1:35666
+Mar 13 23:05 : client: [41] closed
+Mar 13 23:05 : client: [42] closed
+Mar 13 23:05 : client: [43] opened from 127.0.0.1:35670
+Mar 13 23:05 : client: [44] opened from 127.0.0.1:35674
+Mar 13 23:05 : client: [43] closed
+Mar 13 23:05 : client: [44] closed
+Mar 13 23:09 : player: played "gunship/01 - the-mountain.mp3"
+Mar 13 23:11 : client: [45] opened from 127.0.0.1:35806
+Mar 13 23:11 : client: [45] closed
+Mar 13 23:11 : client: [46] opened from 127.0.0.1:35810
+Mar 13 23:11 : client: [46] closed
+Mar 13 23:11 : client: [47] opened from 127.0.0.1:35814
+Mar 13 23:11 : client: [47] closed
+Mar 13 23:11 : client: [48] opened from 127.0.0.1:35818
+Mar 13 23:11 : client: [48] closed
+Mar 13 23:11 : client: [49] opened from 127.0.0.1:35822
+Mar 13 23:11 : client: [49] closed
+Mar 13 23:11 : client: [13] closed
+Mar 13 23:11 : client: [50] opened from 127.0.0.1:35828
+Mar 13 23:11 : client: [50] closed
+Mar 13 23:11 : client: [51] opened from 127.0.0.1:35832
+Mar 13 23:11 : client: [51] closed
+Mar 13 23:11 : client: [52] opened from 127.0.0.1:35836
+Mar 13 23:11 : client: [52] closed
+Mar 13 23:11 : client: [53] opened from 127.0.0.1:35840
+Mar 13 23:11 : client: [53] closed
+Mar 13 23:14 : client: [54] opened from 127.0.0.1:35930
+Mar 13 23:14 : client: [54] closed
+Mar 13 23:15 : client: [55] opened from 127.0.0.1:36006
+Mar 13 23:15 : client: [55] closed
+Mar 13 23:16 : player: played "gunship/01 - the-mountain.mp3"
+Mar 13 23:16 : client: [56] opened from 127.0.0.1:36010
+Mar 13 23:16 : client: [56] closed
+Mar 13 23:16 : client: [57] opened from 127.0.0.1:36014
+Mar 13 23:16 : client: [57] closed
+Mar 13 23:16 : client: [58] opened from 127.0.0.1:36018
+Mar 13 23:16 : client: [58] closed
+Mar 13 23:16 : client: [59] opened from 127.0.0.1:36022
+Mar 13 23:16 : client: [59] closed
+Mar 13 23:16 : client: [60] opened from 127.0.0.1:36026
+Mar 13 23:16 : client: [60] closed
+Mar 13 23:16 : client: [61] opened from 127.0.0.1:36030
+Mar 13 23:16 : client: [61] closed
+Mar 13 23:16 : client: [62] opened from 127.0.0.1:36034
+Mar 13 23:16 : client: [62] closed
+Mar 13 23:16 : client: [63] opened from 127.0.0.1:36038
+Mar 13 23:16 : client: [63] closed
+Mar 13 23:16 : client: [64] opened from 127.0.0.1:36044
+Mar 13 23:16 : client: [64] closed
+Mar 13 23:16 : client: [65] opened from 127.0.0.1:36048
+Mar 13 23:16 : client: [65] closed
+Mar 13 23:16 : client: [66] opened from 127.0.0.1:36054
+Mar 13 23:16 : client: [66] closed
+Mar 13 23:16 : client: [67] opened from 127.0.0.1:36058
+Mar 13 23:16 : client: [67] closed
+Mar 13 23:16 : client: [68] opened from 127.0.0.1:36062
+Mar 13 23:16 : client: [68] closed
+Mar 13 23:16 : client: [69] opened from 127.0.0.1:36066
+Mar 13 23:16 : client: [69] closed
+Mar 13 23:16 : client: [70] opened from 127.0.0.1:36070
+Mar 13 23:16 : client: [70] closed
+Mar 13 23:16 : client: [71] opened from 127.0.0.1:36074
+Mar 13 23:16 : client: [71] closed
+Mar 13 23:16 : client: [72] opened from 127.0.0.1:36078
+Mar 13 23:16 : client: [72] closed
+Mar 13 23:16 : client: [73] opened from 127.0.0.1:36082
+Mar 13 23:16 : client: [73] closed
+Mar 13 23:16 : client: [74] opened from 127.0.0.1:36086
+Mar 13 23:16 : client: [74] closed
+Mar 13 23:16 : client: [75] opened from 127.0.0.1:36090
+Mar 13 23:16 : client: [75] closed
+Mar 13 23:16 : client: [76] opened from 127.0.0.1:36094
+Mar 13 23:16 : client: [76] closed
+Mar 13 23:16 : client: [77] opened from 127.0.0.1:36098
+Mar 13 23:16 : client: [77] closed
+Mar 13 23:16 : client: [78] opened from 127.0.0.1:36102
+Mar 13 23:16 : client: [78] closed
+Mar 13 23:16 : client: [79] opened from 127.0.0.1:36106
+Mar 13 23:16 : client: [79] closed
+Mar 13 23:16 : client: [80] opened from 127.0.0.1:36110
+Mar 13 23:16 : client: [80] closed
+Mar 13 23:16 : client: [81] opened from 127.0.0.1:36114
+Mar 13 23:16 : client: [81] closed
+Mar 13 23:19 : client: [82] opened from 127.0.0.1:36162
+Mar 13 23:19 : client: [82] closed
+Mar 13 23:19 : client: [83] opened from 127.0.0.1:36166
+Mar 13 23:19 : client: [83] closed
+Mar 13 23:23 : player: played "gunship/11 - tech-noir-carpenter-brut-remix.mp3"
+Mar 13 23:23 : client: [84] opened from 127.0.0.1:36184
+Mar 13 23:23 : client: [84] closed
+Mar 13 23:23 : client: [85] opened from 127.0.0.1:36188
+Mar 13 23:23 : client: [85] closed
+Mar 13 23:27 : player: played "gunship/12 - revel-in-your-time-miami-nights-1984-remix.mp3"
+Mar 13 23:27 : client: [86] opened from 127.0.0.1:36218
+Mar 13 23:27 : client: [86] closed
+Mar 13 23:27 : client: [87] opened from 127.0.0.1:36222
+Mar 13 23:27 : client: [87] closed
+Mar 13 23:28 : player: played "gunship/13 - black-sun-on-the-horizon-makeup-and-vanity-set.mp3"
+Mar 13 23:28 : client: [88] opened from 127.0.0.1:36240
+Mar 13 23:28 : client: [88] closed
+Mar 13 23:28 : client: [89] opened from 127.0.0.1:36244
+Mar 13 23:28 : client: [89] closed
+Mar 13 23:28 : client: [90] opened from 127.0.0.1:36248
+Mar 13 23:28 : client: [90] closed
+Mar 13 23:28 : client: [91] opened from 127.0.0.1:36252
+Mar 13 23:28 : client: [91] closed
+Mar 13 23:28 : client: [92] opened from 127.0.0.1:36256
+Mar 13 23:28 : client: [93] opened from 127.0.0.1:36260
+Mar 13 23:28 : client: [92] closed
+Mar 13 23:28 : client: [93] closed
+Mar 13 23:32 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 13 23:32 : client: [94] opened from 127.0.0.1:36290
+Mar 13 23:32 : client: [94] closed
+Mar 13 23:32 : client: [95] opened from 127.0.0.1:36294
+Mar 13 23:32 : client: [95] closed
+Mar 13 23:34 : player: played "Super Eurobeat Vol. 8/20. Mark Farina - Russian.mp3"
+Mar 13 23:34 : client: [96] opened from 127.0.0.1:36362
+Mar 13 23:34 : client: [96] closed
+Mar 13 23:34 : client: [97] opened from 127.0.0.1:36366
+Mar 13 23:34 : client: [97] closed
+Mar 13 23:40 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 13 23:40 : client: [98] opened from 127.0.0.1:36406
+Mar 13 23:40 : client: [98] closed
+Mar 13 23:40 : client: [99] opened from 127.0.0.1:36410
+Mar 13 23:40 : client: [99] closed
+Mar 13 23:42 : player: played "Super Eurobeat Vol. 8/07. Alphatown - Japan Japan.mp3"
+Mar 13 23:44 : client: [100] opened from 127.0.0.1:36442
+Mar 13 23:44 : client: [100] closed
+Mar 13 23:44 : client: [101] opened from 127.0.0.1:36446
+Mar 13 23:44 : client: [101] closed
+Mar 13 23:44 : client: [102] opened from 127.0.0.1:36450
+Mar 13 23:44 : client: [102] closed
+Mar 13 23:44 : client: [103] opened from 127.0.0.1:36454
+Mar 13 23:44 : client: [103] closed
+Mar 13 23:44 : client: [104] opened from 127.0.0.1:36458
+Mar 13 23:44 : client: [104] closed
+Mar 13 23:48 : player: played "Super Eurobeat Vol. 158/02 Love Is Freedom.mp3"
+Mar 13 23:48 : client: [105] opened from 127.0.0.1:36464
+Mar 13 23:48 : client: [105] closed
+Mar 13 23:48 : client: [106] opened from 127.0.0.1:36468
+Mar 13 23:48 : client: [106] closed
+Mar 13 23:52 : player: played "Super Eurobeat Vol. 158/06 Dancin' Time.mp3"
+Mar 13 23:52 : client: [107] opened from 127.0.0.1:36482
+Mar 13 23:52 : client: [107] closed
+Mar 13 23:52 : client: [108] opened from 127.0.0.1:36486
+Mar 13 23:52 : client: [108] closed
+Mar 13 23:54 : client: [109] opened from 127.0.0.1:36522
+Mar 13 23:54 : client: [109] closed
+Mar 13 23:57 : avahi: Client Disconnected, will reconnect shortly
+Mar 13 23:57 : avahi: Could not reconnect: Daemon not running
+Mar 13 23:57 : client: [1] closed
+Mar 13 23:57 : client: [2] closed
+Mar 13 23:57 : player: played "Super Eurobeat Vol. 3 - Extended Version/08  Bye Bye Baby  Max Coveri.mp3"
+Mar 14 16:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 16:44 : client: [0] opened from 127.0.0.1:47054
+Mar 14 16:44 : client: [0] closed
+Mar 14 16:44 : client: [1] opened from 127.0.0.1:47056
+Mar 14 16:45 : client: [1] closed
+Mar 14 16:45 : client: [2] opened from 127.0.0.1:47074
+Mar 14 19:50 : client: [3] opened from 127.0.0.1:50860
+Mar 14 19:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 19:50 : client: [4] opened from 127.0.0.1:50864
+Mar 14 19:50 : client: [4] closed
+Mar 14 19:50 : client: [5] opened from 127.0.0.1:50868
+Mar 14 19:50 : client: [5] closed
+Mar 14 19:50 : client: [6] opened from 127.0.0.1:50874
+Mar 14 19:50 : client: [6] closed
+Mar 14 19:50 : client: [7] opened from 127.0.0.1:50878
+Mar 14 19:50 : client: [7] closed
+Mar 14 19:50 : client: [8] opened from 127.0.0.1:50882
+Mar 14 19:50 : client: [8] closed
+Mar 14 19:50 : client: [9] opened from 127.0.0.1:50886
+Mar 14 19:50 : client: [9] closed
+Mar 14 19:50 : client: [10] opened from 127.0.0.1:50890
+Mar 14 19:50 : client: [10] closed
+Mar 14 19:50 : client: [11] opened from 127.0.0.1:50894
+Mar 14 19:50 : client: [11] closed
+Mar 14 19:50 : client: [12] opened from 127.0.0.1:50898
+Mar 14 19:50 : client: [12] closed
+Mar 14 19:50 : client: [13] opened from 127.0.0.1:50902
+Mar 14 19:50 : client: [13] closed
+Mar 14 19:50 : client: [14] opened from 127.0.0.1:50906
+Mar 14 19:50 : client: [14] closed
+Mar 14 19:50 : client: [15] opened from 127.0.0.1:50910
+Mar 14 19:50 : client: [15] closed
+Mar 14 19:50 : client: [16] opened from 127.0.0.1:50914
+Mar 14 19:50 : client: [16] closed
+Mar 14 19:50 : client: [17] opened from 127.0.0.1:50918
+Mar 14 19:50 : client: [17] closed
+Mar 14 19:51 : client: [18] opened from 127.0.0.1:50922
+Mar 14 19:51 : client: [18] closed
+Mar 14 19:51 : client: [19] opened from 127.0.0.1:50926
+Mar 14 19:51 : client: [19] closed
+Mar 14 19:51 : client: [20] opened from 127.0.0.1:50930
+Mar 14 19:51 : client: [20] closed
+Mar 14 19:51 : client: [21] opened from 127.0.0.1:50934
+Mar 14 19:51 : client: [21] closed
+Mar 14 19:51 : client: [22] opened from 127.0.0.1:50938
+Mar 14 19:51 : client: [22] closed
+Mar 14 19:51 : client: [23] opened from 127.0.0.1:50942
+Mar 14 19:51 : client: [23] closed
+Mar 14 19:51 : client: [2] closed
+Mar 14 19:51 : client: [24] opened from 127.0.0.1:50946
+Mar 14 19:53 : client: [25] opened from 127.0.0.1:50982
+Mar 14 19:53 : client: [25] closed
+Mar 14 19:53 : client: [26] opened from 127.0.0.1:50986
+Mar 14 19:53 : client: [26] closed
+Mar 14 19:55 : client: [27] opened from 127.0.0.1:51048
+Mar 14 19:55 : client: [27] closed
+Mar 14 19:55 : client: [28] opened from 127.0.0.1:51052
+Mar 14 19:55 : client: [28] closed
+Mar 14 19:55 : client: [29] opened from 127.0.0.1:51056
+Mar 14 19:55 : client: [29] closed
+Mar 14 19:55 : client: [30] opened from 127.0.0.1:51060
+Mar 14 19:55 : client: [30] closed
+Mar 14 19:55 : client: [31] opened from 127.0.0.1:51064
+Mar 14 19:55 : client: [31] closed
+Mar 14 19:55 : client: [32] opened from 127.0.0.1:51068
+Mar 14 19:55 : client: [32] closed
+Mar 14 19:57 : player: played "Super Eurobeat Vol. 235 - Non-Stop Mega Mix/15 Miss You.mp3"
+Mar 14 19:58 : client: [24] closed
+Mar 14 19:58 : client: [33] opened from 127.0.0.1:51112
+Mar 14 19:58 : client: [33] closed
+Mar 14 19:58 : client: [34] opened from 127.0.0.1:51114
+Mar 14 19:58 : client: [34] closed
+Mar 14 19:58 : client: [35] opened from 127.0.0.1:51118
+Mar 14 19:58 : client: [36] opened from 127.0.0.1:51120
+Mar 14 19:58 : client: [36] closed
+Mar 14 19:58 : client: [37] opened from 127.0.0.1:51124
+Mar 14 19:58 : client: [37] closed
+Mar 14 19:58 : client: [38] opened from 127.0.0.1:51128
+Mar 14 19:58 : client: [38] closed
+Mar 14 19:58 : client: [39] opened from 127.0.0.1:51130
+Mar 14 19:58 : client: [39] closed
+Mar 14 19:58 : client: [40] opened from 127.0.0.1:51132
+Mar 14 19:58 : client: [40] closed
+Mar 14 19:58 : client: [41] opened from 127.0.0.1:51134
+Mar 14 19:58 : client: [41] closed
+Mar 14 19:58 : client: [42] opened from 127.0.0.1:51138
+Mar 14 19:58 : client: [42] closed
+Mar 14 19:58 : client: [43] opened from 127.0.0.1:51142
+Mar 14 19:58 : client: [43] closed
+Mar 14 19:58 : client: [35] closed
+Mar 14 19:58 : client: [44] opened from 127.0.0.1:51144
+Mar 14 19:58 : client: [44] closed
+Mar 14 19:58 : client: [45] opened from 127.0.0.1:51146
+Mar 14 19:59 : client: [45] closed
+Mar 14 19:59 : client: [46] opened from 127.0.0.1:51148
+Mar 14 19:59 : client: [46] closed
+Mar 14 19:59 : client: [47] opened from 127.0.0.1:51150
+Mar 14 19:59 : client: [47] closed
+Mar 14 19:59 : client: [48] opened from 127.0.0.1:51152
+Mar 14 19:59 : client: [48] closed
+Mar 14 19:59 : client: [49] opened from 127.0.0.1:51154
+Mar 14 19:59 : client: [49] closed
+Mar 14 19:59 : client: [50] opened from 127.0.0.1:51158
+Mar 14 19:59 : client: [50] closed
+Mar 14 19:59 : client: [51] opened from 127.0.0.1:51160
+Mar 14 20:01 : player: played "Super Eurobeat Vol. 235 - Non-Stop Mega Mix/28 Hyper Super Powers.mp3"
+Mar 14 20:01 : client: [3] closed
+Mar 14 20:01 : client: [51] closed
+Mar 14 20:01 : client: [52] opened from 127.0.0.1:51230
+Mar 14 20:01 : client: [52] closed
+Mar 14 20:01 : client: [53] opened from 127.0.0.1:51234
+Mar 14 20:01 : client: [53] closed
+Mar 14 20:01 : client: [54] opened from 127.0.0.1:51236
+Mar 14 20:01 : client: [54] closed
+Mar 14 20:01 : client: [55] opened from 127.0.0.1:51242
+Mar 14 20:01 : client: [55] closed
+Mar 14 20:01 : client: [56] opened from 127.0.0.1:51244
+Mar 14 20:03 : client: [56] closed
+Mar 14 20:03 : client: [57] opened from 127.0.0.1:51282
+Mar 14 20:04 : client: [57] closed
+Mar 14 20:04 : client: [58] opened from 127.0.0.1:51286
+Mar 14 20:06 : client: [58] closed
+Mar 14 20:06 : client: [59] opened from 127.0.0.1:51294
+Mar 14 20:06 : client: [59] closed
+Mar 14 20:06 : client: [60] opened from 127.0.0.1:51298
+Mar 14 20:06 : client: [60] closed
+Mar 14 20:06 : client: [61] opened from 127.0.0.1:51300
+Mar 14 20:08 : client: [61] closed
+Mar 14 20:08 : client: [62] opened from 127.0.0.1:51304
+Mar 14 20:08 : client: [62] closed
+Mar 14 20:08 : client: [63] opened from 127.0.0.1:51306
+Mar 14 20:10 : client: [64] opened from 127.0.0.1:51354
+Mar 14 20:10 : client: [65] opened from 127.0.0.1:51358
+Mar 14 20:10 : client: [65] closed
+Mar 14 20:10 : client: [66] opened from 127.0.0.1:51362
+Mar 14 20:10 : client: [66] closed
+Mar 14 20:12 : client: [63] closed
+Mar 14 20:12 : client: [67] opened from 127.0.0.1:51364
+Mar 14 20:12 : client: [67] closed
+Mar 14 20:12 : client: [68] opened from 127.0.0.1:51366
+Mar 14 20:13 : client: [68] closed
+Mar 14 20:13 : client: [69] opened from 127.0.0.1:51382
+Mar 14 20:14 : player: played "Super Eurobeat Vol. 151/01 Big Boy.mp3"
+Mar 14 20:15 : client: [69] closed
+Mar 14 20:15 : client: [70] opened from 127.0.0.1:51392
+Mar 14 20:15 : client: [71] opened from 127.0.0.1:51396
+Mar 14 20:15 : client: [71] closed
+Mar 14 20:15 : client: [72] opened from 127.0.0.1:51400
+Mar 14 20:15 : client: [72] closed
+Mar 14 20:17 : client: [73] opened from 127.0.0.1:51402
+Mar 14 20:17 : client: [73] closed
+Mar 14 20:19 : client: [70] closed
+Mar 14 20:19 : client: [74] opened from 127.0.0.1:51404
+Mar 14 20:19 : client: [74] closed
+Mar 14 20:19 : client: [75] opened from 127.0.0.1:51406
+Mar 14 20:20 : client: [75] closed
+Mar 14 20:20 : client: [76] opened from 127.0.0.1:51408
+Mar 14 20:20 : client: [76] closed
+Mar 14 20:20 : client: [77] opened from 127.0.0.1:51410
+Mar 14 20:20 : client: [77] closed
+Mar 14 20:20 : client: [78] opened from 127.0.0.1:51412
+Mar 14 20:21 : client: [78] closed
+Mar 14 20:21 : client: [79] opened from 127.0.0.1:51414
+Mar 14 20:21 : player: played "Super Eurobeat Vol. 151/02 Change the World.mp3"
+Mar 14 20:22 : client: [79] closed
+Mar 14 20:22 : client: [80] opened from 127.0.0.1:51418
+Mar 14 20:22 : client: [81] opened from 127.0.0.1:51422
+Mar 14 20:22 : client: [81] closed
+Mar 14 20:22 : client: [82] opened from 127.0.0.1:51426
+Mar 14 20:22 : client: [82] closed
+Mar 14 20:22 : client: [80] closed
+Mar 14 20:22 : client: [83] opened from 127.0.0.1:51428
+Mar 14 20:23 : client: [83] closed
+Mar 14 20:23 : client: [84] opened from 127.0.0.1:51432
+Mar 14 20:23 : client: [84] closed
+Mar 14 20:23 : client: [85] opened from 127.0.0.1:51434
+Mar 14 20:26 : player: played "Super Eurobeat Vol. 151/02 Change the World.mp3"
+Mar 14 20:28 : client: [85] closed
+Mar 14 20:28 : client: [86] opened from 127.0.0.1:51438
+Mar 14 20:28 : client: [86] closed
+Mar 14 20:28 : client: [87] opened from 127.0.0.1:51440
+Mar 14 20:28 : client: [87] closed
+Mar 14 20:28 : client: [88] opened from 127.0.0.1:51442
+Mar 14 20:29 : client: [88] closed
+Mar 14 20:29 : client: [89] opened from 127.0.0.1:51444
+Mar 14 20:29 : client: [89] closed
+Mar 14 20:29 : client: [90] opened from 127.0.0.1:51446
+Mar 14 20:29 : client: [90] closed
+Mar 14 20:29 : client: [91] opened from 127.0.0.1:51448
+Mar 14 20:29 : client: [92] opened from 127.0.0.1:51452
+Mar 14 20:29 : client: [92] closed
+Mar 14 20:29 : client: [93] opened from 127.0.0.1:51456
+Mar 14 20:29 : client: [93] closed
+Mar 14 20:30 : client: [91] closed
+Mar 14 20:30 : client: [94] opened from 127.0.0.1:51458
+Mar 14 20:33 : player: played "Super Eurobeat Vol. 151/01 Big Boy.mp3"
+Mar 14 20:33 : client: [95] opened from 127.0.0.1:51464
+Mar 14 20:33 : client: [95] closed
+Mar 14 20:33 : client: [96] opened from 127.0.0.1:51468
+Mar 14 20:33 : client: [96] closed
+Mar 14 20:34 : client: [94] closed
+Mar 14 20:34 : client: [97] opened from 127.0.0.1:51470
+Mar 14 20:36 : client: [97] closed
+Mar 14 20:36 : client: [98] opened from 127.0.0.1:51474
+Mar 14 20:37 : client: [98] closed
+Mar 14 20:37 : client: [99] opened from 127.0.0.1:51476
+Mar 14 20:37 : client: [99] closed
+Mar 14 20:37 : client: [100] opened from 127.0.0.1:51478
+Mar 14 20:37 : client: [100] closed
+Mar 14 20:37 : client: [101] opened from 127.0.0.1:51480
+Mar 14 20:37 : client: [101] closed
+Mar 14 20:37 : client: [102] opened from 127.0.0.1:51482
+Mar 14 20:37 : player: played "Super Eurobeat Vol. 151/02 Change the World.mp3"
+Mar 14 20:37 : client: [102] closed
+Mar 14 20:37 : client: [103] opened from 127.0.0.1:51484
+Mar 14 20:38 : client: [103] closed
+Mar 14 20:38 : client: [104] opened from 127.0.0.1:51486
+Mar 14 20:38 : client: [105] opened from 127.0.0.1:51490
+Mar 14 20:38 : client: [105] closed
+Mar 14 20:38 : client: [106] opened from 127.0.0.1:51494
+Mar 14 20:38 : client: [106] closed
+Mar 14 20:39 : client: [104] closed
+Mar 14 20:39 : client: [107] opened from 127.0.0.1:51496
+Mar 14 20:39 : client: [107] closed
+Mar 14 20:39 : client: [108] opened from 127.0.0.1:51498
+Mar 14 20:40 : client: [108] closed
+Mar 14 20:40 : client: [109] opened from 127.0.0.1:51500
+Mar 14 20:41 : player: played "Super Eurobeat Vol. 151/02 Change the World.mp3"
+Mar 14 20:42 : client: [109] closed
+Mar 14 20:42 : client: [110] opened from 127.0.0.1:51612
+Mar 14 20:42 : client: [111] opened from 127.0.0.1:51658
+Mar 14 20:42 : client: [111] closed
+Mar 14 20:42 : client: [112] opened from 127.0.0.1:51662
+Mar 14 20:42 : client: [112] closed
+Mar 14 20:42 : client: [113] opened from 127.0.0.1:51666
+Mar 14 20:42 : client: [113] closed
+Mar 14 20:42 : client: [114] opened from 127.0.0.1:51692
+Mar 14 20:42 : client: [114] closed
+Mar 14 20:42 : client: [115] opened from 127.0.0.1:51696
+Mar 14 20:42 : client: [115] closed
+Mar 14 20:43 : client: [64] closed
+Mar 14 20:43 : client: [116] opened from 127.0.0.1:51730
+Mar 14 20:43 : client: [117] opened from 127.0.0.1:51734
+Mar 14 20:43 : client: [117] closed
+Mar 14 20:43 : client: [118] opened from 127.0.0.1:51738
+Mar 14 20:43 : client: [118] closed
+Mar 14 20:44 : client: [110] closed
+Mar 14 20:44 : client: [119] opened from 127.0.0.1:51758
+Mar 14 20:45 : client: [119] closed
+Mar 14 20:45 : client: [120] opened from 127.0.0.1:51812
+Mar 14 20:45 : client: [121] opened from 127.0.0.1:51834
+Mar 14 20:45 : client: [121] closed
+Mar 14 20:58 : client: [120] closed
+Mar 14 20:58 : client: [122] opened from 127.0.0.1:52016
+Mar 14 20:58 : client: [122] closed
+Mar 14 20:58 : client: [123] opened from 127.0.0.1:52018
+Mar 14 21:03 : client: [124] opened from 127.0.0.1:52056
+Mar 14 21:03 : client: [124] closed
+Mar 14 21:05 : player: played "Super Eurobeat Vol. 163/17 I Was Born for Burning.mp3"
+Mar 14 21:05 : client: [125] opened from 127.0.0.1:52072
+Mar 14 21:05 : client: [125] closed
+Mar 14 21:05 : client: [126] opened from 127.0.0.1:52078
+Mar 14 21:05 : client: [126] closed
+Mar 14 21:05 : client: [127] opened from 127.0.0.1:52082
+Mar 14 21:05 : client: [127] closed
+Mar 14 21:05 : client: [128] opened from 127.0.0.1:52086
+Mar 14 21:05 : client: [128] closed
+Mar 14 21:05 : client: [129] opened from 127.0.0.1:52090
+Mar 14 21:05 : client: [129] closed
+Mar 14 21:05 : client: [123] closed
+Mar 14 21:05 : client: [130] opened from 127.0.0.1:52092
+Mar 14 21:05 : client: [130] closed
+Mar 14 21:05 : client: [131] opened from 127.0.0.1:52094
+Mar 14 21:06 : client: [132] opened from 127.0.0.1:52100
+Mar 14 21:06 : client: [132] closed
+Mar 14 21:12 : client: [133] opened from 127.0.0.1:52174
+Mar 14 21:12 : client: [134] opened from 127.0.0.1:52178
+Mar 14 21:12 : client: [134] closed
+Mar 14 21:12 : client: [135] opened from 127.0.0.1:52182
+Mar 14 21:12 : client: [135] closed
+Mar 14 21:12 : client: [133] closed
+Mar 14 21:17 : client: [131] closed
+Mar 14 21:17 : client: [136] opened from 127.0.0.1:52196
+Mar 14 21:17 : client: [136] closed
+Mar 14 21:17 : client: [137] opened from 127.0.0.1:52198
+Mar 14 21:31 : client: [138] opened from 127.0.0.1:52280
+Mar 14 21:31 : client: [138] closed
+Mar 14 21:36 : player: played "Super Eurobeat Vol. 232 - Extended Version/04 Minimal Love.mp3"
+Mar 14 21:36 : client: [139] opened from 127.0.0.1:52300
+Mar 14 21:36 : client: [139] closed
+Mar 14 21:36 : client: [140] opened from 127.0.0.1:52304
+Mar 14 21:36 : client: [140] closed
+Mar 14 21:36 : client: [141] opened from 127.0.0.1:52308
+Mar 14 21:36 : client: [141] closed
+Mar 14 21:38 : client: [142] opened from 127.0.0.1:52316
+Mar 14 21:38 : client: [142] closed
+Mar 14 21:38 : client: [143] opened from 127.0.0.1:52320
+Mar 14 21:38 : client: [143] closed
+Mar 14 21:42 : player: played "Super Eurobeat Vol. 232 - Extended Version/15 Higher My Passion.mp3"
+Mar 14 21:42 : client: [144] opened from 127.0.0.1:52344
+Mar 14 21:42 : client: [144] closed
+Mar 14 21:42 : client: [145] opened from 127.0.0.1:52348
+Mar 14 21:42 : client: [145] closed
+Mar 14 21:42 : client: [146] opened from 127.0.0.1:52352
+Mar 14 21:42 : client: [146] closed
+Mar 14 21:43 : client: [147] opened from 127.0.0.1:52356
+Mar 14 21:43 : client: [147] closed
+Mar 14 21:43 : client: [148] opened from 127.0.0.1:52360
+Mar 14 21:43 : client: [148] closed
+Mar 14 21:47 : client: [137] closed
+Mar 14 21:47 : client: [149] opened from 127.0.0.1:52464
+Mar 14 21:47 : client: [149] closed
+Mar 14 21:47 : client: [150] opened from 127.0.0.1:52502
+Mar 14 21:47 : player: played "Super Eurobeat Vol. 232 - Extended Version/13 Gimme Your Desire.mp3"
+Mar 14 21:47 : client: [151] opened from 127.0.0.1:52588
+Mar 14 21:47 : client: [151] closed
+Mar 14 21:47 : client: [152] opened from 127.0.0.1:52592
+Mar 14 21:47 : client: [152] closed
+Mar 14 21:52 : player: played "Super Eurobeat Vol. 233 - Extended Version/09 Gimme All Your Love.mp3"
+Mar 14 21:52 : client: [153] opened from 127.0.0.1:52842
+Mar 14 21:52 : client: [153] closed
+Mar 14 21:52 : client: [154] opened from 127.0.0.1:52846
+Mar 14 21:52 : client: [154] closed
+Mar 14 21:52 : client: [155] opened from 127.0.0.1:52850
+Mar 14 21:52 : client: [155] closed
+Mar 14 21:52 : client: [156] opened from 127.0.0.1:52854
+Mar 14 21:52 : client: [156] closed
+Mar 14 21:53 : client: [157] opened from 127.0.0.1:52858
+Mar 14 21:53 : client: [157] closed
+Mar 14 21:53 : client: [158] opened from 127.0.0.1:52862
+Mar 14 21:53 : client: [158] closed
+Mar 14 21:56 : player: played "Super Eurobeat Vol. 233 - Extended Version/02 Manifold Love.mp3"
+Mar 14 21:58 : client: [159] opened from 127.0.0.1:53042
+Mar 14 21:58 : client: [159] closed
+Mar 14 21:58 : client: [160] opened from 127.0.0.1:53046
+Mar 14 21:58 : client: [160] closed
+Mar 14 21:58 : client: [161] opened from 127.0.0.1:53050
+Mar 14 21:58 : client: [161] closed
+Mar 14 21:58 : client: [162] opened from 127.0.0.1:53052
+Mar 14 21:58 : client: [162] closed
+Mar 14 21:58 : client: [163] opened from 127.0.0.1:53056
+Mar 14 21:58 : client: [163] closed
+Mar 14 21:58 : client: [164] opened from 127.0.0.1:53060
+Mar 14 21:58 : client: [164] closed
+Mar 14 21:58 : client: [165] opened from 127.0.0.1:53064
+Mar 14 21:58 : client: [165] closed
+Mar 14 21:58 : client: [166] opened from 127.0.0.1:53068
+Mar 14 21:58 : client: [166] closed
+Mar 14 22:03 : player: played "Super Eurobeat Vol. 234 - Extended Version/01 Fire in the Night.mp3"
+Mar 14 22:07 : client: [167] opened from 127.0.0.1:53108
+Mar 14 22:07 : client: [167] closed
+Mar 14 22:07 : client: [168] opened from 127.0.0.1:53112
+Mar 14 22:07 : client: [168] closed
+Mar 14 22:07 : client: [169] opened from 127.0.0.1:53116
+Mar 14 22:07 : client: [169] closed
+Mar 14 22:07 : client: [170] opened from 127.0.0.1:53118
+Mar 14 22:07 : client: [170] closed
+Mar 14 22:07 : client: [171] opened from 127.0.0.1:53120
+Mar 14 22:07 : client: [171] closed
+Mar 14 22:07 : client: [172] opened from 127.0.0.1:53124
+Mar 14 22:07 : client: [172] closed
+Mar 14 22:07 : client: [173] opened from 127.0.0.1:53128
+Mar 14 22:07 : client: [173] closed
+Mar 14 22:07 : client: [174] opened from 127.0.0.1:53132
+Mar 14 22:07 : client: [174] closed
+Mar 14 22:07 : client: [175] opened from 127.0.0.1:53136
+Mar 14 22:07 : client: [175] closed
+Mar 14 22:07 : client: [176] opened from 127.0.0.1:53140
+Mar 14 22:07 : client: [176] closed
+Mar 14 22:07 : client: [177] opened from 127.0.0.1:53144
+Mar 14 22:07 : client: [177] closed
+Mar 14 22:07 : client: [178] opened from 127.0.0.1:53148
+Mar 14 22:07 : client: [178] closed
+Mar 14 22:07 : client: [179] opened from 127.0.0.1:53152
+Mar 14 22:07 : client: [179] closed
+Mar 14 22:07 : client: [180] opened from 127.0.0.1:53156
+Mar 14 22:07 : client: [180] closed
+Mar 14 22:07 : client: [181] opened from 127.0.0.1:53160
+Mar 14 22:07 : client: [181] closed
+Mar 14 22:07 : client: [182] opened from 127.0.0.1:53164
+Mar 14 22:07 : client: [182] closed
+Mar 14 22:07 : client: [183] opened from 127.0.0.1:53168
+Mar 14 22:07 : client: [183] closed
+Mar 14 22:07 : client: [184] opened from 127.0.0.1:53172
+Mar 14 22:07 : client: [184] closed
+Mar 14 22:07 : client: [185] opened from 127.0.0.1:53176
+Mar 14 22:07 : client: [185] closed
+Mar 14 22:07 : client: [186] opened from 127.0.0.1:53180
+Mar 14 22:07 : client: [186] closed
+Mar 14 22:07 : client: [187] opened from 127.0.0.1:53184
+Mar 14 22:07 : client: [187] closed
+Mar 14 22:07 : client: [188] opened from 127.0.0.1:53188
+Mar 14 22:07 : client: [188] closed
+Mar 14 22:07 : client: [189] opened from 127.0.0.1:53192
+Mar 14 22:07 : client: [189] closed
+Mar 14 22:07 : client: [190] opened from 127.0.0.1:53196
+Mar 14 22:07 : client: [190] closed
+Mar 14 22:07 : client: [191] opened from 127.0.0.1:53200
+Mar 14 22:07 : client: [191] closed
+Mar 14 22:08 : client: [192] opened from 127.0.0.1:53204
+Mar 14 22:08 : client: [192] closed
+Mar 14 22:08 : client: [193] opened from 127.0.0.1:53208
+Mar 14 22:08 : client: [193] closed
+Mar 14 22:08 : client: [194] opened from 127.0.0.1:53212
+Mar 14 22:08 : client: [194] closed
+Mar 14 22:08 : client: [195] opened from 127.0.0.1:53216
+Mar 14 22:08 : client: [195] closed
+Mar 14 22:08 : client: [196] opened from 127.0.0.1:53220
+Mar 14 22:08 : client: [196] closed
+Mar 14 22:08 : client: [197] opened from 127.0.0.1:53224
+Mar 14 22:08 : client: [197] closed
+Mar 14 22:08 : client: [198] opened from 127.0.0.1:53228
+Mar 14 22:08 : client: [198] closed
+Mar 14 22:08 : client: [199] opened from 127.0.0.1:53232
+Mar 14 22:08 : client: [199] closed
+Mar 14 22:08 : client: [200] opened from 127.0.0.1:53236
+Mar 14 22:08 : client: [200] closed
+Mar 14 22:08 : client: [201] opened from 127.0.0.1:53240
+Mar 14 22:08 : client: [201] closed
+Mar 14 22:08 : client: [202] opened from 127.0.0.1:53246
+Mar 14 22:08 : client: [202] closed
+Mar 14 22:08 : client: [203] opened from 127.0.0.1:53250
+Mar 14 22:08 : client: [203] closed
+Mar 14 22:08 : client: [204] opened from 127.0.0.1:53254
+Mar 14 22:08 : client: [204] closed
+Mar 14 22:08 : client: [205] opened from 127.0.0.1:53258
+Mar 14 22:08 : client: [205] closed
+Mar 14 22:08 : client: [206] opened from 127.0.0.1:53262
+Mar 14 22:08 : client: [206] closed
+Mar 14 22:08 : client: [207] opened from 127.0.0.1:53266
+Mar 14 22:08 : client: [207] closed
+Mar 14 22:10 : player: played "Super Eurobeat Vol. 4/09. Jenny Kee - Somebody's Loving.mp3"
+Mar 14 22:12 : client: [208] opened from 127.0.0.1:53294
+Mar 14 22:12 : client: [208] closed
+Mar 14 22:12 : client: [209] opened from 127.0.0.1:53298
+Mar 14 22:12 : client: [209] closed
+Mar 14 22:12 : client: [210] opened from 127.0.0.1:53302
+Mar 14 22:12 : client: [210] closed
+Mar 14 22:12 : client: [211] opened from 127.0.0.1:53306
+Mar 14 22:12 : client: [211] closed
+Mar 14 22:12 : client: [212] opened from 127.0.0.1:53310
+Mar 14 22:12 : client: [212] closed
+Mar 14 22:12 : client: [213] opened from 127.0.0.1:53314
+Mar 14 22:12 : client: [213] closed
+Mar 14 22:12 : client: [214] opened from 127.0.0.1:53318
+Mar 14 22:12 : client: [214] closed
+Mar 14 22:12 : client: [215] opened from 127.0.0.1:53322
+Mar 14 22:12 : client: [215] closed
+Mar 14 22:12 : client: [216] opened from 127.0.0.1:53326
+Mar 14 22:12 : client: [216] closed
+Mar 14 22:12 : client: [217] opened from 127.0.0.1:53330
+Mar 14 22:12 : client: [217] closed
+Mar 14 22:12 : client: [218] opened from 127.0.0.1:53334
+Mar 14 22:12 : client: [218] closed
+Mar 14 22:12 : client: [219] opened from 127.0.0.1:53338
+Mar 14 22:12 : client: [219] closed
+Mar 14 22:12 : client: [220] opened from 127.0.0.1:53342
+Mar 14 22:12 : client: [220] closed
+Mar 14 22:12 : client: [221] opened from 127.0.0.1:53346
+Mar 14 22:12 : client: [221] closed
+Mar 14 22:12 : client: [222] opened from 127.0.0.1:53350
+Mar 14 22:12 : client: [222] closed
+Mar 14 22:12 : client: [223] opened from 127.0.0.1:53354
+Mar 14 22:12 : client: [223] closed
+Mar 14 22:12 : client: [224] opened from 127.0.0.1:53358
+Mar 14 22:12 : client: [224] closed
+Mar 14 22:12 : client: [225] opened from 127.0.0.1:53362
+Mar 14 22:12 : client: [225] closed
+Mar 14 22:12 : client: [226] opened from 127.0.0.1:53366
+Mar 14 22:12 : client: [226] closed
+Mar 14 22:12 : client: [227] opened from 127.0.0.1:53370
+Mar 14 22:12 : client: [227] closed
+Mar 14 22:12 : client: [228] opened from 127.0.0.1:53374
+Mar 14 22:12 : client: [228] closed
+Mar 14 22:12 : client: [229] opened from 127.0.0.1:53378
+Mar 14 22:12 : client: [229] closed
+Mar 14 22:12 : client: [230] opened from 127.0.0.1:53382
+Mar 14 22:12 : client: [230] closed
+Mar 14 22:12 : client: [231] opened from 127.0.0.1:53386
+Mar 14 22:12 : client: [231] closed
+Mar 14 22:12 : client: [232] opened from 127.0.0.1:53390
+Mar 14 22:12 : client: [232] closed
+Mar 14 22:12 : client: [233] opened from 127.0.0.1:53394
+Mar 14 22:12 : client: [233] closed
+Mar 14 22:12 : client: [234] opened from 127.0.0.1:53398
+Mar 14 22:12 : client: [234] closed
+Mar 14 22:12 : client: [235] opened from 127.0.0.1:53402
+Mar 14 22:12 : client: [235] closed
+Mar 14 22:12 : client: [236] opened from 127.0.0.1:53406
+Mar 14 22:12 : client: [236] closed
+Mar 14 22:15 : client: [237] opened from 127.0.0.1:53412
+Mar 14 22:15 : client: [237] closed
+Mar 14 22:30 : client: [238] opened from 127.0.0.1:53794
+Mar 14 22:30 : client: [238] closed
+Mar 14 22:30 : client: [239] opened from 127.0.0.1:53798
+Mar 14 22:30 : client: [239] closed
+Mar 14 22:34 : player: played "Initial D Final Selection/08  The Top  Ken Blast.mp3"
+Mar 14 22:35 : client: [240] opened from 127.0.0.1:53816
+Mar 14 22:35 : client: [240] closed
+Mar 14 22:35 : client: [241] opened from 127.0.0.1:53820
+Mar 14 22:35 : client: [241] closed
+Mar 14 22:35 : client: [242] opened from 127.0.0.1:53824
+Mar 14 22:35 : client: [242] closed
+Mar 14 22:35 : client: [243] opened from 127.0.0.1:53828
+Mar 14 22:35 : client: [243] closed
+Mar 14 22:35 : client: [244] opened from 127.0.0.1:53832
+Mar 14 22:35 : client: [244] closed
+Mar 14 22:40 : player: played "Initial D Final Selection/08  The Top  Ken Blast.mp3"
+Mar 14 22:41 : client: [245] opened from 127.0.0.1:53864
+Mar 14 22:41 : client: [245] closed
+Mar 14 22:41 : client: [246] opened from 127.0.0.1:53868
+Mar 14 22:41 : client: [246] closed
+Mar 14 22:41 : client: [247] opened from 127.0.0.1:53872
+Mar 14 22:41 : client: [247] closed
+Mar 14 22:41 : client: [248] opened from 127.0.0.1:53874
+Mar 14 22:41 : client: [248] closed
+Mar 14 22:41 : client: [249] opened from 127.0.0.1:53878
+Mar 14 22:41 : client: [249] closed
+Mar 14 22:41 : client: [250] opened from 127.0.0.1:53882
+Mar 14 22:41 : client: [250] closed
+Mar 14 22:42 : client: [251] opened from 127.0.0.1:53886
+Mar 14 22:42 : client: [251] closed
+Mar 14 22:42 : client: [252] opened from 127.0.0.1:53890
+Mar 14 22:42 : client: [252] closed
+Mar 14 22:42 : player: played "Super Eurobeat Vol. 166/09 Burning Highway.mp3"
+Mar 14 22:42 : client: [253] opened from 127.0.0.1:53894
+Mar 14 22:42 : client: [253] closed
+Mar 14 22:42 : client: [254] opened from 127.0.0.1:53898
+Mar 14 22:42 : client: [254] closed
+Mar 14 22:42 : client: [255] opened from 127.0.0.1:53902
+Mar 14 22:42 : client: [255] closed
+Mar 14 22:42 : client: [256] opened from 127.0.0.1:53906
+Mar 14 22:42 : client: [256] closed
+Mar 14 22:42 : client: [257] opened from 127.0.0.1:53910
+Mar 14 22:42 : client: [257] closed
+Mar 14 22:42 : client: [258] opened from 127.0.0.1:53914
+Mar 14 22:42 : client: [258] closed
+Mar 14 22:42 : player: played "Super Eurobeat Vol. 166/03 Destiny.mp3"
+Mar 14 22:42 : client: [259] opened from 127.0.0.1:53918
+Mar 14 22:42 : client: [259] closed
+Mar 14 22:42 : client: [260] opened from 127.0.0.1:53922
+Mar 14 22:42 : client: [260] closed
+Mar 14 22:42 : client: [261] opened from 127.0.0.1:53926
+Mar 14 22:42 : client: [261] closed
+Mar 14 22:42 : client: [262] opened from 127.0.0.1:53930
+Mar 14 22:42 : client: [262] closed
+Mar 14 22:42 : client: [263] opened from 127.0.0.1:53934
+Mar 14 22:42 : client: [263] closed
+Mar 14 22:42 : client: [264] opened from 127.0.0.1:53938
+Mar 14 22:42 : client: [264] closed
+Mar 14 22:45 : client: [265] opened from 127.0.0.1:53952
+Mar 14 22:45 : client: [266] opened from 127.0.0.1:53956
+Mar 14 22:45 : client: [266] closed
+Mar 14 22:45 : client: [267] opened from 127.0.0.1:53960
+Mar 14 22:45 : client: [267] closed
+Mar 14 22:45 : player: played "Super Eurobeat Vol. 167/04 Sun in the Rain.mp3"
+Mar 14 22:45 : client: [268] opened from 127.0.0.1:53968
+Mar 14 22:45 : client: [269] opened from 127.0.0.1:53970
+Mar 14 22:45 : client: [269] closed
+Mar 14 22:45 : client: [268] closed
+Mar 14 22:45 : client: [270] opened from 127.0.0.1:53976
+Mar 14 22:45 : client: [270] closed
+Mar 14 22:45 : client: [271] opened from 127.0.0.1:53980
+Mar 14 22:45 : client: [271] closed
+Mar 14 22:46 : client: [116] closed
+Mar 14 23:07 : client: [265] closed
+Mar 14 23:10 : player: played "Super Eurobeat Vol. 151/02 Change the World.mp3"
+Mar 14 23:20 : client: [272] opened from 127.0.0.1:54290
+Mar 14 23:20 : client: [272] closed
+Mar 14 23:20 : client: [273] opened from 127.0.0.1:54294
+Mar 14 23:20 : client: [274] opened from 127.0.0.1:54298
+Mar 14 23:20 : client: [274] closed
+Mar 14 23:20 : client: [275] opened from 127.0.0.1:54302
+Mar 14 23:20 : client: [275] closed

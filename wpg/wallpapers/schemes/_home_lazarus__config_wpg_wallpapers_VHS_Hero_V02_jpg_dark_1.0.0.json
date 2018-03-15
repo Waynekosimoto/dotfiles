@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/VHS_Hero_V02.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E0D13",
+        "foreground": "#f9fbff",
+        "cursor": "#caccd3"
+    },
+    "colors": {
+        "color0": "#0E0D13",
+        "color1": "#d2224e",
+        "color2": "#9C4571",
+        "color3": "#324D9E",
+        "color4": "#3A49A0",
+        "color5": "#545FA4",
+        "color6": "#6C94C2",
+        "color7": "#caccd3",
+        "color8": "#1f1d2b",
+        "color9": "#ff1c5d",
+        "color10": "#d94b93",
+        "color11": "#335dda",
+        "color12": "#3d54de",
+        "color13": "#5d6fe5",
+        "color14": "#78bfff",
+        "color15": "#f9fbff"
+    }
+}

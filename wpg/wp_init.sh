@@ -1,2 +1,2 @@
 #!/bin/bash
-wpg -rs shin_godzilla.jpg shin_godzilla.jpg
+wpg -rs jo-san-frankenpunk15.jpg jo-san-frankenpunk15.jpg

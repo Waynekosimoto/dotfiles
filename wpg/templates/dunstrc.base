@@ -10,7 +10,7 @@
                 
 
 [global]
-    font = !FONT 8
+    font = <!FONT> 8
     markup = no
     format = "%s\n%b"
     sort = yes
@@ -52,17 +52,17 @@
 
 [urgency_low]
     background = "#ffffff"
-    foreground = "#COLOR0"
+    foreground = "#<COLOR0>"
     timeout = 10
 
 [urgency_normal]
     background = "#ffffff"
-    foreground = "#COLOR0"
+    foreground = "#<COLOR0>"
     timeout = 10
 
 [urgency_critical]
     background = "#ffffff"
-    foreground = "#COLOR0"
+    foreground = "#<COLOR0>"
     timeout = 0
 
 

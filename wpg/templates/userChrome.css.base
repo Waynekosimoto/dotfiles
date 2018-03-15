@@ -34,7 +34,7 @@ toolbarbutton#alltabs-button,
 
 
 .tab-line[selected="true"] {
-background-color: #COLOR1 !important;
+background-color: #<COLORACT> !important;
 }
 
 .tab-background {

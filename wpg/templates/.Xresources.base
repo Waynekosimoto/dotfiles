@@ -48,7 +48,7 @@ URxvt.iso14755_52: False
 !URxvt.perl-ext-common: default,clipboard
 
 URxvt.font:xft:kakwafont:pixelsize=10
-!*font:xft:!FONT:pixelsize=10
+!*font:xft:<!FONT>:pixelsize=10
 URxvt.boldFont:xft:kakwafont:pixelsize=10
 
 URxvt*cursorUnderline: true

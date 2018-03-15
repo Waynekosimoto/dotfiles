@@ -1,16 +1,16 @@
 rofi.modi:                           window,run,ssh
-rofi.width:                          1936
-rofi.lines:                          10
-rofi.columns:                        5
-rofi.font:                           !FONT 8
-rofi.color-normal:                   #COLOR0, #COLORX15, #COLOR0, #COLORACT, #COLORX15
-rofi.color-urgent:                   #COLOR0, #d6b48d, #22231D, #d6b48d, #COLORX15
-rofi.color-active:                   #COLOR0, #COLORX14, #COLOR0, #COLORX14, #COLOR0
-rofi.color-window:                   #COLOR0, #COLORACT, #COLORIN
-rofi.bw:                             8
+rofi.width:                          20
+rofi.lines:                          20
+rofi.columns:                        1
+rofi.font:                           <!FONT> 10
+rofi.color-normal:                   #<COLOR0>, #<COLOR15>, #<COLOR0>, #<COLORACT>, #<COLOR15>
+rofi.color-urgent:                   #<COLOR0>, #d6b48d, #22231D, #d6b48d, #<COLOR15>
+rofi.color-active:                   #<COLOR0>, #<COLOR14>, #<COLOR0>, #<COLOR14>, #<COLOR0>
+rofi.color-window:                   #<COLOR0>, #<COLORACT>, #<COLORIN>
+rofi.bw:                             0
 rofi.location:                       0
-rofi.padding:                        50
-rofi.yoffset:                        -403
+rofi.padding:                        40
+rofi.yoffset:                        0
 rofi.xoffset:                        0
 rofi.fixed-num-lines:                true
 rofi.terminal:                       rofi-sensible-terminal

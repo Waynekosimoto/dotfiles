@@ -19,6 +19,9 @@ set mouse=a
 filetype on
 set nocompatible
 
+let g:deoplete#enable_at_startup = 1
+
+
 "Airline Customization
 let g:airline_left_sep = '▓░'
 let g:airline_right_sep = '░▓'
@@ -74,7 +77,6 @@ call plug#begin('~/.config/nvim/plugged')
 " Declare the list of plugins.
 Plug 'tpope/vim-sensible'
 Plug 'lervag/vimtex'
-Plug 'xuhdev/vim-latex-live-preview', { 'for': 'tex' }
 Plug 'scrooloose/nerdtree'
 Plug 'mattn/emmet-vim'
 Plug 'francoiscabrol/ranger.vim'
@@ -85,8 +87,11 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'othree/csscomplete.vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
-Plug 'valloric/youcompleteme'
+"Plug 'valloric/youcompleteme'
 Plug 'w0rp/ale'
+"Plug 'bjoernd/vim-ycm-tex'
+Plug 'shougo/deoplete.nvim'
+Plug 'poppyschmo/deoplete-latex'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 
