@@ -15622,3 +15622,102 @@ Mar 14 23:20 : client: [274] opened from 127.0.0.1:54298
 Mar 14 23:20 : client: [274] closed
 Mar 14 23:20 : client: [275] opened from 127.0.0.1:54302
 Mar 14 23:20 : client: [275] closed
+Mar 14 23:22 : client: [276] opened from 127.0.0.1:54350
+Mar 14 23:22 : client: [276] closed
+Mar 14 23:30 : client: [277] opened from 127.0.0.1:54458
+Mar 14 23:30 : client: [277] closed
+Mar 14 23:32 : player: played "Super Eurobeat Vol. 151/02 Change the World.mp3"
+Mar 14 23:33 : client: [150] closed
+Mar 14 23:33 : client: [273] closed
+Mar 14 23:33 : avahi: Client Disconnected, will reconnect shortly
+Mar 14 23:33 : avahi: Could not reconnect: Daemon not running
+Mar 15 15:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 15:51 : client: [0] opened from 127.0.0.1:52022
+Mar 15 15:51 : client: [0] closed
+Mar 15 15:51 : client: [1] opened from 127.0.0.1:52024
+Mar 15 15:52 : client: [1] closed
+Mar 15 15:52 : client: [2] opened from 127.0.0.1:52102
+Mar 15 15:52 : client: [2] closed
+Mar 15 15:52 : client: [3] opened from 127.0.0.1:52104
+Mar 15 18:38 : client: [3] closed
+Mar 15 18:38 : client: [4] opened from 127.0.0.1:54622
+Mar 15 23:13 : client: [4] closed
+Mar 15 23:13 : avahi: Client Disconnected, will reconnect shortly
+Mar 15 23:13 : avahi: Could not reconnect: Daemon not running
+Mar 16 15:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 15:56 : client: [0] opened from 127.0.0.1:33494
+Mar 16 15:56 : client: [0] closed
+Mar 16 15:56 : client: [1] opened from 127.0.0.1:33496
+Mar 16 16:18 : client: [1] closed
+Mar 16 16:18 : client: [2] opened from 127.0.0.1:34442
+Mar 16 16:18 : client: [2] closed
+Mar 16 16:18 : client: [3] opened from 127.0.0.1:34444
+Mar 16 16:18 : client: [3] closed
+Mar 16 16:18 : client: [4] opened from 127.0.0.1:34446
+Mar 16 16:19 : client: [4] closed
+Mar 16 16:19 : client: [5] opened from 127.0.0.1:34448
+Mar 16 16:19 : client: [5] closed
+Mar 16 16:19 : client: [6] opened from 127.0.0.1:34452
+Mar 16 16:20 : client: [6] closed
+Mar 16 16:20 : client: [7] opened from 127.0.0.1:34466
+Mar 16 16:20 : client: [7] closed
+Mar 16 16:20 : client: [8] opened from 127.0.0.1:34468
+Mar 16 16:20 : client: [8] closed
+Mar 16 16:20 : client: [9] opened from 127.0.0.1:34470
+Mar 16 16:22 : client: [9] closed
+Mar 16 16:22 : client: [10] opened from 127.0.0.1:34472
+Mar 16 16:22 : client: [11] opened from 127.0.0.1:34542
+Mar 16 16:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 16 16:22 : client: [12] opened from 127.0.0.1:34566
+Mar 16 16:22 : client: [12] closed
+Mar 16 16:22 : client: [13] opened from 127.0.0.1:34570
+Mar 16 16:22 : client: [13] closed
+Mar 16 16:22 : client: [14] opened from 127.0.0.1:34574
+Mar 16 16:22 : client: [14] closed
+Mar 16 16:22 : client: [15] opened from 127.0.0.1:34578
+Mar 16 16:22 : client: [15] closed
+Mar 16 16:22 : client: [16] opened from 127.0.0.1:34582
+Mar 16 16:22 : client: [16] closed
+Mar 16 16:22 : client: [17] opened from 127.0.0.1:34586
+Mar 16 16:22 : client: [17] closed
+Mar 16 16:27 : player: played "Super Eurobeat Vol. 157/01 My Heart Burns Like a Fire.mp3"
+Mar 16 16:35 : client: [10] closed
+Mar 16 16:35 : client: [18] opened from 127.0.0.1:35074
+Mar 16 16:37 : client: [18] closed
+Mar 16 16:37 : client: [19] opened from 127.0.0.1:35176
+Mar 16 16:37 : client: [20] opened from 127.0.0.1:35234
+Mar 16 16:37 : client: [20] closed
+Mar 16 16:37 : client: [21] opened from 127.0.0.1:35238
+Mar 16 16:37 : client: [21] closed
+Mar 16 16:37 : client: [22] opened from 127.0.0.1:35242
+Mar 16 16:37 : client: [22] closed
+Mar 16 16:41 : client: [23] opened from 127.0.0.1:35578
+Mar 16 16:41 : client: [23] closed
+Mar 16 16:54 : client: [24] opened from 127.0.0.1:35950
+Mar 16 16:54 : client: [24] closed
+Mar 16 16:54 : player: played "Super Eurobeat Vol. 157/08 The Way You Love Me.mp3"
+Mar 16 16:54 : client: [25] opened from 127.0.0.1:35960
+Mar 16 16:54 : client: [25] closed
+Mar 16 16:54 : client: [26] opened from 127.0.0.1:35964
+Mar 16 16:54 : client: [26] closed
+Mar 16 16:55 : client: [27] opened from 127.0.0.1:35972
+Mar 16 16:55 : client: [28] opened from 127.0.0.1:35976
+Mar 16 16:55 : client: [28] closed
+Mar 16 16:55 : client: [29] opened from 127.0.0.1:35980
+Mar 16 16:55 : client: [29] closed
+Mar 16 16:58 : player: played "Super Eurobeat Vol. 157/17 Midnight Lover.mp3"
+Mar 16 16:58 : client: [30] opened from 127.0.0.1:36064
+Mar 16 16:58 : client: [30] closed
+Mar 16 16:58 : client: [31] opened from 127.0.0.1:36068
+Mar 16 16:58 : client: [31] closed
+Mar 16 16:58 : client: [32] opened from 127.0.0.1:36072
+Mar 16 16:58 : client: [32] closed
+Mar 16 16:58 : client: [33] opened from 127.0.0.1:36076
+Mar 16 16:58 : client: [33] closed
+Mar 16 17:01 : client: [34] opened from 127.0.0.1:36274
+Mar 16 17:01 : client: [34] closed
+Mar 16 17:19 : client: [35] opened from 127.0.0.1:36358
+Mar 16 17:19 : client: [35] closed
+Mar 16 17:20 : client: [36] opened from 127.0.0.1:36404
+Mar 16 17:20 : client: [36] closed
+Mar 16 17:39 : client: [27] closed
