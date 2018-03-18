@@ -136,7 +136,7 @@
   </desktops>
   <resize>
     <drawContents>yes</drawContents>
-    <popupShow>Nonpixel</popupShow>
+    <popupShow>NonPixel</popupShow>
     <!-- 'Always', 'Never', or 'Nonpixel' (xterms and such) -->
     <popupPosition>Center</popupPosition>
     <!-- 'Center' or 'Top' -->
@@ -161,7 +161,7 @@
     <right>10</right>
   </margins>
   <dock>
-    <position>TopLeft</position>
+    <position>Bottom</position>
     <!-- (Top|Bottom)(Left|Right|)|Top|Bottom|Left|Right|Floating -->
     <floatingX>0</floatingX>
     <floatingY>0</floatingY>
@@ -893,6 +893,20 @@
 
   # end of the example
 -->
+    <application name="urxvt">
+	<decor>no</decor>
+    </application>
+    <application name="firefox">
+	<decor>no</decor>
+    </application>
+    <application name="mupdf">
+	<decor>no</decor>
+    </application>
+
+    <application name="mpv">
+	<decor>no</decor>
+    </application>
+
     <application name="gmessage">
       <decor>no</decor>
       <shade>no</shade>

@@ -9,12 +9,12 @@
 ;	          \/_/                    \/__/                        
 
 [colors]
-background = #<COLOR0>
-background-alt = #<COLOR8>
+background = #1b1619
+background-alt = #708e8a
 foreground = #efefef
 foreground-alt = #ffffff
-active = #<COLORACT>
-inactive = #<COLORIN>
+active = #a05f52
+inactive = #6e4138
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
@@ -45,7 +45,7 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = <!FONT>:pixelsize=6;1
+font-0 = kakwafont:pixelsize=6;1
 font-1 = Siji:pixelsize=10;2
 
 modules-left = 
@@ -82,7 +82,7 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = <!FONT>:pixelsize=6;1
+font-0 = kakwafont:pixelsize=6;1
 font-1 = Siji:pixelsize=10;2
 
 modules-left = 
@@ -93,11 +93,11 @@ modules-right =
 
 [bar/full]
 monitor = "eDP"
-width = 720
-height = 30
-offset-x = 250
+width = 550
+height = 20
+offset-x = 685
 ;offset-x = 1280
-offset-y = 0
+offset-y = -5
 radius = 0.0
 fixed-center = false
 bottom = true
@@ -117,49 +117,15 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = <!FONT>:pixelsize=6;1
+font-0 = kakwafont:pixelsize=6;1
 font-1 = Siji:pixelsize=10;2
 
 modules-left =
-modules-center = date wlan volume
+modules-center = progress
 modules-right =
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
-[bar/fullmusic]
-monitor = "eDP"
-width = 250
-height = 30
-offset-x = 0
-;offset-x = 1280
-offset-y = 0
-radius = 0.0
-fixed-center = false
-bottom = true
-
-background = ${colors.active}
-foreground = ${colors.foreground}
-
-line-size = 0
-label-line-color = #f00
-
-border-size = 0
-border-color = #00000000
-
-padding-left = 0
-padding-right = 0
-
-module-margin-left = 0
-module-margin-right = 0
-
-font-0 = <!FONT>:pixelsize=6;1
-font-1 = Siji:pixelsize=10;2
-
-modules-left =
-modules-center = mpd
-modules-right =
-
-;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 
 [bar/window]
 monitor = "eDP"
@@ -189,7 +155,7 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = <!FONT>:pixelsize=6;1
+font-0 = kakwafont:pixelsize=6;1
 font-1 = Siji:pixelsize=10;2
 
 modules-left = 
@@ -224,7 +190,7 @@ padding-right = 0
 module-margin-left = 0
 module-margin-right = 0
 
-font-0 = <!FONT>:pixelsize=6;1
+font-0 = kakwafont:pixelsize=6;1
 font-1 = Siji:pixelsize=10;2
 
 modules-left =
@@ -245,9 +211,6 @@ format-padding = 0
 
 
 [module/xwindow]
-
-
-
 y-offset=0
 type=internal/xwindow
 label=%title:0:120:...%
@@ -304,6 +267,24 @@ icon-prev = 
 icon-next = 
 icon-seekb = 
 icon-seekf = 
+
+;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
+[module/progress]
+type = internal/mpd
+
+
+format-playing-background = ${colors.active}
+
+format-online = <bar-progress>
+bar-progress-width = 45
+bar-progress-fill = -
+bar-progress-indicator = |
+bar-progress-empty = -
+
+
+
+
+
 
 ;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~;
 

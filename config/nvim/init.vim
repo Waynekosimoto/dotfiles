@@ -6,8 +6,8 @@
 "    \/_/\/_/\/____/\/___/  \/__/    \/_/\/_/\/_/\/_/
 
 
-set number
-set ruler
+"set number
+"set ruler
 set wrap
 let g:vimtex_view_method ='mupdf'
 let g:livepreview_previewer = 'mupdf'

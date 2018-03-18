@@ -1,0 +1,30 @@
+- link:
+        ~/.config/cava :
+                path: config/cava
+        ~/.config/compton:
+                path: config/compton
+        ~/.config/dunst:
+                path: config/dunst
+        ~/.config/nvim:
+                path: config/nvim
+        ~/.config/openbox:
+                path: config/openbox
+        ~/.config/polybar:
+                path: config/polybar
+        ~/.config/rtv:
+                path: config/rtv
+        ~/.config/tint2:
+                path: config/tint2
+        ~/.config/wpg:
+                path: config/wpg
+        ~/.mpd :
+                create: true
+                path: mpd
+        ~/.themes :
+                create: true
+                path: themes
+        ~/.ncmpcpp:
+                create: true
+                path: ncmpcpp
+        ~/.Xresources:
+                path: .Xresources
