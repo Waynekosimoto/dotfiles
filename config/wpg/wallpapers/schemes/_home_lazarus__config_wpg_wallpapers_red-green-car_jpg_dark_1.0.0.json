@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/red-green-car.jpg",
     "alpha": "100",
+
     "special": {
         "background": "#010409",
-        "foreground": "#f5779e",
+        "foreground": "#ff9ed2",
         "cursor": "#f5779e"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#B2024C",
         "color6": "#CF0249",
         "color7": "#f5779e",
-        "color8": "#ab536e",
-        "color9": "#D00935",
-        "color10": "#FD0037",
-        "color11": "#B64835",
-        "color12": "#920648",
-        "color13": "#B2024C",
-        "color14": "#CF0249",
-        "color15": "#f5779e"
+        "color8": "#011331",
+        "color9": "#ff013e",
+        "color10": "#ff0148",
+        "color11": "#fb5235",
+        "color12": "#c4015d",
+        "color13": "#e90162",
+        "color14": "#ff015e",
+        "color15": "#ff9ed2"
     }
 }

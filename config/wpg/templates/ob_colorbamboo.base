@@ -1,8 +1,8 @@
 
 border.width: 0
-padding.height: 0
+padding.height: 5
 padding.width: 8
-window.label.text.justify: Center
+window.label.text.justify: Left
 window.client.padding.width: 0
 window.handle.width: 0
 

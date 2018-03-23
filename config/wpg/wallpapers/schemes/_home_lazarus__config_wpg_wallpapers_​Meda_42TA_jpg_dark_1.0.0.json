@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/​Meda_42TA.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#18171b",
+        "foreground": "#ffffff",
+        "cursor": "#e2e2e2"
+    },
+    "colors": {
+        "color0": "#18171b",
+        "color1": "#959A9E",
+        "color2": "#A49EB9",
+        "color3": "#A8A2BC",
+        "color4": "#BFC0BD",
+        "color5": "#90B6C6",
+        "color6": "#AEA9C2",
+        "color7": "#e2e2e2",
+        "color8": "#2b2930",
+        "color9": "#adcae1",
+        "color10": "#c8b7ff",
+        "color11": "#cebbff",
+        "color12": "#ffffdd",
+        "color13": "#a5f5ff",
+        "color14": "#d4c4ff",
+        "color15": "#ffffff"
+    }
+}

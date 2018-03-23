@@ -894,19 +894,17 @@
   # end of the example
 -->
     <application name="urxvt">
-	<decor>no</decor>
+      <decor>no</decor>
     </application>
     <application name="firefox">
-	<decor>no</decor>
+      <decor>no</decor>
     </application>
     <application name="mupdf">
-	<decor>no</decor>
+      <decor>no</decor>
     </application>
-
     <application name="mpv">
-	<decor>no</decor>
+      <decor>no</decor>
     </application>
-
     <application name="gmessage">
       <decor>no</decor>
       <shade>no</shade>

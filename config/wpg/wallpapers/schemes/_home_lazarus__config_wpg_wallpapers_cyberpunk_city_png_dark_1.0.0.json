@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/cyberpunk_city.png",
     "alpha": "100",
+
     "special": {
         "background": "#080610",
-        "foreground": "#aabfdc",
+        "foreground": "#def9ff",
         "cursor": "#aabfdc"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#B356BC",
         "color6": "#6598C0",
         "color7": "#aabfdc",
-        "color8": "#76859a",
-        "color9": "#9E346E",
-        "color10": "#335C9D",
-        "color11": "#5A61A4",
-        "color12": "#5962AF",
-        "color13": "#B356BC",
-        "color14": "#6598C0",
-        "color15": "#aabfdc"
+        "color8": "#16102e",
+        "color9": "#db3590",
+        "color10": "#3474d9",
+        "color11": "#6470e5",
+        "color12": "#6271f4",
+        "color13": "#f75dff",
+        "color14": "#70c7ff",
+        "color15": "#def9ff"
     }
 }

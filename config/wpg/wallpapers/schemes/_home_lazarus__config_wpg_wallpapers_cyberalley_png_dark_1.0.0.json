@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/cyberalley.png",
     "alpha": "100",
+
     "special": {
         "background": "#0f100f",
-        "foreground": "#9da29e",
+        "foreground": "#d8ded9",
         "cursor": "#9da29e"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#2A2448",
         "color6": "#354F47",
         "color7": "#9da29e",
-        "color8": "#6d716e",
-        "color9": "#532D1B",
-        "color10": "#483429",
-        "color11": "#30453B",
-        "color12": "#524A2F",
-        "color13": "#2A2448",
-        "color14": "#354F47",
-        "color15": "#9da29e"
+        "color8": "#222422",
+        "color9": "#73371b",
+        "color10": "#64412d",
+        "color11": "#36614d",
+        "color12": "#726434",
+        "color13": "#312764",
+        "color14": "#3c6f5f",
+        "color15": "#d8ded9"
     }
 }

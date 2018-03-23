@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/gondola-street.png",
     "alpha": "100",
+
     "special": {
         "background": "#0E0503",
-        "foreground": "#b3b5c2",
+        "foreground": "#ecefff",
         "cursor": "#b3b5c2"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#9F7545",
         "color6": "#D09650",
         "color7": "#b3b5c2",
-        "color8": "#7d7e87",
-        "color9": "#6D4F29",
-        "color10": "#6D5E54",
-        "color11": "#956125",
-        "color12": "#946731",
-        "color13": "#9F7545",
-        "color14": "#D09650",
-        "color15": "#b3b5c2"
+        "color8": "#300f08",
+        "color9": "#97672b",
+        "color10": "#9a7760",
+        "color11": "#cd7e23",
+        "color12": "#cd8732",
+        "color13": "#dd994a",
+        "color14": "#ffc455",
+        "color15": "#ecefff"
     }
 }

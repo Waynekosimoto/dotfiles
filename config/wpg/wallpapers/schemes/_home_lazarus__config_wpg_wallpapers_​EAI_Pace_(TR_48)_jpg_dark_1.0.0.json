@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/​EAI_Pace_(TR_48).jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171b18",
+        "foreground": "#fefffd",
+        "cursor": "#e0e2df"
+    },
+    "colors": {
+        "color0": "#171b18",
+        "color1": "#6F9C83",
+        "color2": "#5AA799",
+        "color3": "#7CA88F",
+        "color4": "#84AF97",
+        "color5": "#A6A99E",
+        "color6": "#C8C5B0",
+        "color7": "#e0e2df",
+        "color8": "#29302b",
+        "color9": "#7edca8",
+        "color10": "#64e9d1",
+        "color11": "#8eedb7",
+        "color12": "#97f7c1",
+        "color13": "#e1f0b8",
+        "color14": "#ffffcc",
+        "color15": "#fefffd"
+    }
+}

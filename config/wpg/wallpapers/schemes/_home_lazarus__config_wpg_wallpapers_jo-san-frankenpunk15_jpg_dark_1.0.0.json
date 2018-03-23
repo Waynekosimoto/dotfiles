@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/jo-san-frankenpunk15.jpg",
     "alpha": "100",
+
     "special": {
         "background": "#1b1619",
-        "foreground": "#a1ccc6",
+        "foreground": "#d5ffff",
         "cursor": "#a1ccc6"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#446B8A",
         "color6": "#927A82",
         "color7": "#a1ccc6",
-        "color8": "#708e8a",
-        "color9": "#C97767",
-        "color10": "#698B75",
-        "color11": "#91A17A",
-        "color12": "#E5926F",
-        "color13": "#446B8A",
-        "color14": "#927A82",
-        "color15": "#a1ccc6"
+        "color8": "#31272d",
+        "color9": "#ff8d72",
+        "color10": "#78c493",
+        "color11": "#bfe38c",
+        "color12": "#ffb47a",
+        "color13": "#4b8cc0",
+        "color14": "#cf8da3",
+        "color15": "#d5ffff"
     }
 }

@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/gondola-dinner.jpg",
     "alpha": "100",
+
     "special": {
         "background": "#0f151a",
-        "foreground": "#f1f0dc",
+        "foreground": "#fffff3",
         "cursor": "#f1f0dc"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#B8C5A4",
         "color6": "#EAE6AF",
         "color7": "#f1f0dc",
-        "color8": "#a8a89a",
-        "color9": "#999568",
-        "color10": "#DCCD74",
-        "color11": "#658284",
-        "color12": "#A5AE92",
-        "color13": "#B8C5A4",
-        "color14": "#EAE6AF",
-        "color15": "#f1f0dc"
+        "color8": "#1d2933",
+        "color9": "#d7cf76",
+        "color10": "#ffff80",
+        "color11": "#74b6ba",
+        "color12": "#ddf6a9",
+        "color13": "#f4ffbd",
+        "color14": "#ffffc0",
+        "color15": "#fffff3"
     }
 }

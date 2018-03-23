@@ -1,9 +1,10 @@
 {
     "wallpaper": "/home/lazarus/.config/wpg/wallpapers/jo-san-archivist2.jpg",
     "alpha": "100",
+
     "special": {
         "background": "#070708",
-        "foreground": "#e7caae",
+        "foreground": "#fffedb",
         "cursor": "#e7caae"
     },
     "colors": {
@@ -15,13 +16,13 @@
         "color5": "#9D8A6C",
         "color6": "#94997F",
         "color7": "#e7caae",
-        "color8": "#a18d79",
-        "color9": "#66625A",
-        "color10": "#747469",
-        "color11": "#9B6D4B",
-        "color12": "#8D745F",
-        "color13": "#9D8A6C",
-        "color14": "#94997F",
-        "color15": "#e7caae"
+        "color8": "#19191d",
+        "color9": "#908368",
+        "color10": "#a5a57a",
+        "color11": "#d88b52",
+        "color12": "#c6956c",
+        "color13": "#ddb77b",
+        "color14": "#cbd992",
+        "color15": "#fffedb"
     }
 }

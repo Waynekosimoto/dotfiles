@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/​IBM_729.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#11090f",
+        "foreground": "#fffdf8",
+        "cursor": "#e9e2de"
+    },
+    "colors": {
+        "color0": "#11090f",
+        "color1": "#E45B5D",
+        "color2": "#E65E60",
+        "color3": "#E86263",
+        "color4": "#9C847B",
+        "color5": "#BFAFA8",
+        "color6": "#CBAFA7",
+        "color7": "#e9e2de",
+        "color8": "#2b1626",
+        "color9": "#ff6164",
+        "color10": "#ff6568",
+        "color11": "#ff696b",
+        "color12": "#dca38d",
+        "color13": "#ffdac3",
+        "color14": "#ffd6c1",
+        "color15": "#fffdf8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/​Endim_2000.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#19282d",
+        "foreground": "#f8ffff",
+        "cursor": "#dde5e9"
+    },
+    "colors": {
+        "color0": "#19282d",
+        "color1": "#93A7AE",
+        "color2": "#D6AB96",
+        "color3": "#86B6C5",
+        "color4": "#A6BBC5",
+        "color5": "#A2CAD9",
+        "color6": "#B1DAEA",
+        "color7": "#dde5e9",
+        "color8": "#273e46",
+        "color9": "#aae3f6",
+        "color10": "#ffd6ab",
+        "color11": "#98f7ff",
+        "color12": "#c0fbff",
+        "color13": "#baffff",
+        "color14": "#c2ffff",
+        "color15": "#f8ffff"
+    }
+}

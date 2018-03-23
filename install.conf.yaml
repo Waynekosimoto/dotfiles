@@ -1,5 +1,8 @@
+- shell:
+    - mkdir ~/.config/rofi/ 
+
 - link:
-        ~/.config/cava :
+        ~/.config/cava:
                 path: config/cava
         ~/.config/compton:
                 path: config/compton
@@ -17,7 +20,7 @@
                 path: config/tint2
         ~/.config/wpg:
                 path: config/wpg
-        ~/.mpd :
+        ~/.mpd:
                 create: true
                 path: mpd
         ~/.themes :
@@ -28,3 +31,9 @@
                 path: ncmpcpp
         ~/.Xresources:
                 path: .Xresources
+        ~/.config/rofi/rofi:
+                path: config/wpg/templates/rofi
+
+
+- shell :
+    - mv ~/.config/rofi/rofi ~/.config/rofi/config
