@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/pantera.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0508",
+        "foreground": "#ffc6ff",
+        "cursor": "#d095d4"
+    },
+    "colors": {
+        "color0": "#0A0508",
+        "color1": "#9E091D",
+        "color2": "#E20C2C",
+        "color3": "#BD3A58",
+        "color4": "#E21056",
+        "color5": "#D7A54B",
+        "color6": "#5316AB",
+        "color7": "#d095d4",
+        "color8": "#25111d",
+        "color9": "#d8011d",
+        "color10": "#ff012e",
+        "color11": "#ff3b69",
+        "color12": "#ff046a",
+        "color13": "#ffdb4e",
+        "color14": "#690fea",
+        "color15": "#ffc6ff"
+    }
+}

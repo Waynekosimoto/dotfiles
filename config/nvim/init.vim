@@ -90,8 +90,8 @@ Plug 'honza/vim-snippets'
 "Plug 'valloric/youcompleteme'
 Plug 'w0rp/ale'
 "Plug 'bjoernd/vim-ycm-tex'
-Plug 'shougo/deoplete.nvim'
-Plug 'poppyschmo/deoplete-latex'
+"Plug 'shougo/deoplete.nvim'
+"Plug 'poppyschmo/deoplete-latex'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 

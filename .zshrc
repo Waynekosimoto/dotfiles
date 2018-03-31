@@ -74,6 +74,7 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
+eval $(thefuck --alias)
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"

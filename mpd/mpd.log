@@ -16365,3 +16365,643 @@ Mar 22 17:49 : client: [1] closed
 Mar 22 17:49 : client: [3] opened from 127.0.0.1:49704
 Mar 22 17:49 : client: [3] closed
 Mar 22 17:49 : client: [4] opened from 127.0.0.1:49706
+Mar 22 19:17 : client: [5] opened from 127.0.0.1:53488
+Mar 22 19:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 22 19:29 : client: [6] opened from 127.0.0.1:53662
+Mar 22 19:29 : client: [6] closed
+Mar 22 19:29 : client: [7] opened from 127.0.0.1:53666
+Mar 22 19:29 : client: [7] closed
+Mar 22 19:30 : client: [8] opened from 127.0.0.1:53670
+Mar 22 19:30 : client: [8] closed
+Mar 22 19:30 : client: [9] opened from 127.0.0.1:53674
+Mar 22 19:30 : client: [9] closed
+Mar 22 19:31 : client: [10] opened from 127.0.0.1:53726
+Mar 22 19:31 : client: [10] closed
+Mar 22 19:48 : client: [11] opened from 127.0.0.1:54094
+Mar 22 19:48 : client: [11] closed
+Mar 22 19:50 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 22 19:52 : client: [12] opened from 127.0.0.1:54248
+Mar 22 19:52 : client: [12] closed
+Mar 22 19:52 : client: [13] opened from 127.0.0.1:54252
+Mar 22 19:52 : client: [13] closed
+Mar 22 19:52 : client: [14] opened from 127.0.0.1:54256
+Mar 22 19:52 : client: [14] closed
+Mar 22 19:57 : client: [15] opened from 127.0.0.1:54368
+Mar 22 19:57 : client: [15] closed
+Mar 22 19:57 : client: [16] opened from 127.0.0.1:54372
+Mar 22 19:57 : client: [16] closed
+Mar 22 19:57 : client: [17] opened from 127.0.0.1:54376
+Mar 22 19:57 : client: [17] closed
+Mar 22 19:57 : client: [18] opened from 127.0.0.1:54382
+Mar 22 19:57 : client: [18] closed
+Mar 22 22:15 : client: [19] opened from 127.0.0.1:54996
+Mar 22 22:15 : client: [19] closed
+Mar 22 22:19 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 22 22:19 : client: [4] closed
+Mar 22 22:19 : client: [20] opened from 127.0.0.1:55060
+Mar 22 22:19 : client: [20] closed
+Mar 22 22:19 : client: [21] opened from 127.0.0.1:55062
+Mar 22 22:19 : client: [22] opened from 127.0.0.1:55066
+Mar 22 22:19 : client: [22] closed
+Mar 22 22:19 : client: [23] opened from 127.0.0.1:55070
+Mar 22 22:19 : client: [23] closed
+Mar 22 22:19 : client: [24] opened from 127.0.0.1:55074
+Mar 22 22:19 : client: [24] closed
+Mar 22 22:19 : client: [25] opened from 127.0.0.1:55078
+Mar 22 22:19 : client: [25] closed
+Mar 22 22:19 : client: [26] opened from 127.0.0.1:55082
+Mar 22 22:19 : client: [26] closed
+Mar 22 22:19 : client: [27] opened from 127.0.0.1:55086
+Mar 22 22:19 : client: [27] closed
+Mar 22 22:19 : client: [28] opened from 127.0.0.1:55090
+Mar 22 22:19 : client: [28] closed
+Mar 22 22:19 : client: [29] opened from 127.0.0.1:55094
+Mar 22 22:19 : client: [29] closed
+Mar 22 22:25 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 22 22:26 : client: [30] opened from 127.0.0.1:55126
+Mar 22 22:26 : client: [30] closed
+Mar 22 22:26 : client: [31] opened from 127.0.0.1:55130
+Mar 22 22:26 : client: [31] closed
+Mar 22 22:26 : client: [32] opened from 127.0.0.1:55134
+Mar 22 22:26 : client: [32] closed
+Mar 22 22:32 : player: played "SEB Vol. 206 [2010]/05. Garcon - On the Top Again.mp3"
+Mar 22 22:32 : client: [33] opened from 127.0.0.1:55156
+Mar 22 22:32 : client: [33] closed
+Mar 22 22:32 : client: [34] opened from 127.0.0.1:55160
+Mar 22 22:32 : client: [34] closed
+Mar 22 22:36 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 22 22:36 : client: [35] opened from 127.0.0.1:55186
+Mar 22 22:36 : client: [35] closed
+Mar 22 22:36 : client: [36] opened from 127.0.0.1:55190
+Mar 22 22:36 : client: [36] closed
+Mar 22 22:40 : client: [37] opened from 127.0.0.1:55300
+Mar 22 22:40 : client: [37] closed
+Mar 22 22:40 : client: [38] opened from 127.0.0.1:55304
+Mar 22 22:40 : client: [38] closed
+Mar 22 22:40 : client: [39] opened from 127.0.0.1:55308
+Mar 22 22:40 : client: [39] closed
+Mar 22 22:40 : client: [40] opened from 127.0.0.1:55312
+Mar 22 22:40 : client: [40] closed
+Mar 22 22:41 : client: [21] closed
+Mar 22 22:41 : client: [41] opened from 127.0.0.1:55314
+Mar 22 22:41 : client: [41] closed
+Mar 22 22:41 : client: [42] opened from 127.0.0.1:55316
+Mar 22 22:42 : client: [42] closed
+Mar 22 22:42 : client: [43] opened from 127.0.0.1:55318
+Mar 22 22:42 : client: [43] closed
+Mar 22 22:42 : client: [44] opened from 127.0.0.1:55320
+Mar 22 22:42 : client: [44] closed
+Mar 22 22:42 : client: [45] opened from 127.0.0.1:55334
+Mar 22 22:42 : client: [45] closed
+Mar 22 22:42 : client: [46] opened from 127.0.0.1:55338
+Mar 22 22:43 : client: [46] closed
+Mar 22 22:43 : client: [47] opened from 127.0.0.1:55340
+Mar 22 22:43 : client: [47] closed
+Mar 22 22:43 : client: [48] opened from 127.0.0.1:55342
+Mar 22 22:43 : client: [48] closed
+Mar 22 22:43 : client: [49] opened from 127.0.0.1:55344
+Mar 22 22:43 : client: [49] closed
+Mar 22 22:43 : client: [50] opened from 127.0.0.1:55346
+Mar 22 22:43 : client: [50] closed
+Mar 22 22:43 : client: [51] opened from 127.0.0.1:55348
+Mar 22 22:43 : client: [51] closed
+Mar 22 22:43 : client: [52] opened from 127.0.0.1:55350
+Mar 22 22:43 : client: [52] closed
+Mar 22 22:43 : client: [53] opened from 127.0.0.1:55352
+Mar 22 22:45 : player: played "Initial D Final Selection/08  The Top  Ken Blast.mp3"
+Mar 22 22:45 : client: [54] opened from 127.0.0.1:55356
+Mar 22 22:46 : client: [55] opened from 127.0.0.1:55366
+Mar 22 22:46 : client: [56] opened from 127.0.0.1:55364
+Mar 22 22:46 : client: [56] closed
+Mar 22 22:46 : client: [55] closed
+Mar 22 22:46 : client: [57] opened from 127.0.0.1:55372
+Mar 22 22:46 : client: [58] opened from 127.0.0.1:55376
+Mar 22 22:46 : client: [57] closed
+Mar 22 22:46 : client: [58] closed
+Mar 22 22:46 : client: [54] closed
+Mar 22 22:46 : client: [5] closed
+Mar 22 22:46 : client: [59] opened from 127.0.0.1:55380
+Mar 22 22:46 : client: [60] opened from 127.0.0.1:55384
+Mar 22 22:46 : client: [60] closed
+Mar 22 22:46 : client: [61] opened from 127.0.0.1:55388
+Mar 22 22:46 : client: [61] closed
+Mar 22 22:46 : client: [59] closed
+Mar 22 22:50 : client: [53] closed
+Mar 22 22:51 : player: played "Super Eurobeat Vol. 7/07. Mike Hammer - Hot Love.mp3"
+Mar 22 22:57 : player: played "Super Eurobeat Vol. 7/11. Maio & Co. - Black Power.mp3"
+Mar 22 23:03 : player: played "Super Eurobeat Vol. 7/13. Maio & Co. - Dark in the Night.mp3"
+Mar 22 23:07 : player: played "Initial D Final Selection/08  The Top  Ken Blast.mp3"
+Mar 22 23:25 : client: [62] opened from 127.0.0.1:55448
+Mar 22 23:25 : client: [62] closed
+Mar 22 23:25 : client: [63] opened from 127.0.0.1:55450
+Mar 22 23:27 : client: [64] opened from 127.0.0.1:55598
+Mar 22 23:27 : client: [65] opened from 127.0.0.1:55602
+Mar 22 23:27 : client: [65] closed
+Mar 22 23:27 : client: [66] opened from 127.0.0.1:55606
+Mar 22 23:27 : client: [66] closed
+Mar 22 23:27 : client: [64] closed
+Mar 22 23:27 : client: [67] opened from 127.0.0.1:55610
+Mar 22 23:27 : client: [68] opened from 127.0.0.1:55614
+Mar 22 23:27 : client: [68] closed
+Mar 22 23:27 : client: [69] opened from 127.0.0.1:55618
+Mar 22 23:27 : client: [69] closed
+Mar 22 23:27 : client: [67] closed
+Mar 22 23:29 : client: [70] opened from 127.0.0.1:55624
+Mar 22 23:29 : client: [71] opened from 127.0.0.1:55628
+Mar 22 23:29 : client: [71] closed
+Mar 22 23:29 : client: [72] opened from 127.0.0.1:55632
+Mar 22 23:29 : client: [72] closed
+Mar 22 23:29 : client: [70] closed
+Mar 22 23:31 : client: [73] opened from 127.0.0.1:55644
+Mar 22 23:31 : client: [74] opened from 127.0.0.1:55648
+Mar 22 23:31 : client: [74] closed
+Mar 22 23:31 : client: [75] opened from 127.0.0.1:55652
+Mar 22 23:31 : client: [75] closed
+Mar 22 23:31 : client: [73] closed
+Mar 22 23:33 : player: played "Super Eurobeat Vol. 7/02. Sophie - Same.mp3"
+Mar 22 23:34 : client: [76] opened from 127.0.0.1:55688
+Mar 22 23:34 : client: [77] opened from 127.0.0.1:55692
+Mar 22 23:34 : client: [77] closed
+Mar 22 23:34 : client: [78] opened from 127.0.0.1:55696
+Mar 22 23:34 : client: [78] closed
+Mar 22 23:34 : client: [79] opened from 127.0.0.1:55700
+Mar 22 23:34 : client: [79] closed
+Mar 22 23:34 : client: [80] opened from 127.0.0.1:55704
+Mar 22 23:34 : client: [80] closed
+Mar 22 23:40 : player: played "Super Eurobeat Vol. 234 - Extended Version/01 Fire in the Night.mp3"
+Mar 22 23:47 : client: [81] opened from 127.0.0.1:56042
+Mar 22 23:47 : client: [81] closed
+Mar 22 23:47 : client: [82] opened from 127.0.0.1:56046
+Mar 22 23:47 : client: [82] closed
+Mar 22 23:47 : client: [83] opened from 127.0.0.1:56050
+Mar 22 23:47 : client: [83] closed
+Mar 22 23:53 : player: played "SEB Vol. 206 [2010]/05. Garcon - On the Top Again.mp3"
+Mar 22 23:53 : client: [84] opened from 127.0.0.1:56064
+Mar 22 23:53 : client: [84] closed
+Mar 22 23:53 : client: [85] opened from 127.0.0.1:56068
+Mar 22 23:53 : client: [85] closed
+Mar 22 23:58 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 22 23:58 : client: [86] opened from 127.0.0.1:56178
+Mar 22 23:58 : client: [86] closed
+Mar 22 23:58 : client: [87] opened from 127.0.0.1:56182
+Mar 22 23:58 : client: [87] closed
+Mar 23 00:01 : client: [88] opened from 127.0.0.1:56204
+Mar 23 00:01 : client: [88] closed
+Mar 23 00:01 : client: [89] opened from 127.0.0.1:56208
+Mar 23 00:01 : client: [89] closed
+Mar 23 00:01 : client: [90] opened from 127.0.0.1:56212
+Mar 23 00:01 : client: [90] closed
+Mar 23 00:01 : client: [91] opened from 127.0.0.1:56216
+Mar 23 00:01 : client: [91] closed
+Mar 23 00:01 : client: [92] opened from 127.0.0.1:56220
+Mar 23 00:01 : client: [92] closed
+Mar 23 00:01 : client: [93] opened from 127.0.0.1:56224
+Mar 23 00:01 : client: [93] closed
+Mar 23 00:01 : client: [94] opened from 127.0.0.1:56228
+Mar 23 00:01 : client: [94] closed
+Mar 23 00:01 : client: [95] opened from 127.0.0.1:56232
+Mar 23 00:01 : client: [95] closed
+Mar 23 00:01 : client: [96] opened from 127.0.0.1:56236
+Mar 23 00:01 : client: [96] closed
+Mar 23 00:01 : client: [97] opened from 127.0.0.1:56240
+Mar 23 00:01 : client: [97] closed
+Mar 23 00:01 : client: [98] opened from 127.0.0.1:56246
+Mar 23 00:01 : client: [98] closed
+Mar 23 00:01 : client: [99] opened from 127.0.0.1:56250
+Mar 23 00:01 : client: [99] closed
+Mar 23 00:05 : player: played "Super Eurobeat Vol. 185 - The Latest Tracks of SEB/07 Take It Easy.mp3"
+Mar 23 00:05 : client: [100] opened from 127.0.0.1:56288
+Mar 23 00:05 : client: [100] closed
+Mar 23 00:05 : client: [101] opened from 127.0.0.1:56292
+Mar 23 00:05 : client: [101] closed
+Mar 23 00:05 : client: [102] opened from 127.0.0.1:56294
+Mar 23 00:05 : client: [102] closed
+Mar 23 00:05 : client: [103] opened from 127.0.0.1:56298
+Mar 23 00:05 : client: [103] closed
+Mar 23 00:05 : client: [104] opened from 127.0.0.1:56302
+Mar 23 00:05 : client: [104] closed
+Mar 23 00:05 : client: [105] opened from 127.0.0.1:56308
+Mar 23 00:05 : client: [105] closed
+Mar 23 00:05 : client: [106] opened from 127.0.0.1:56312
+Mar 23 00:05 : client: [106] closed
+Mar 23 00:09 : player: played "Super Eurobeat Vol. 227 - Extended Version/10 Take Me into Your Golden Dream.mp3"
+Mar 23 00:10 : client: [107] opened from 127.0.0.1:56338
+Mar 23 00:10 : client: [107] closed
+Mar 23 00:10 : client: [108] opened from 127.0.0.1:56342
+Mar 23 00:10 : client: [108] closed
+Mar 23 00:14 : player: played "Super Eurobeat Vol. 227 - Extended Version/12 Money Money Money.mp3"
+Mar 23 00:14 : client: [109] opened from 127.0.0.1:56362
+Mar 23 00:14 : client: [109] closed
+Mar 23 00:14 : client: [110] opened from 127.0.0.1:56366
+Mar 23 00:14 : client: [110] closed
+Mar 23 00:14 : client: [111] opened from 127.0.0.1:56370
+Mar 23 00:14 : client: [111] closed
+Mar 23 00:20 : player: played "SEB Vol. 206 [2010]/05. Garcon - On the Top Again.mp3"
+Mar 23 00:20 : client: [112] opened from 127.0.0.1:56576
+Mar 23 00:20 : client: [112] closed
+Mar 23 00:20 : client: [113] opened from 127.0.0.1:56580
+Mar 23 00:20 : client: [113] closed
+Mar 23 00:24 : player: played "Super Eurobeat Vol. 65/18. Dave Rodgers & Jennifer Batten - Music for the People.mp3"
+Mar 23 00:24 : client: [114] opened from 127.0.0.1:56680
+Mar 23 00:24 : client: [114] closed
+Mar 23 00:24 : client: [115] opened from 127.0.0.1:56684
+Mar 23 00:24 : client: [115] closed
+Mar 23 00:24 : client: [116] opened from 127.0.0.1:56752
+Mar 23 00:24 : client: [116] closed
+Mar 23 00:43 : client: [76] closed
+Mar 23 00:44 : client: [63] closed
+Mar 23 00:44 : avahi: Client Disconnected, will reconnect shortly
+Mar 23 00:44 : avahi: Could not reconnect: Daemon not running
+Mar 23 00:44 : exception: "Pulse_Output" [pulse] failed to pause: failed to connect the stream: Connection terminated
+Mar 23 00:45 : player: played "Super Eurobeat Vol. 7/02. Sophie - Same.mp3"
+Mar 23 20:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 23 20:40 : client: [0] opened from 127.0.0.1:41840
+Mar 23 20:42 : client: [0] closed
+Mar 23 20:42 : client: [1] opened from 127.0.0.1:42028
+Mar 23 21:15 : client: [1] closed
+Mar 23 21:15 : client: [2] opened from 127.0.0.1:42914
+Mar 23 21:16 : client: [2] closed
+Mar 23 22:24 : avahi: Client Disconnected, will reconnect shortly
+Mar 23 22:24 : avahi: Could not reconnect: Daemon not running
+Mar 24 13:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 24 13:11 : client: [0] opened from 127.0.0.1:56174
+Mar 24 13:11 : client: [0] closed
+Mar 24 13:11 : client: [1] opened from 127.0.0.1:56176
+Mar 24 15:43 : avahi: Client Disconnected, will reconnect shortly
+Mar 24 15:43 : avahi: Could not reconnect: Daemon not running
+Mar 24 15:43 : client: [1] closed
+Mar 24 20:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 24 20:05 : client: [0] opened from 127.0.0.1:34680
+Mar 24 20:05 : client: [0] closed
+Mar 24 20:05 : client: [1] opened from 127.0.0.1:34682
+Mar 24 20:08 : client: [2] opened from 127.0.0.1:34706
+Mar 24 20:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 24 20:08 : client: [3] opened from 127.0.0.1:34710
+Mar 24 20:08 : client: [3] closed
+Mar 24 20:08 : client: [4] opened from 127.0.0.1:34714
+Mar 24 20:08 : client: [4] closed
+Mar 24 20:08 : client: [5] opened from 127.0.0.1:34718
+Mar 24 20:08 : client: [5] closed
+Mar 24 20:08 : client: [6] opened from 127.0.0.1:34722
+Mar 24 20:08 : client: [6] closed
+Mar 24 20:14 : player: played "Initial D Fourth Stage D Selection 3/12  Rider of the Sky  Ace.mp3"
+Mar 24 20:14 : client: [7] opened from 127.0.0.1:35036
+Mar 24 20:14 : client: [7] closed
+Mar 24 20:14 : client: [8] opened from 127.0.0.1:35040
+Mar 24 20:14 : client: [8] closed
+Mar 24 20:18 : player: played "Super Eurobeat Vol. 151/18 Set Your Heart on Fire.mp3"
+Mar 24 20:36 : client: [2] closed
+Mar 24 22:22 : client: [9] opened from 127.0.0.1:37674
+Mar 24 22:22 : client: [9] closed
+Mar 24 22:25 : player: played "Super Eurobeat Vol. 165 - Non-Stop Mega-Mix/23 Rider of the Sky.mp3"
+Mar 24 22:30 : player: played "Initial D Fourth Stage D Selection 3/12  Rider of the Sky  Ace.mp3"
+Mar 24 22:31 : client: [10] opened from 127.0.0.1:37818
+Mar 24 22:31 : client: [10] closed
+Mar 24 23:52 : client: [1] closed
+Mar 24 23:52 : avahi: Client Disconnected, will reconnect shortly
+Mar 24 23:52 : avahi: Could not reconnect: Daemon not running
+Mar 24 23:52 : player: played "Super Eurobeat Vol. 151/18 Set Your Heart on Fire.mp3"
+Mar 25 13:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 13:10 : client: [0] opened from 127.0.0.1:43964
+Mar 25 13:10 : client: [0] closed
+Mar 25 13:10 : client: [1] opened from 127.0.0.1:43966
+Mar 25 13:12 : client: [1] closed
+Mar 25 13:12 : client: [2] opened from 127.0.0.1:43994
+Mar 25 13:12 : client: [2] closed
+Mar 25 13:12 : client: [3] opened from 127.0.0.1:43996
+Mar 25 13:12 : client: [3] closed
+Mar 25 13:12 : client: [4] opened from 127.0.0.1:43998
+Mar 25 13:12 : client: [4] closed
+Mar 25 13:12 : client: [5] opened from 127.0.0.1:44000
+Mar 25 13:12 : client: [5] closed
+Mar 25 13:12 : client: [6] opened from 127.0.0.1:44002
+Mar 25 13:12 : client: [6] closed
+Mar 25 13:12 : client: [7] opened from 127.0.0.1:44004
+Mar 25 14:43 : client: [8] opened from 127.0.0.1:44986
+Mar 25 14:43 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 14:43 : client: [9] opened from 127.0.0.1:44990
+Mar 25 14:43 : client: [9] closed
+Mar 25 14:43 : client: [10] opened from 127.0.0.1:44994
+Mar 25 14:43 : client: [10] closed
+Mar 25 14:47 : player: played "Super Eurobeat Vol. 237 - Extended Version/01 Nitrofire.mp3"
+Mar 25 15:21 : client: [8] closed
+Mar 25 17:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 17:29 : client: [0] opened from 127.0.0.1:44202
+Mar 25 17:29 : client: [0] closed
+Mar 25 17:29 : client: [1] opened from 127.0.0.1:44204
+Mar 25 17:29 : client: [1] closed
+Mar 25 17:29 : client: [2] opened from 127.0.0.1:44226
+Mar 25 23:22 : client: [2] closed
+Mar 25 23:22 : avahi: Client Disconnected, will reconnect shortly
+Mar 25 23:22 : avahi: Could not reconnect: Daemon not running
+Mar 26 14:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 14:07 : client: [0] opened from 127.0.0.1:44156
+Mar 26 14:07 : client: [0] closed
+Mar 26 14:07 : client: [1] opened from 127.0.0.1:44158
+Mar 26 15:14 : client: [1] closed
+Mar 26 15:14 : client: [2] opened from 127.0.0.1:46560
+Mar 26 15:14 : client: [2] closed
+Mar 26 15:14 : client: [3] opened from 127.0.0.1:46562
+Mar 26 15:31 : client: [4] opened from 127.0.0.1:46778
+Mar 26 15:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 15:31 : client: [5] opened from 127.0.0.1:46782
+Mar 26 15:31 : client: [5] closed
+Mar 26 15:31 : client: [6] opened from 127.0.0.1:46786
+Mar 26 15:31 : client: [6] closed
+Mar 26 15:32 : client: [3] closed
+Mar 26 15:32 : client: [7] opened from 127.0.0.1:46804
+Mar 26 15:32 : client: [7] closed
+Mar 26 15:32 : client: [8] opened from 127.0.0.1:46806
+Mar 26 15:32 : client: [8] closed
+Mar 26 15:32 : client: [9] opened from 127.0.0.1:46808
+Mar 26 15:35 : player: played "Super Eurobeat Vol. 237 - Extended Version/01 Nitrofire.mp3"
+Mar 26 15:35 : client: [10] opened from 127.0.0.1:47266
+Mar 26 15:35 : client: [10] closed
+Mar 26 15:35 : client: [11] opened from 127.0.0.1:47270
+Mar 26 15:35 : client: [11] closed
+Mar 26 15:35 : client: [12] opened from 127.0.0.1:47274
+Mar 26 15:35 : client: [12] closed
+Mar 26 15:39 : player: played "Super Eurobeat Vol. 237 - Extended Version/01 Nitrofire.mp3"
+Mar 26 15:44 : client: [9] closed
+Mar 26 15:44 : client: [13] opened from 127.0.0.1:47486
+Mar 26 15:53 : client: [14] opened from 127.0.0.1:47674
+Mar 26 15:53 : client: [14] closed
+Mar 26 15:53 : client: [15] opened from 127.0.0.1:47678
+Mar 26 15:53 : client: [15] closed
+Mar 26 15:53 : client: [16] opened from 127.0.0.1:47682
+Mar 26 15:53 : client: [16] closed
+Mar 26 15:56 : client: [17] opened from 127.0.0.1:48062
+Mar 26 15:56 : client: [17] closed
+Mar 26 16:03 : client: [4] closed
+Mar 26 16:06 : client: [18] opened from 127.0.0.1:48308
+Mar 26 16:06 : client: [19] opened from 127.0.0.1:48312
+Mar 26 16:06 : client: [19] closed
+Mar 26 16:06 : client: [20] opened from 127.0.0.1:48316
+Mar 26 16:06 : client: [20] closed
+Mar 26 16:07 : client: [21] opened from 127.0.0.1:48320
+Mar 26 16:07 : client: [21] closed
+Mar 26 16:07 : client: [22] opened from 127.0.0.1:48324
+Mar 26 16:07 : client: [22] closed
+Mar 26 16:08 : client: [23] opened from 127.0.0.1:48578
+Mar 26 16:08 : client: [23] closed
+Mar 26 16:33 : client: [18] closed
+Mar 26 16:36 : client: [24] opened from 127.0.0.1:49176
+Mar 26 16:36 : client: [24] closed
+Mar 26 16:36 : client: [25] opened from 127.0.0.1:49180
+Mar 26 16:36 : client: [26] opened from 127.0.0.1:49184
+Mar 26 16:36 : client: [26] closed
+Mar 26 16:36 : client: [27] opened from 127.0.0.1:49188
+Mar 26 16:36 : client: [27] closed
+Mar 26 16:37 : client: [28] opened from 127.0.0.1:49192
+Mar 26 16:37 : client: [28] closed
+Mar 26 16:37 : client: [29] opened from 127.0.0.1:49196
+Mar 26 16:37 : client: [29] closed
+Mar 26 16:37 : client: [30] opened from 127.0.0.1:49200
+Mar 26 16:37 : client: [30] closed
+Mar 26 16:37 : client: [31] opened from 127.0.0.1:49204
+Mar 26 16:37 : client: [31] closed
+Mar 26 16:37 : client: [32] opened from 127.0.0.1:49208
+Mar 26 16:37 : client: [32] closed
+Mar 26 16:37 : client: [33] opened from 127.0.0.1:49212
+Mar 26 16:37 : client: [33] closed
+Mar 26 16:37 : client: [34] opened from 127.0.0.1:49216
+Mar 26 16:37 : client: [34] closed
+Mar 26 16:37 : client: [35] opened from 127.0.0.1:49220
+Mar 26 16:37 : client: [35] closed
+Mar 26 16:37 : player: played "Super Eurobeat Vol. 185 - SEF Deluxe Super Non-Stop Mix/09 Current (Euro Sunny Remix).mp3"
+Mar 26 16:37 : client: [36] opened from 127.0.0.1:49224
+Mar 26 16:37 : client: [36] closed
+Mar 26 16:37 : client: [37] opened from 127.0.0.1:49228
+Mar 26 16:37 : client: [37] closed
+Mar 26 16:38 : client: [25] closed
+Mar 26 16:40 : player: played "Super Eurobeat Vol. 185 - SEF Deluxe Super Non-Stop Mix/01 Blood on Fire.mp3"
+Mar 26 16:47 : client: [38] opened from 127.0.0.1:49484
+Mar 26 16:47 : client: [38] closed
+Mar 26 16:49 : player: played "Super Eurobeat Vol. 185 - SEF Deluxe Super Non-Stop Mix/02 Full Metal Cars.mp3"
+Mar 26 17:06 : client: [39] opened from 127.0.0.1:49888
+Mar 26 17:06 : client: [39] closed
+Mar 26 17:09 : player: played "Super Eurobeat Vol. 185 - SEF Deluxe Super Non-Stop Mix/03 Takumi.mp3"
+Mar 26 17:11 : client: [40] opened from 127.0.0.1:49924
+Mar 26 17:11 : client: [40] closed
+Mar 26 17:13 : player: played "Super Eurobeat Vol. 185 - SEF Deluxe Super Non-Stop Mix/04 Fightin' over Freedom.mp3"
+Mar 26 18:18 : avahi: Client Disconnected, will reconnect shortly
+Mar 26 18:18 : avahi: Could not reconnect: Daemon not running
+Mar 26 18:18 : client: [13] closed
+Mar 26 18:18 : player: played "Super Eurobeat Vol. 185 - SEF Deluxe Super Non-Stop Mix/05 Goodnight Kiss.mp3"
+Mar 26 19:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 26 19:14 : client: [0] opened from 127.0.0.1:58518
+Mar 26 19:14 : client: [0] closed
+Mar 26 19:14 : client: [1] opened from 127.0.0.1:58520
+Mar 27 01:17 : client: [1] closed
+Mar 27 01:17 : avahi: Client Disconnected, will reconnect shortly
+Mar 27 01:17 : avahi: Could not reconnect: Daemon not running
+Mar 27 15:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 27 15:37 : client: [0] opened from 127.0.0.1:40652
+Mar 27 15:37 : client: [0] closed
+Mar 27 15:37 : client: [1] opened from 127.0.0.1:40654
+Mar 27 17:26 : client: [2] opened from 127.0.0.1:43082
+Mar 27 17:26 : client: [2] closed
+Mar 27 23:13 : avahi: Client Disconnected, will reconnect shortly
+Mar 27 23:13 : avahi: Could not reconnect: Daemon not running
+Mar 27 23:13 : client: [1] closed
+Mar 28 12:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 28 12:54 : client: [0] opened from 127.0.0.1:49136
+Mar 28 12:54 : client: [0] closed
+Mar 28 12:54 : client: [1] opened from 127.0.0.1:49138
+Mar 29 00:03 : avahi: Client Disconnected, will reconnect shortly
+Mar 29 00:03 : avahi: Could not reconnect: Daemon not running
+Mar 29 00:03 : client: [1] closed
+Mar 29 14:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 29 14:36 : client: [0] opened from 127.0.0.1:38100
+Mar 29 14:37 : client: [0] closed
+Mar 29 14:37 : client: [1] opened from 127.0.0.1:38102
+Mar 29 15:16 : client: [1] closed
+Mar 29 15:16 : client: [2] opened from 127.0.0.1:38974
+Mar 29 15:16 : client: [2] closed
+Mar 29 15:16 : client: [3] opened from 127.0.0.1:38976
+Mar 29 15:16 : client: [3] closed
+Mar 29 15:16 : client: [4] opened from 127.0.0.1:38978
+Mar 29 16:53 : avahi: Client Disconnected, will reconnect shortly
+Mar 29 16:53 : avahi: Could not reconnect: Daemon not running
+Mar 29 16:53 : client: [4] closed
+Mar 29 21:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 29 21:41 : client: [0] opened from 127.0.0.1:55196
+Mar 29 21:41 : client: [0] closed
+Mar 29 21:41 : client: [1] opened from 127.0.0.1:55198
+Mar 29 22:25 : client: [1] closed
+Mar 29 22:25 : avahi: Client Disconnected, will reconnect shortly
+Mar 29 22:25 : avahi: Could not reconnect: Daemon not running
+Mar 29 22:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 29 22:26 : client: [0] opened from 127.0.0.1:53896
+Mar 29 22:26 : client: [0] closed
+Mar 29 22:26 : client: [1] opened from 127.0.0.1:53898
+Mar 30 00:12 : avahi: Client Disconnected, will reconnect shortly
+Mar 30 00:12 : avahi: Could not reconnect: Daemon not running
+Mar 30 00:12 : client: [1] closed
+Mar 30 12:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 12:34 : client: [0] opened from 127.0.0.1:57396
+Mar 30 12:34 : client: [0] closed
+Mar 30 12:34 : client: [1] opened from 127.0.0.1:57398
+Mar 30 19:23 : client: [2] opened from 127.0.0.1:36732
+Mar 30 19:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 30 19:24 : client: [3] opened from 127.0.0.1:36736
+Mar 30 19:24 : client: [3] closed
+Mar 30 19:24 : client: [4] opened from 127.0.0.1:36740
+Mar 30 19:24 : client: [4] closed
+Mar 30 19:24 : client: [5] opened from 127.0.0.1:36744
+Mar 30 19:24 : client: [5] closed
+Mar 30 19:24 : client: [6] opened from 127.0.0.1:36748
+Mar 30 19:24 : client: [6] closed
+Mar 30 19:24 : client: [7] opened from 127.0.0.1:36752
+Mar 30 19:24 : client: [7] closed
+Mar 30 19:24 : client: [8] opened from 127.0.0.1:36756
+Mar 30 19:24 : client: [8] closed
+Mar 30 19:28 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 30 19:29 : client: [9] opened from 127.0.0.1:36914
+Mar 30 19:29 : client: [9] closed
+Mar 30 19:29 : client: [10] opened from 127.0.0.1:36918
+Mar 30 19:29 : client: [10] closed
+Mar 30 19:29 : client: [11] opened from 127.0.0.1:36922
+Mar 30 19:29 : client: [11] closed
+Mar 30 19:29 : client: [12] opened from 127.0.0.1:36926
+Mar 30 19:29 : client: [12] closed
+Mar 30 19:32 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 30 19:34 : client: [13] opened from 127.0.0.1:36974
+Mar 30 19:34 : client: [13] closed
+Mar 30 19:34 : client: [14] opened from 127.0.0.1:36978
+Mar 30 19:34 : client: [14] closed
+Mar 30 19:34 : client: [15] opened from 127.0.0.1:36982
+Mar 30 19:34 : client: [15] closed
+Mar 30 19:34 : client: [16] opened from 127.0.0.1:36984
+Mar 30 19:34 : client: [16] closed
+Mar 30 19:34 : client: [17] opened from 127.0.0.1:36988
+Mar 30 19:34 : client: [17] closed
+Mar 30 19:34 : client: [18] opened from 127.0.0.1:36992
+Mar 30 19:34 : client: [18] closed
+Mar 30 19:37 : player: played "One Piece Opening 2.m4a"
+Mar 30 19:37 : client: [19] opened from 127.0.0.1:37040
+Mar 30 19:37 : client: [19] closed
+Mar 30 19:37 : client: [20] opened from 127.0.0.1:37044
+Mar 30 19:37 : client: [20] closed
+Mar 30 19:41 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 30 19:42 : client: [21] opened from 127.0.0.1:37138
+Mar 30 19:42 : client: [21] closed
+Mar 30 19:42 : client: [22] opened from 127.0.0.1:37142
+Mar 30 19:42 : client: [22] closed
+Mar 30 19:45 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 30 19:46 : client: [23] opened from 127.0.0.1:37374
+Mar 30 19:46 : client: [23] closed
+Mar 30 19:46 : client: [24] opened from 127.0.0.1:37378
+Mar 30 19:46 : client: [24] closed
+Mar 30 19:46 : client: [25] opened from 127.0.0.1:37382
+Mar 30 19:46 : client: [25] closed
+Mar 30 19:46 : client: [1] closed
+Mar 30 19:46 : client: [26] opened from 127.0.0.1:37384
+Mar 30 19:46 : client: [26] closed
+Mar 30 19:46 : client: [27] opened from 127.0.0.1:37386
+Mar 30 19:48 : client: [28] opened from 127.0.0.1:37514
+Mar 30 19:48 : client: [28] closed
+Mar 30 19:57 : client: [29] opened from 127.0.0.1:37810
+Mar 30 19:57 : client: [29] closed
+Mar 30 19:57 : client: [30] opened from 127.0.0.1:37814
+Mar 30 19:57 : client: [30] closed
+Mar 30 19:57 : client: [31] opened from 127.0.0.1:37840
+Mar 30 19:57 : client: [31] closed
+Mar 30 20:05 : client: [2] closed
+Mar 30 20:18 : client: [32] opened from 127.0.0.1:38396
+Mar 30 20:18 : client: [32] closed
+Mar 30 20:20 : client: [33] opened from 127.0.0.1:38418
+Mar 30 20:20 : client: [33] closed
+Mar 30 20:24 : client: [34] opened from 127.0.0.1:38512
+Mar 30 20:24 : client: [34] closed
+Mar 30 20:26 : player: played "One Piece Opening 2.m4a"
+Mar 30 20:27 : client: [35] opened from 127.0.0.1:38632
+Mar 30 20:27 : client: [35] closed
+Mar 30 20:34 : client: [36] opened from 127.0.0.1:38662
+Mar 30 20:34 : client: [36] closed
+Mar 30 20:36 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 30 20:36 : client: [37] opened from 127.0.0.1:38960
+Mar 30 20:36 : client: [37] closed
+Mar 30 20:36 : client: [38] opened from 127.0.0.1:38962
+Mar 30 20:36 : client: [38] closed
+Mar 30 20:36 : client: [39] opened from 127.0.0.1:38964
+Mar 30 20:36 : client: [39] closed
+Mar 30 20:36 : client: [40] opened from 127.0.0.1:38966
+Mar 30 20:36 : client: [40] closed
+Mar 30 20:41 : player: played "One Piece Opening 1 Full Version.m4a"
+Mar 30 20:42 : client: [41] opened from 127.0.0.1:39046
+Mar 30 20:42 : client: [41] closed
+Mar 30 20:46 : player: played "Super Eurobeat Vol. 236 - Extended Version/01 Games We Play.mp3"
+Mar 30 20:47 : client: [42] opened from 127.0.0.1:39266
+Mar 30 20:47 : client: [42] closed
+Mar 30 22:12 : client: [43] opened from 127.0.0.1:40970
+Mar 30 22:12 : client: [43] closed
+Mar 30 22:12 : update: added /GENERATIONS from EXILE TRIBE - 「Hard Knock Days」Music Video ～歌詞有り～.m4a
+Mar 30 22:12 : update: added /ONEPIECE- We Go Full Lyrics.m4a
+Mar 30 22:12 : client: [44] opened from 127.0.0.1:40974
+Mar 30 22:12 : client: [45] opened from 127.0.0.1:40978
+Mar 30 22:12 : client: [45] closed
+Mar 30 22:12 : client: [46] opened from 127.0.0.1:40982
+Mar 30 22:12 : client: [46] closed
+Mar 30 22:12 : client: [47] opened from 127.0.0.1:40986
+Mar 30 22:12 : client: [47] closed
+Mar 30 22:12 : client: [48] opened from 127.0.0.1:40990
+Mar 30 22:12 : client: [48] closed
+Mar 30 22:14 : client: [44] closed
+Mar 30 22:15 : client: [49] opened from 127.0.0.1:41058
+Mar 30 22:15 : client: [49] closed
+Mar 30 22:16 : client: [50] opened from 127.0.0.1:41066
+Mar 30 22:16 : client: [50] closed
+Mar 30 22:16 : player: played "GENERATIONS from EXILE TRIBE - 「Hard Knock Days」Music Video ～歌詞有り～.m4a"
+Mar 30 22:25 : avahi: Client Disconnected, will reconnect shortly
+Mar 30 22:25 : avahi: Could not reconnect: Daemon not running
+Mar 31 14:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 14:10 : client: [0] opened from 127.0.0.1:35142
+Mar 31 14:10 : client: [0] closed
+Mar 31 14:10 : client: [1] opened from 127.0.0.1:35144
+Mar 31 14:25 : client: [2] opened from 127.0.0.1:35928
+Mar 31 15:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 31 15:03 : client: [3] opened from 127.0.0.1:36844
+Mar 31 15:03 : client: [3] closed
+Mar 31 15:03 : client: [4] opened from 127.0.0.1:36848
+Mar 31 15:03 : client: [4] closed
+Mar 31 15:03 : client: [5] opened from 127.0.0.1:36852
+Mar 31 15:03 : client: [5] closed
+Mar 31 15:03 : client: [6] opened from 127.0.0.1:36856
+Mar 31 15:03 : client: [6] closed
+Mar 31 15:03 : client: [7] opened from 127.0.0.1:36878
+Mar 31 15:03 : client: [7] closed
+Mar 31 15:05 : client: [8] opened from 127.0.0.1:36882
+Mar 31 15:05 : client: [8] closed
+Mar 31 15:08 : player: played "ONEPIECE- We Go Full Lyrics.m4a"
+Mar 31 15:09 : client: [9] opened from 127.0.0.1:36944
+Mar 31 15:09 : client: [9] closed
+Mar 31 15:09 : client: [10] opened from 127.0.0.1:36948
+Mar 31 15:09 : client: [10] closed
+Mar 31 15:09 : client: [11] opened from 127.0.0.1:36952
+Mar 31 15:09 : client: [11] closed
+Mar 31 15:09 : client: [12] opened from 127.0.0.1:36960
+Mar 31 15:09 : client: [12] closed
+Mar 31 15:09 : client: [13] opened from 127.0.0.1:36964
+Mar 31 15:09 : client: [13] closed
+Mar 31 15:12 : client: [14] opened from 127.0.0.1:37052
+Mar 31 15:12 : client: [14] closed
+Mar 31 15:30 : client: [15] opened from 127.0.0.1:37214
+Mar 31 15:30 : client: [15] closed
+Mar 31 15:30 : player: played "GENERATIONS from EXILE TRIBE - 「Hard Knock Days」Music Video ～歌詞有り～.m4a"
+Mar 31 15:58 : client: [16] opened from 127.0.0.1:37526
+Mar 31 15:58 : client: [16] closed
+Mar 31 15:58 : client: [17] opened from 127.0.0.1:37530
+Mar 31 15:58 : client: [17] closed
+Mar 31 15:58 : client: [18] opened from 127.0.0.1:37534
+Mar 31 15:58 : client: [18] closed
+Mar 31 15:58 : client: [19] opened from 127.0.0.1:37536
+Mar 31 15:58 : client: [19] closed
+Mar 31 15:58 : client: [20] opened from 127.0.0.1:37540
+Mar 31 15:58 : client: [20] closed
+Mar 31 15:58 : client: [21] opened from 127.0.0.1:37544
+Mar 31 15:58 : client: [21] closed
+Mar 31 15:59 : avahi: Client Disconnected, will reconnect shortly
+Mar 31 15:59 : avahi: Could not reconnect: Daemon not running
+Mar 31 15:59 : exception: "Pulse_Output" [pulse] failed to play: disconnected
+Mar 31 15:59 : player: played "ONEPIECE- We Go Full Lyrics.m4a"

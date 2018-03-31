@@ -1,2 +1,2 @@
 #!/bin/bash
-wpg -rs go-moon.png go-moon.png
+wpg -rs shin_godzilla.jpg shin_godzilla.jpg

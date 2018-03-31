@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/swat.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2a1e4b",
+        "foreground": "#cdfbff",
+        "cursor": "#9cbfe1"
+    },
+    "colors": {
+        "color0": "#2a1e4b",
+        "color1": "#2A3695",
+        "color2": "#3B53A5",
+        "color3": "#4C539E",
+        "color4": "#485ABA",
+        "color5": "#3671CC",
+        "color6": "#BA6991",
+        "color7": "#9cbfe1",
+        "color8": "#392967",
+        "color9": "#2a3cce",
+        "color10": "#3e63e5",
+        "color11": "#535fdc",
+        "color12": "#4c69ff",
+        "color13": "#358fff",
+        "color14": "#ff75bc",
+        "color15": "#cdfbff"
+    }
+}

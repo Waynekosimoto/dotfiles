@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/futuristic.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D1D1C",
+        "foreground": "#f7fdff",
+        "cursor": "#ced3db"
+    },
+    "colors": {
+        "color0": "#0D1D1C",
+        "color1": "#4B5B5E",
+        "color2": "#225C96",
+        "color3": "#53709B",
+        "color4": "#2E60C9",
+        "color5": "#529BCC",
+        "color6": "#909780",
+        "color7": "#ced3db",
+        "color8": "#193937",
+        "color9": "#567d85",
+        "color10": "#2077cf",
+        "color11": "#5c8ed8",
+        "color12": "#2b77ff",
+        "color13": "#57cdff",
+        "color14": "#c2d694",
+        "color15": "#f7fdff"
+    }
+}

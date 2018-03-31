@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/akira.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121212",
+        "foreground": "#fff7f9",
+        "cursor": "#dccfd1"
+    },
+    "colors": {
+        "color0": "#121212",
+        "color1": "#99225C",
+        "color2": "#AC2467",
+        "color3": "#C52578",
+        "color4": "#8E5E63",
+        "color5": "#687296",
+        "color6": "#AB9F9E",
+        "color7": "#dccfd1",
+        "color8": "#262626",
+        "color9": "#d31f77",
+        "color10": "#ed2185",
+        "color11": "#ff209c",
+        "color12": "#c76a74",
+        "color13": "#768ad3",
+        "color14": "#f3bcb8",
+        "color15": "#fff7f9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/extra.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#111b2a",
+        "foreground": "#f2ebf7",
+        "cursor": "#b6b1ba"
+    },
+    "colors": {
+        "color0": "#111b2a",
+        "color1": "#9A3F4B",
+        "color2": "#945E5F",
+        "color3": "#AB916E",
+        "color4": "#D5A76C",
+        "color5": "#F0C27C",
+        "color6": "#706B8B",
+        "color7": "#b6b1ba",
+        "color8": "#1c2d46",
+        "color9": "#d64357",
+        "color10": "#d06a6c",
+        "color11": "#f0bf7c",
+        "color12": "#ffdb77",
+        "color13": "#ffff89",
+        "color14": "#867bc4",
+        "color15": "#f2ebf7"
+    }
+}

@@ -54,21 +54,21 @@ tabs#tabbrowser-tabs {
 }
 
 tabs#tabbrowser-tabs * {
-height: 19px !important;
+height: 22px !important;
 }
 
 /* Move Tab-bar beside Nav-bar */
 #TabsToolbar {      
-  margin-bottom: 8px !important;             
-  margin-top: 0px !important;                  
+  margin-bottom: 10px !important;             
+  margin-top: -3px !important;                  
   margin-left: 32vw !important;
   margin-right: 10vw !important;
 }
 
 /* Addressbar */
 #nav-bar {      
-  margin-bottom: -3px !important;             
-  margin-top: -26px !important;
+  margin-bottom: -4px !important;             
+  margin-top: -27px !important;
   margin-right: 70vw !important;
   margin-left: 5px !important;
   padding-bottom: 0px !important;
@@ -104,7 +104,7 @@ tabs#tabbrowser-tabs, tabs#tabbrowser-tabs * {
 	background-image: none !important;
 	margin-top: 0px !important;
 	box-shadow: none !important;
-	max-height: 16px !important;
+	max-height: 18px !important;
 	min-height: 12px !important;
 }
 

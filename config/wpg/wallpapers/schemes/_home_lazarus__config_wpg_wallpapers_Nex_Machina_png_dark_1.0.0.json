@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/Nex_Machina.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090404",
+        "foreground": "#e5d8fc",
+        "cursor": "#aba1bc"
+    },
+    "colors": {
+        "color0": "#090404",
+        "color1": "#95191C",
+        "color2": "#8E292A",
+        "color3": "#B1272B",
+        "color4": "#D12C30",
+        "color5": "#E73135",
+        "color6": "#C25153",
+        "color7": "#aba1bc",
+        "color8": "#260e0e",
+        "color9": "#cd1519",
+        "color10": "#c4292a",
+        "color11": "#f4242a",
+        "color12": "#ff282e",
+        "color13": "#ff2d33",
+        "color14": "#ff575a",
+        "color15": "#e5d8fc"
+    }
+}

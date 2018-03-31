@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/lazarus/.config/wpg/wallpapers/wintermars.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#180625",
+        "foreground": "#fffdff",
+        "cursor": "#e7e4e7"
+    },
+    "colors": {
+        "color0": "#180625",
+        "color1": "#6064A5",
+        "color2": "#946E9A",
+        "color3": "#7484B9",
+        "color4": "#7090CF",
+        "color5": "#C3AEBA",
+        "color6": "#9EA3D3",
+        "color7": "#e7e4e7",
+        "color8": "#2e0a48",
+        "color9": "#6b73e7",
+        "color10": "#cc7dd9",
+        "color11": "#83a1ff",
+        "color12": "#7cb4ff",
+        "color13": "#ffcaf5",
+        "color14": "#b5c0ff",
+        "color15": "#fffdff"
+    }
+}
