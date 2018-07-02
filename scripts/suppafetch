@@ -1,0 +1,86 @@
+#!/bin/bash
+
+# Made by Addy
+# Edited by Lazarus
+
+user="${USER}@$(hostname)"
+os='Void Linux'
+kernel="$(uname -sr)"
+uptime="$(uptime -p | sed 's/up //')"
+packages="$(xbps-query -l | wc -l)"
+shell="$(basename ${SHELL})"
+pidof systemd && init="systemd" || init="Not systemd"
+
+if [ -z "${WM}" ]; then
+	if [ "${XDG_CURRENT_DESKTOP}" ]; then
+		envtype='DE'
+		WM="${XDG_CURRENT_DESKTOP}"
+	elif [ "${DESKTOP_SESSION}" ]; then
+		envtype='DE'
+		WM="${DESKTOP_SESSION}"
+	else
+		envtype='WM'
+		WM="$(tail -n 1 "${HOME}/.xinitrc" | cut -d ' ' -f 2)"
+	fi
+else
+	envtype='WM'
+fi
+
+
+## Define Colours
+# probably don't change these
+bold="$(tput bold)"
+black="$(tput setaf 0)"
+red="$(tput setaf 1)"
+green="$(tput setaf 2)"
+yellow="$(tput setaf 3)"
+blue="$(tput setaf 4)"
+magenta="$(tput setaf 5)"
+cyan="$(tput setaf 6)"
+white="$(tput setaf 7)"
+reset="$(tput sgr0)"
+
+# you can change these
+lc="${reset}${bold}${green}"	# labels
+nc="${reset}${bold}${green}"	# user and hostname
+ic="${reset}"					# info
+c0="${reset}${bold}${green}"	# first color
+c1="${reset}${green}"			# second color
+
+## Finally, print the output
+cat <<EOF
+
+${c0}      ___      
+${c0}     /\  \          ${lc}USER:         ${ic}${user}${reset}
+${c0}    /::\  \         ${lc}OS:           ${ic}${os}${reset}
+${c0}   /:/\ \  \        ${lc}KERNEL:       ${ic}${kernel}${reset}
+${c0}  _\:\~\ \  \       ${lc}INIT:         ${ic}${init}${reset}
+${c0} /\ \:\ \ \__\      ${lc}UPTIME:       ${ic}${uptime}${reset}
+${c0} \:\ \:\ \/__/      ${lc}PACKAGES:     ${ic}${packages}${reset}
+${c0}  \:\ \:\__\        ${lc}SHELL:        ${ic}${shell}${reset}
+${c0}   \:\/:/  /        ${lc}${envtype}:           ${ic}${WM}${reset}
+${c0}    \::/  /
+${c0}     \/__/    
+
+EOF
+
+f=3 b=4
+for j in f b; do
+  for i in {0..7}; do
+    printf -v $j$i %b "\e[${!j}${i}m"
+  done
+done
+d=$'\e[1m'
+t=$'\e[0m'
+v=$'\e[7m'
+
+cat << EOF
+ 
+ $f1██████$d██$t $f2██████$d██$t $f3██████$d██$t $f4██████$d██$t $f5██████$d██$t $f6██████$d██$t 
+ $f1██████$d██$t $f2██████$d██$t $f3██████$d██$t $f4██████$d██$t $f5██████$d██$t $f6██████$d██$t 
+ $f1██████$d██$t $f2██████$d██$t $f3██████$d██$t $f4██████$d██$t $f5██████$d██$t $f6██████$d██$t 
+ $ft██████$d$f7██$t $ft██████$d$f7██$t $ft██████$d$f7██$t $ft██████$d$f7██$t $ft██████$d$f7██$t $ft██████$d$f7██$t 
+ 
+EOF
+
+
