@@ -1,0 +1,28 @@
+{
+    "wallpaper": "ahmed-rizkhaan-273537-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1e1c",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1c1e1c",
+        "color1": "#284b57",
+        "color2": "#3e6773",
+        "color3": "#5b7a87",
+        "color4": "#458e97",
+        "color5": "#76959f",
+        "color6": "#8dadb0",
+        "color7": "#c6c6c6",
+        "color8": "#545654",
+        "color9": "#284b57",
+        "color10": "#3e6773",
+        "color11": "#5b7a87",
+        "color12": "#458e97",
+        "color13": "#76959f",
+        "color14": "#8dadb0",
+        "color15": "#c6c6c6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "akira.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121212",
+        "foreground": "#dccfd1",
+        "cursor": "#dccfd1"
+    },
+    "colors": {
+        "color0": "#121212",
+        "color1": "#99225C",
+        "color2": "#AC2467",
+        "color3": "#C52578",
+        "color4": "#8E5E63",
+        "color5": "#687296",
+        "color6": "#AB9F9E",
+        "color7": "#dccfd1",
+        "color8": "#9a9092",
+        "color9": "#99225C",
+        "color10": "#AC2467",
+        "color11": "#C52578",
+        "color12": "#8E5E63",
+        "color13": "#687296",
+        "color14": "#AB9F9E",
+        "color15": "#dccfd1"
+    }
+}

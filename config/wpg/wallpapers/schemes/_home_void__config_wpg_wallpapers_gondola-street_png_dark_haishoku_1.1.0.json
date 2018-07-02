@@ -1,0 +1,28 @@
+{
+    "wallpaper": "gondola-street.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1c1a",
+        "foreground": "#c7c6c5",
+        "cursor": "#c7c6c5"
+    },
+    "colors": {
+        "color0": "#1f1c1a",
+        "color1": "#6a430e",
+        "color2": "#8f632d",
+        "color3": "#786f75",
+        "color4": "#bd823d",
+        "color5": "#ce9a5b",
+        "color6": "#f4be73",
+        "color7": "#c7c6c5",
+        "color8": "#575453",
+        "color9": "#6a430e",
+        "color10": "#8f632d",
+        "color11": "#786f75",
+        "color12": "#bd823d",
+        "color13": "#ce9a5b",
+        "color14": "#f4be73",
+        "color15": "#c7c6c5"
+    }
+}

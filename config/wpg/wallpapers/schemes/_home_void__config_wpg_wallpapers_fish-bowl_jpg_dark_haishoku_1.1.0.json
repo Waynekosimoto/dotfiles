@@ -1,0 +1,28 @@
+{
+    "wallpaper": "fish-bowl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1c1c",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1b1c1c",
+        "color1": "#2d3d52",
+        "color2": "#3b4f62",
+        "color3": "#823c31",
+        "color4": "#935030",
+        "color5": "#80605a",
+        "color6": "#c86726",
+        "color7": "#c6c6c6",
+        "color8": "#545454",
+        "color9": "#2d3d52",
+        "color10": "#3b4f62",
+        "color11": "#823c31",
+        "color12": "#935030",
+        "color13": "#80605a",
+        "color14": "#c86726",
+        "color15": "#c6c6c6"
+    }
+}

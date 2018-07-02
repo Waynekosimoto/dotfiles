@@ -1,0 +1,28 @@
+{
+    "wallpaper": "cyberpunk_city.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1c1b1f",
+        "foreground": "#c6c6c7",
+        "cursor": "#c6c6c7"
+    },
+    "colors": {
+        "color0": "#1c1b1f",
+        "color1": "#393971",
+        "color2": "#653c80",
+        "color3": "#3d609d",
+        "color4": "#4473ba",
+        "color5": "#6d6896",
+        "color6": "#6f81c2",
+        "color7": "#c6c6c7",
+        "color8": "#545457",
+        "color9": "#393971",
+        "color10": "#653c80",
+        "color11": "#3d609d",
+        "color12": "#4473ba",
+        "color13": "#6d6896",
+        "color14": "#6f81c2",
+        "color15": "#c6c6c7"
+    }
+}

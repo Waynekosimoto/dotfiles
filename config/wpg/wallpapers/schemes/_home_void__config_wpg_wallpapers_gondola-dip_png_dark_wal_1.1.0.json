@@ -1,0 +1,28 @@
+{
+    "wallpaper": "gondola-dip.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191719",
+        "foreground": "#b4b7c5",
+        "cursor": "#b4b7c5"
+    },
+    "colors": {
+        "color0": "#191719",
+        "color1": "#9C9273",
+        "color2": "#D2886C",
+        "color3": "#535E83",
+        "color4": "#5A6890",
+        "color5": "#63729B",
+        "color6": "#687AA8",
+        "color7": "#b4b7c5",
+        "color8": "#7d8089",
+        "color9": "#9C9273",
+        "color10": "#D2886C",
+        "color11": "#535E83",
+        "color12": "#5A6890",
+        "color13": "#63729B",
+        "color14": "#687AA8",
+        "color15": "#b4b7c5"
+    }
+}

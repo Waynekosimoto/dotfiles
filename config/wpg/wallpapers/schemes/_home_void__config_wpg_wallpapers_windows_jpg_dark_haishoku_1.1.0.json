@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/windows.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#21241c",
+        "foreground": "#c7c8c6",
+        "cursor": "#c7c8c6"
+    },
+    "colors": {
+        "color0": "#21241c",
+        "color1": "#2259e2",
+        "color2": "#54721d",
+        "color3": "#447aed",
+        "color4": "#6f931d",
+        "color5": "#769cef",
+        "color6": "#98b7f1",
+        "color7": "#c7c8c6",
+        "color8": "#585a54",
+        "color9": "#2259e2",
+        "color10": "#54721d",
+        "color11": "#447aed",
+        "color12": "#6f931d",
+        "color13": "#769cef",
+        "color14": "#98b7f1",
+        "color15": "#c7c8c6"
+    }
+}

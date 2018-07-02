@@ -1,0 +1,28 @@
+{
+    "wallpaper": "josan-gonzalez-overwatchmasterfilev24.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#242326",
+        "foreground": "#c8c8c8",
+        "cursor": "#c8c8c8"
+    },
+    "colors": {
+        "color0": "#242326",
+        "color1": "#55517e",
+        "color2": "#73535a",
+        "color3": "#886c63",
+        "color4": "#8c7a8a",
+        "color5": "#bd9890",
+        "color6": "#cc9fcd",
+        "color7": "#c8c8c8",
+        "color8": "#5a5a5c",
+        "color9": "#55517e",
+        "color10": "#73535a",
+        "color11": "#886c63",
+        "color12": "#8c7a8a",
+        "color13": "#bd9890",
+        "color14": "#cc9fcd",
+        "color15": "#c8c8c8"
+    }
+}

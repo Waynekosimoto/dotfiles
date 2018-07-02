@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/two-time.png",
+    "alpha": "100",
+    "special": {
+        "background": "#191919",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#223466",
+        "color2": "#702430",
+        "color3": "#396174",
+        "color4": "#d71b6b",
+        "color5": "#846570",
+        "color6": "#ce7b1a",
+        "color7": "#c5c5c5",
+        "color8": "#525252",
+        "color9": "#223466",
+        "color10": "#702430",
+        "color11": "#396174",
+        "color12": "#d71b6b",
+        "color13": "#846570",
+        "color14": "#ce7b1a",
+        "color15": "#c5c5c5"
+    }
+}

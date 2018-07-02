@@ -1,0 +1,28 @@
+{
+    "wallpaper": "windows.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e280f",
+        "foreground": "#cfdbf0",
+        "cursor": "#cfdbf0"
+    },
+    "colors": {
+        "color0": "#1e280f",
+        "color1": "#316CEB",
+        "color2": "#477AED",
+        "color3": "#748CA5",
+        "color4": "#6492F0",
+        "color5": "#90A1A9",
+        "color6": "#91B0F1",
+        "color7": "#cfdbf0",
+        "color8": "#9099a8",
+        "color9": "#316CEB",
+        "color10": "#477AED",
+        "color11": "#748CA5",
+        "color12": "#6492F0",
+        "color13": "#90A1A9",
+        "color14": "#91B0F1",
+        "color15": "#cfdbf0"
+    }
+}

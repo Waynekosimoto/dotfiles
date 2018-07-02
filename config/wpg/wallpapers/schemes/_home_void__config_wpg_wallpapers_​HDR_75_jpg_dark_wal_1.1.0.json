@@ -1,0 +1,28 @@
+{
+    "wallpaper": "​HDR_75.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#16110a",
+        "foreground": "#d4dade",
+        "cursor": "#d4dade"
+    },
+    "colors": {
+        "color0": "#16110a",
+        "color1": "#F6DD72",
+        "color2": "#FADA74",
+        "color3": "#B2A490",
+        "color4": "#C8B9A3",
+        "color5": "#EFDC9F",
+        "color6": "#D4CAB8",
+        "color7": "#d4dade",
+        "color8": "#94989b",
+        "color9": "#F6DD72",
+        "color10": "#FADA74",
+        "color11": "#B2A490",
+        "color12": "#C8B9A3",
+        "color13": "#EFDC9F",
+        "color14": "#D4CAB8",
+        "color15": "#d4dade"
+    }
+}

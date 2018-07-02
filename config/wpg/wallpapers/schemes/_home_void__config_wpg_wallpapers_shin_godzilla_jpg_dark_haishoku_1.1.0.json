@@ -1,0 +1,28 @@
+{
+    "wallpaper": "shin_godzilla.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a1a1a",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#1a1a1a",
+        "color1": "#811f23",
+        "color2": "#c52026",
+        "color3": "#775c5f",
+        "color4": "#d55157",
+        "color5": "#df7b80",
+        "color6": "#eba7ab",
+        "color7": "#c5c5c5",
+        "color8": "#535353",
+        "color9": "#811f23",
+        "color10": "#c52026",
+        "color11": "#775c5f",
+        "color12": "#d55157",
+        "color13": "#df7b80",
+        "color14": "#eba7ab",
+        "color15": "#c5c5c5"
+    }
+}

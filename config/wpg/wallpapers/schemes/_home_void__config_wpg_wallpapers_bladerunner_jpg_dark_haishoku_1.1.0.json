@@ -1,0 +1,28 @@
+{
+    "wallpaper": "bladerunner.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e1f21",
+        "foreground": "#c6c7c7",
+        "cursor": "#c6c7c7"
+    },
+    "colors": {
+        "color0": "#1e1f21",
+        "color1": "#233353",
+        "color2": "#86222f",
+        "color3": "#2f466c",
+        "color4": "#79466f",
+        "color5": "#3961a7",
+        "color6": "#6d65a6",
+        "color7": "#c6c7c7",
+        "color8": "#565758",
+        "color9": "#233353",
+        "color10": "#86222f",
+        "color11": "#2f466c",
+        "color12": "#79466f",
+        "color13": "#3961a7",
+        "color14": "#6d65a6",
+        "color15": "#c6c7c7"
+    }
+}

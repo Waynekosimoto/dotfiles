@@ -1,0 +1,28 @@
+{
+    "wallpaper": "samuel-scrimshaw-76647-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#725b42",
+        "foreground": "#f1e6d7",
+        "cursor": "#f1e6d7"
+    },
+    "colors": {
+        "color0": "#725b42",
+        "color1": "#DABFA1",
+        "color2": "#DCC19C",
+        "color3": "#E3C59C",
+        "color4": "#DDC3A3",
+        "color5": "#EFD5B3",
+        "color6": "#F7E1BE",
+        "color7": "#f1e6d7",
+        "color8": "#a8a196",
+        "color9": "#DABFA1",
+        "color10": "#DCC19C",
+        "color11": "#E3C59C",
+        "color12": "#DDC3A3",
+        "color13": "#EFD5B3",
+        "color14": "#F7E1BE",
+        "color15": "#f1e6d7"
+    }
+}

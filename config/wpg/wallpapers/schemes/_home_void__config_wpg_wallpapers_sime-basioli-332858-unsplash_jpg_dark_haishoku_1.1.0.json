@@ -1,0 +1,28 @@
+{
+    "wallpaper": "sime-basioli-332858-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#212322",
+        "foreground": "#c7c8c7",
+        "cursor": "#c7c8c7"
+    },
+    "colors": {
+        "color0": "#212322",
+        "color1": "#476e5d",
+        "color2": "#82785b",
+        "color3": "#588a77",
+        "color4": "#749686",
+        "color5": "#81ac9a",
+        "color6": "#9bbaae",
+        "color7": "#c7c8c7",
+        "color8": "#585a59",
+        "color9": "#476e5d",
+        "color10": "#82785b",
+        "color11": "#588a77",
+        "color12": "#749686",
+        "color13": "#81ac9a",
+        "color14": "#9bbaae",
+        "color15": "#c7c8c7"
+    }
+}

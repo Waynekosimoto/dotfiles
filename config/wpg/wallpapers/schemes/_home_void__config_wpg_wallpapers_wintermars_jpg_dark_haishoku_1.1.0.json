@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/wintermars.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#201c25",
+        "foreground": "#c7c6c8",
+        "cursor": "#c7c6c8"
+    },
+    "colors": {
+        "color0": "#201c25",
+        "color1": "#792246",
+        "color2": "#413c7c",
+        "color3": "#d33a44",
+        "color4": "#756ba0",
+        "color5": "#7b87c3",
+        "color6": "#d78988",
+        "color7": "#c7c6c8",
+        "color8": "#57545b",
+        "color9": "#792246",
+        "color10": "#413c7c",
+        "color11": "#d33a44",
+        "color12": "#756ba0",
+        "color13": "#7b87c3",
+        "color14": "#d78988",
+        "color15": "#c7c6c8"
+    }
+}

@@ -41,7 +41,7 @@
   </placement>
   <theme>
     <name>colorbamboo</name>
-    <titleLayout/>
+    <titleLayout>C</titleLayout>
     <!--
       avaible characters are NDSLIMC, each can occur at most once.
       N: window icon
@@ -393,12 +393,12 @@
     </keybind>
     <keybind key="XF86MonBrightnessUp">
       <action name="Execute">
-        <command>xrandr --output eDP --brightness 1.0</command>
+        <command>xbacklight +10</command>
       </action>
     </keybind>
     <keybind key="XF86MonBrightnessDown">
       <action name="Execute">
-        <command>xrandr --output eDP --brightness 0.6</command>
+        <command>xbacklight -10</command>
       </action>
     </keybind>
     <keybind key="XF86AudioPlay">
@@ -894,6 +894,9 @@
   # end of the example
 -->
     <application name="urxvt">
+      <decor>no</decor>
+    </application>
+    <application name="feh">
       <decor>no</decor>
     </application>
     <application name="firefox">

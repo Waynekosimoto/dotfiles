@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/\u200bEndim_2000.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f2224",
+        "foreground": "#c7c7c8",
+        "cursor": "#c7c7c8"
+    },
+    "colors": {
+        "color0": "#1f2224",
+        "color1": "#415961",
+        "color2": "#7f4e4f",
+        "color3": "#547e8b",
+        "color4": "#768a91",
+        "color5": "#6ea8ba",
+        "color6": "#82b5c4",
+        "color7": "#c7c7c8",
+        "color8": "#57595a",
+        "color9": "#415961",
+        "color10": "#7f4e4f",
+        "color11": "#547e8b",
+        "color12": "#768a91",
+        "color13": "#6ea8ba",
+        "color14": "#82b5c4",
+        "color15": "#c7c7c8"
+    }
+}

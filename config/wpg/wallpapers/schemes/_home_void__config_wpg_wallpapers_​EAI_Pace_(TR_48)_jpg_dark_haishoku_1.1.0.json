@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/\u200bEAI_Pace_(TR_48).jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#212221",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#212221",
+        "color1": "#475a4e",
+        "color2": "#407769",
+        "color3": "#7f6545",
+        "color4": "#779a84",
+        "color5": "#83ae96",
+        "color6": "#c9c580",
+        "color7": "#c7c7c7",
+        "color8": "#585958",
+        "color9": "#475a4e",
+        "color10": "#407769",
+        "color11": "#7f6545",
+        "color12": "#779a84",
+        "color13": "#83ae96",
+        "color14": "#c9c580",
+        "color15": "#c7c7c7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "lorenzo-spoleti-435156-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#ccadc2",
+        "cursor": "#ccadc2"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#982737",
+        "color2": "#9E2C4E",
+        "color3": "#D6364D",
+        "color4": "#B54755",
+        "color5": "#EC575C",
+        "color6": "#8A648D",
+        "color7": "#ccadc2",
+        "color8": "#8e7987",
+        "color9": "#982737",
+        "color10": "#9E2C4E",
+        "color11": "#D6364D",
+        "color12": "#B54755",
+        "color13": "#EC575C",
+        "color14": "#8A648D",
+        "color15": "#ccadc2"
+    }
+}

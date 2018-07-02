@@ -1,0 +1,28 @@
+{
+    "wallpaper": "swat.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2a1e4b",
+        "foreground": "#9cbfe1",
+        "cursor": "#9cbfe1"
+    },
+    "colors": {
+        "color0": "#2a1e4b",
+        "color1": "#2A3695",
+        "color2": "#3B53A5",
+        "color3": "#4C539E",
+        "color4": "#485ABA",
+        "color5": "#3671CC",
+        "color6": "#BA6991",
+        "color7": "#9cbfe1",
+        "color8": "#6d859d",
+        "color9": "#2A3695",
+        "color10": "#3B53A5",
+        "color11": "#4C539E",
+        "color12": "#485ABA",
+        "color13": "#3671CC",
+        "color14": "#BA6991",
+        "color15": "#9cbfe1"
+    }
+}

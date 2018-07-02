@@ -1,0 +1,28 @@
+{
+    "wallpaper": "gondola-dinner.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#202121",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#202121",
+        "color1": "#685044",
+        "color2": "#516657",
+        "color3": "#4f6c6a",
+        "color4": "#7a7455",
+        "color5": "#86896b",
+        "color6": "#cbc98f",
+        "color7": "#c7c7c7",
+        "color8": "#575858",
+        "color9": "#685044",
+        "color10": "#516657",
+        "color11": "#4f6c6a",
+        "color12": "#7a7455",
+        "color13": "#86896b",
+        "color14": "#cbc98f",
+        "color15": "#c7c7c7"
+    }
+}

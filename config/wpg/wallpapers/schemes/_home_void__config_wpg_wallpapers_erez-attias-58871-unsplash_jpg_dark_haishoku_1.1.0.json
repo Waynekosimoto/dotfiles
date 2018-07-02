@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/erez-attias-58871-unsplash.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1f1f",
+        "foreground": "#c6c7c7",
+        "cursor": "#c6c7c7"
+    },
+    "colors": {
+        "color0": "#1c1f1f",
+        "color1": "#0f596e",
+        "color2": "#635246",
+        "color3": "#247986",
+        "color4": "#7c6758",
+        "color5": "#817f80",
+        "color6": "#b1988e",
+        "color7": "#c6c7c7",
+        "color8": "#545757",
+        "color9": "#0f596e",
+        "color10": "#635246",
+        "color11": "#247986",
+        "color12": "#7c6758",
+        "color13": "#817f80",
+        "color14": "#b1988e",
+        "color15": "#c6c7c7"
+    }
+}

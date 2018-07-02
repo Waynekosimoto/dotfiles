@@ -1,0 +1,28 @@
+{
+    "wallpaper": "mila-young-276102-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c182a",
+        "foreground": "#d1dce8",
+        "cursor": "#d1dce8"
+    },
+    "colors": {
+        "color0": "#0c182a",
+        "color1": "#4BA1D8",
+        "color2": "#85A0BC",
+        "color3": "#94ADC9",
+        "color4": "#8CB5D8",
+        "color5": "#A8BAD0",
+        "color6": "#B7C5D8",
+        "color7": "#d1dce8",
+        "color8": "#929aa2",
+        "color9": "#4BA1D8",
+        "color10": "#85A0BC",
+        "color11": "#94ADC9",
+        "color12": "#8CB5D8",
+        "color13": "#A8BAD0",
+        "color14": "#B7C5D8",
+        "color15": "#d1dce8"
+    }
+}

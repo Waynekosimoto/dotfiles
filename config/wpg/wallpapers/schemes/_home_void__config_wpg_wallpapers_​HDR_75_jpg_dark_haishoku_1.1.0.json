@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/\u200bHDR_75.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#201f1d",
+        "foreground": "#c7c7c6",
+        "cursor": "#c7c7c6"
+    },
+    "colors": {
+        "color0": "#201f1d",
+        "color1": "#5c4830",
+        "color2": "#71613f",
+        "color3": "#90816c",
+        "color4": "#c28b39",
+        "color5": "#af987b",
+        "color6": "#cfc3af",
+        "color7": "#c7c7c6",
+        "color8": "#575755",
+        "color9": "#5c4830",
+        "color10": "#71613f",
+        "color11": "#90816c",
+        "color12": "#c28b39",
+        "color13": "#af987b",
+        "color14": "#cfc3af",
+        "color15": "#c7c7c6"
+    }
+}

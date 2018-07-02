@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/\u200bPilot_ACE.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#22211f",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#22211f",
+        "color1": "#5d4633",
+        "color2": "#6f573f",
+        "color3": "#8e7a62",
+        "color4": "#c8873f",
+        "color5": "#b79068",
+        "color6": "#d4c5ac",
+        "color7": "#c7c7c7",
+        "color8": "#595857",
+        "color9": "#5d4633",
+        "color10": "#6f573f",
+        "color11": "#8e7a62",
+        "color12": "#c8873f",
+        "color13": "#b79068",
+        "color14": "#d4c5ac",
+        "color15": "#c7c7c7"
+    }
+}

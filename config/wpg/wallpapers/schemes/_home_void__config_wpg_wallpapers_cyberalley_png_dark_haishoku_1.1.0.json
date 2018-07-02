@@ -1,0 +1,28 @@
+{
+    "wallpaper": "cyberalley.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e1e1d",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1e1e1d",
+        "color1": "#3e3e53",
+        "color2": "#653e26",
+        "color3": "#415d47",
+        "color4": "#456a59",
+        "color5": "#6e673f",
+        "color6": "#81d282",
+        "color7": "#c6c6c6",
+        "color8": "#565655",
+        "color9": "#3e3e53",
+        "color10": "#653e26",
+        "color11": "#415d47",
+        "color12": "#456a59",
+        "color13": "#6e673f",
+        "color14": "#81d282",
+        "color15": "#c6c6c6"
+    }
+}

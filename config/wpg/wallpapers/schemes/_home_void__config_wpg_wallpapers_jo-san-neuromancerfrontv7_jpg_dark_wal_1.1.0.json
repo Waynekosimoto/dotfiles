@@ -1,0 +1,28 @@
+{
+    "wallpaper": "jo-san-neuromancerfrontv7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120c1e",
+        "foreground": "#bbbbcf",
+        "cursor": "#bbbbcf"
+    },
+    "colors": {
+        "color0": "#120c1e",
+        "color1": "#AFB169",
+        "color2": "#6D5988",
+        "color3": "#6A669A",
+        "color4": "#6166AC",
+        "color5": "#926E90",
+        "color6": "#9C75B3",
+        "color7": "#bbbbcf",
+        "color8": "#828290",
+        "color9": "#AFB169",
+        "color10": "#6D5988",
+        "color11": "#6A669A",
+        "color12": "#6166AC",
+        "color13": "#926E90",
+        "color14": "#9C75B3",
+        "color15": "#bbbbcf"
+    }
+}

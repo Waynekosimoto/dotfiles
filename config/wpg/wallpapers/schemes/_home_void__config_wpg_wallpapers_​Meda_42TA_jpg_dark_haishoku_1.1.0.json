@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/\u200bMeda_42TA.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#201f21",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#201f21",
+        "color1": "#4b7f87",
+        "color2": "#828a8f",
+        "color3": "#bd9894",
+        "color4": "#a6a0bb",
+        "color5": "#b0a8c1",
+        "color6": "#92bcc1",
+        "color7": "#c7c7c7",
+        "color8": "#575758",
+        "color9": "#4b7f87",
+        "color10": "#828a8f",
+        "color11": "#bd9894",
+        "color12": "#a6a0bb",
+        "color13": "#b0a8c1",
+        "color14": "#92bcc1",
+        "color15": "#c7c7c7"
+    }
+}

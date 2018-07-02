@@ -1,0 +1,28 @@
+{
+    "wallpaper": "red-green-car.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191a1b",
+        "foreground": "#c5c5c6",
+        "cursor": "#c5c5c6"
+    },
+    "colors": {
+        "color0": "#191a1b",
+        "color1": "#04292d",
+        "color2": "#0d3e3a",
+        "color3": "#7b0a31",
+        "color4": "#044e4b",
+        "color5": "#d6004d",
+        "color6": "#f20037",
+        "color7": "#c5c5c6",
+        "color8": "#525354",
+        "color9": "#04292d",
+        "color10": "#0d3e3a",
+        "color11": "#7b0a31",
+        "color12": "#044e4b",
+        "color13": "#d6004d",
+        "color14": "#f20037",
+        "color15": "#c5c5c6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "jo-san-frankenpunk15.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#201f20",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#201f20",
+        "color1": "#374858",
+        "color2": "#754f52",
+        "color3": "#46656b",
+        "color4": "#3a7491",
+        "color5": "#847a6c",
+        "color6": "#d1836b",
+        "color7": "#c7c7c7",
+        "color8": "#575757",
+        "color9": "#374858",
+        "color10": "#754f52",
+        "color11": "#46656b",
+        "color12": "#3a7491",
+        "color13": "#847a6c",
+        "color14": "#d1836b",
+        "color15": "#c7c7c7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "gondola-clay.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1f20",
+        "foreground": "#c7c7c7",
+        "cursor": "#c7c7c7"
+    },
+    "colors": {
+        "color0": "#1f1f20",
+        "color1": "#503b33",
+        "color2": "#3e4449",
+        "color3": "#5b5046",
+        "color4": "#636973",
+        "color5": "#798899",
+        "color6": "#7d8b9a",
+        "color7": "#c7c7c7",
+        "color8": "#575757",
+        "color9": "#503b33",
+        "color10": "#3e4449",
+        "color11": "#5b5046",
+        "color12": "#636973",
+        "color13": "#798899",
+        "color14": "#7d8b9a",
+        "color15": "#c7c7c7"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "​IBM_729.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#11090f",
+        "foreground": "#e9e2de",
+        "cursor": "#e9e2de"
+    },
+    "colors": {
+        "color0": "#11090f",
+        "color1": "#E45B5D",
+        "color2": "#E65E60",
+        "color3": "#E86263",
+        "color4": "#9C847B",
+        "color5": "#BFAFA8",
+        "color6": "#CBAFA7",
+        "color7": "#e9e2de",
+        "color8": "#a39e9b",
+        "color9": "#E45B5D",
+        "color10": "#E65E60",
+        "color11": "#E86263",
+        "color12": "#9C847B",
+        "color13": "#BFAFA8",
+        "color14": "#CBAFA7",
+        "color15": "#e9e2de"
+    }
+}

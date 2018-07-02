@@ -1,0 +1,28 @@
+{
+    "wallpaper": "​EAI_Pace_(TR_48).jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#171b18",
+        "foreground": "#e0e2df",
+        "cursor": "#e0e2df"
+    },
+    "colors": {
+        "color0": "#171b18",
+        "color1": "#6F9C83",
+        "color2": "#5AA799",
+        "color3": "#7CA88F",
+        "color4": "#84AF97",
+        "color5": "#A6A99E",
+        "color6": "#C8C5B0",
+        "color7": "#e0e2df",
+        "color8": "#9c9e9c",
+        "color9": "#6F9C83",
+        "color10": "#5AA799",
+        "color11": "#7CA88F",
+        "color12": "#84AF97",
+        "color13": "#A6A99E",
+        "color14": "#C8C5B0",
+        "color15": "#e0e2df"
+    }
+}

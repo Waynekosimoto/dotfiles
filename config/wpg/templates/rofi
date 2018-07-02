@@ -3,10 +3,10 @@ rofi.width:                          20
 rofi.lines:                          20
 rofi.columns:                        1
 rofi.font:                           kakwafont 10
-rofi.color-normal:                   #050506, #fff4f5, #050506, #b71c22, #fff4f5
-rofi.color-urgent:                   #050506, #d6b48d, #22231D, #d6b48d, #fff4f5
-rofi.color-active:                   #050506, #ffc7ce, #050506, #ffc7ce, #050506
-rofi.color-window:                   #050506, #b71c22, #7d1417
+rofi.color-normal:                   #1c1f1f, #c6c7c7, #1c1f1f, #4f4138, #c6c7c7
+rofi.color-urgent:                   #1c1f1f, #d6b48d, #22231D, #d6b48d, #c6c7c7
+rofi.color-active:                   #1c1f1f, #b1988e, #1c1f1f, #b1988e, #1c1f1f
+rofi.color-window:                   #1c1f1f, #4f4138, #362d26
 rofi.bw:                             0
 rofi.location:                       0
 rofi.padding:                        40

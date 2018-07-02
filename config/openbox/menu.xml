@@ -14,7 +14,7 @@
 		</item>
 		<item label="File Manager">
 			<action name="Execute">
-				<execute>pcmanfm</execute>
+				<execute>Thunar</execute>
 			</action>
 		</item>
 		<item label="Terminal">

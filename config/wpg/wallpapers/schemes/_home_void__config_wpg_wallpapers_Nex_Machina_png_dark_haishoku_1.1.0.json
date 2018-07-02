@@ -1,0 +1,28 @@
+{
+    "wallpaper": "Nex_Machina.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1a1a",
+        "foreground": "#c6c5c5",
+        "cursor": "#c6c5c5"
+    },
+    "colors": {
+        "color0": "#1b1a1a",
+        "color1": "#3c1f62",
+        "color2": "#7b2327",
+        "color3": "#68385c",
+        "color4": "#cd2d30",
+        "color5": "#766d6e",
+        "color6": "#d67779",
+        "color7": "#c6c5c5",
+        "color8": "#545353",
+        "color9": "#3c1f62",
+        "color10": "#7b2327",
+        "color11": "#68385c",
+        "color12": "#cd2d30",
+        "color13": "#766d6e",
+        "color14": "#d67779",
+        "color15": "#c6c5c5"
+    }
+}

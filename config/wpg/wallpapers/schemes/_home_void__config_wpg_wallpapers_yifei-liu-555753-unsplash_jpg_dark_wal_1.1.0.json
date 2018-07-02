@@ -1,0 +1,28 @@
+{
+    "wallpaper": "yifei-liu-555753-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c1e21",
+        "foreground": "#e1e6e7",
+        "cursor": "#e1e6e7"
+    },
+    "colors": {
+        "color0": "#0c1e21",
+        "color1": "#90725B",
+        "color2": "#A48B71",
+        "color3": "#C59966",
+        "color4": "#6B8189",
+        "color5": "#A5A096",
+        "color6": "#C0BDB0",
+        "color7": "#e1e6e7",
+        "color8": "#9da1a1",
+        "color9": "#90725B",
+        "color10": "#A48B71",
+        "color11": "#C59966",
+        "color12": "#6B8189",
+        "color13": "#A5A096",
+        "color14": "#C0BDB0",
+        "color15": "#e1e6e7"
+    }
+}

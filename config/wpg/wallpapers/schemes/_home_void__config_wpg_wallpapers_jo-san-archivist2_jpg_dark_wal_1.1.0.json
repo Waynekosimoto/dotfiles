@@ -1,0 +1,28 @@
+{
+    "wallpaper": "jo-san-archivist2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070708",
+        "foreground": "#e7caae",
+        "cursor": "#e7caae"
+    },
+    "colors": {
+        "color0": "#070708",
+        "color1": "#66625A",
+        "color2": "#747469",
+        "color3": "#9B6D4B",
+        "color4": "#8D745F",
+        "color5": "#9D8A6C",
+        "color6": "#94997F",
+        "color7": "#e7caae",
+        "color8": "#a18d79",
+        "color9": "#66625A",
+        "color10": "#747469",
+        "color11": "#9B6D4B",
+        "color12": "#8D745F",
+        "color13": "#9D8A6C",
+        "color14": "#94997F",
+        "color15": "#e7caae"
+    }
+}

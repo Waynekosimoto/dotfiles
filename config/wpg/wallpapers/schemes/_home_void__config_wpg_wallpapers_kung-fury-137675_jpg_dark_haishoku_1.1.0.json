@@ -1,0 +1,28 @@
+{
+    "wallpaper": "kung-fury-137675.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1c1e",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1b1c1e",
+        "color1": "#7e1528",
+        "color2": "#404d59",
+        "color3": "#d60d26",
+        "color4": "#4b5a64",
+        "color5": "#737d86",
+        "color6": "#99a5ad",
+        "color7": "#c6c6c6",
+        "color8": "#545456",
+        "color9": "#7e1528",
+        "color10": "#404d59",
+        "color11": "#d60d26",
+        "color12": "#4b5a64",
+        "color13": "#737d86",
+        "color14": "#99a5ad",
+        "color15": "#c6c6c6"
+    }
+}

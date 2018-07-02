@@ -1,0 +1,28 @@
+{
+    "wallpaper": "tux-google.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010201",
+        "foreground": "#ead5a3",
+        "cursor": "#ead5a3"
+    },
+    "colors": {
+        "color0": "#010201",
+        "color1": "#254B3A",
+        "color2": "#242345",
+        "color3": "#2A2946",
+        "color4": "#4C5348",
+        "color5": "#059608",
+        "color6": "#08E005",
+        "color7": "#ead5a3",
+        "color8": "#a39572",
+        "color9": "#254B3A",
+        "color10": "#242345",
+        "color11": "#2A2946",
+        "color12": "#4C5348",
+        "color13": "#059608",
+        "color14": "#08E005",
+        "color15": "#ead5a3"
+    }
+}

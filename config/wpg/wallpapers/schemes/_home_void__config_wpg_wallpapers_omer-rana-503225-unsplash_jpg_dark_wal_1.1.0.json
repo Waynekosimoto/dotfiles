@@ -1,0 +1,28 @@
+{
+    "wallpaper": "omer-rana-503225-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121d21",
+        "foreground": "#c7cbbe",
+        "cursor": "#c7cbbe"
+    },
+    "colors": {
+        "color0": "#121d21",
+        "color1": "#5B6959",
+        "color2": "#62883B",
+        "color3": "#6B8F60",
+        "color4": "#8EA26F",
+        "color5": "#A3C673",
+        "color6": "#788086",
+        "color7": "#c7cbbe",
+        "color8": "#8b8e85",
+        "color9": "#5B6959",
+        "color10": "#62883B",
+        "color11": "#6B8F60",
+        "color12": "#8EA26F",
+        "color13": "#A3C673",
+        "color14": "#788086",
+        "color15": "#c7cbbe"
+    }
+}

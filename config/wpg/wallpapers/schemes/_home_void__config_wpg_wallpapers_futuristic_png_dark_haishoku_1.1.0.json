@@ -1,0 +1,28 @@
+{
+    "wallpaper": "futuristic.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1f22",
+        "foreground": "#c6c7c7",
+        "cursor": "#c6c7c7"
+    },
+    "colors": {
+        "color0": "#1b1f22",
+        "color1": "#174370",
+        "color2": "#2f658d",
+        "color3": "#337ac8",
+        "color4": "#707e8d",
+        "color5": "#748ccf",
+        "color6": "#84c3e8",
+        "color7": "#c6c7c7",
+        "color8": "#545759",
+        "color9": "#174370",
+        "color10": "#2f658d",
+        "color11": "#337ac8",
+        "color12": "#707e8d",
+        "color13": "#748ccf",
+        "color14": "#84c3e8",
+        "color15": "#c6c7c7"
+    }
+}

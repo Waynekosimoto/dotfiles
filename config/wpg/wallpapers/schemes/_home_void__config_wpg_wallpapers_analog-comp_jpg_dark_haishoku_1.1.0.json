@@ -1,0 +1,28 @@
+{
+    "wallpaper": "analog-comp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#221e20",
+        "foreground": "#c7c6c7",
+        "cursor": "#c7c6c7"
+    },
+    "colors": {
+        "color0": "#221e20",
+        "color1": "#733c4f",
+        "color2": "#834d61",
+        "color3": "#bc4e6f",
+        "color4": "#917c85",
+        "color5": "#d6708e",
+        "color6": "#c1a4ae",
+        "color7": "#c7c6c7",
+        "color8": "#595657",
+        "color9": "#733c4f",
+        "color10": "#834d61",
+        "color11": "#bc4e6f",
+        "color12": "#917c85",
+        "color13": "#d6708e",
+        "color14": "#c1a4ae",
+        "color15": "#c7c6c7"
+    }
+}

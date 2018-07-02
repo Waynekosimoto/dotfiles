@@ -1,0 +1,28 @@
+{
+    "wallpaper": "samuel-ferrara-503754-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1b1f",
+        "foreground": "#c6c6c7",
+        "cursor": "#c6c6c7"
+    },
+    "colors": {
+        "color0": "#1b1b1f",
+        "color1": "#363a6b",
+        "color2": "#6a373b",
+        "color3": "#683c70",
+        "color4": "#495f78",
+        "color5": "#757480",
+        "color6": "#868ac5",
+        "color7": "#c6c6c7",
+        "color8": "#545457",
+        "color9": "#363a6b",
+        "color10": "#6a373b",
+        "color11": "#683c70",
+        "color12": "#495f78",
+        "color13": "#757480",
+        "color14": "#868ac5",
+        "color15": "#c6c6c7"
+    }
+}

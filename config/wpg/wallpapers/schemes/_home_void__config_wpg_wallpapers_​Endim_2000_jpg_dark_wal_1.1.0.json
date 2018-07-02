@@ -1,0 +1,28 @@
+{
+    "wallpaper": "​Endim_2000.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#19282d",
+        "foreground": "#dde5e9",
+        "cursor": "#dde5e9"
+    },
+    "colors": {
+        "color0": "#19282d",
+        "color1": "#93A7AE",
+        "color2": "#D6AB96",
+        "color3": "#86B6C5",
+        "color4": "#A6BBC5",
+        "color5": "#A2CAD9",
+        "color6": "#B1DAEA",
+        "color7": "#dde5e9",
+        "color8": "#9aa0a3",
+        "color9": "#93A7AE",
+        "color10": "#D6AB96",
+        "color11": "#86B6C5",
+        "color12": "#A6BBC5",
+        "color13": "#A2CAD9",
+        "color14": "#B1DAEA",
+        "color15": "#dde5e9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/wizard.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d1c1c",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1d1c1c",
+        "color1": "#74212f",
+        "color2": "#3a367d",
+        "color3": "#6f4184",
+        "color4": "#bf293b",
+        "color5": "#8175c2",
+        "color6": "#c692cb",
+        "color7": "#c6c6c6",
+        "color8": "#555454",
+        "color9": "#74212f",
+        "color10": "#3a367d",
+        "color11": "#6f4184",
+        "color12": "#bf293b",
+        "color13": "#8175c2",
+        "color14": "#c692cb",
+        "color15": "#c6c6c6"
+    }
+}

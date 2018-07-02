@@ -1,0 +1,28 @@
+{
+    "wallpaper": "go-moon.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b1a1a",
+        "foreground": "#c6c5c5",
+        "cursor": "#c6c5c5"
+    },
+    "colors": {
+        "color0": "#1b1a1a",
+        "color1": "#473c65",
+        "color2": "#643441",
+        "color3": "#744567",
+        "color4": "#835d8e",
+        "color5": "#8773ba",
+        "color6": "#bd7182",
+        "color7": "#c6c5c5",
+        "color8": "#545353",
+        "color9": "#473c65",
+        "color10": "#643441",
+        "color11": "#744567",
+        "color12": "#835d8e",
+        "color13": "#8773ba",
+        "color14": "#bd7182",
+        "color15": "#c6c5c5"
+    }
+}

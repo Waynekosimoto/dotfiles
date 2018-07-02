@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/swat.png",
+    "alpha": "100",
+    "special": {
+        "background": "#231e25",
+        "foreground": "#c8c6c8",
+        "cursor": "#c8c6c8"
+    },
+    "colors": {
+        "color0": "#231e25",
+        "color1": "#3b3982",
+        "color2": "#3e6dc1",
+        "color3": "#836e76",
+        "color4": "#94863f",
+        "color5": "#d87942",
+        "color6": "#e08372",
+        "color7": "#c8c6c8",
+        "color8": "#5a565b",
+        "color9": "#3b3982",
+        "color10": "#3e6dc1",
+        "color11": "#836e76",
+        "color12": "#94863f",
+        "color13": "#d87942",
+        "color14": "#e08372",
+        "color15": "#c8c6c8"
+    }
+}

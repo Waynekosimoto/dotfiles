@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/void/.config/wpg/wallpapers/\u200bIBM_1401.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1d1e",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1c1d1e",
+        "color1": "#2a4c64",
+        "color2": "#2e7097",
+        "color3": "#75787c",
+        "color4": "#4d97b6",
+        "color5": "#59a2bd",
+        "color6": "#64aac4",
+        "color7": "#c6c6c6",
+        "color8": "#545556",
+        "color9": "#2a4c64",
+        "color10": "#2e7097",
+        "color11": "#75787c",
+        "color12": "#4d97b6",
+        "color13": "#59a2bd",
+        "color14": "#64aac4",
+        "color15": "#c6c6c6"
+    }
+}

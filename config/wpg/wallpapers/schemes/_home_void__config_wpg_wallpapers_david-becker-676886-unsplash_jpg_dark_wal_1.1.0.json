@@ -1,0 +1,28 @@
+{
+    "wallpaper": "david-becker-676886-unsplash.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040610",
+        "foreground": "#82bad4",
+        "cursor": "#82bad4"
+    },
+    "colors": {
+        "color0": "#040610",
+        "color1": "#C44154",
+        "color2": "#213689",
+        "color3": "#622988",
+        "color4": "#0F609D",
+        "color5": "#4968A7",
+        "color6": "#832489",
+        "color7": "#82bad4",
+        "color8": "#5b8294",
+        "color9": "#C44154",
+        "color10": "#213689",
+        "color11": "#622988",
+        "color12": "#0F609D",
+        "color13": "#4968A7",
+        "color14": "#832489",
+        "color15": "#82bad4"
+    }
+}

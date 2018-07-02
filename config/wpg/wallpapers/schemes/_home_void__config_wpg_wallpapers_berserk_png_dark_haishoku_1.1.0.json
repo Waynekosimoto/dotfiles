@@ -1,0 +1,28 @@
+{
+    "wallpaper": "berserk.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191919",
+        "foreground": "#c5c5c5",
+        "cursor": "#c5c5c5"
+    },
+    "colors": {
+        "color0": "#191919",
+        "color1": "#7b1d1e",
+        "color2": "#136b0c",
+        "color3": "#b8151d",
+        "color4": "#868175",
+        "color5": "#d88783",
+        "color6": "#b8b39f",
+        "color7": "#c5c5c5",
+        "color8": "#525252",
+        "color9": "#7b1d1e",
+        "color10": "#136b0c",
+        "color11": "#b8151d",
+        "color12": "#868175",
+        "color13": "#d88783",
+        "color14": "#b8b39f",
+        "color15": "#c5c5c5"
+    }
+}

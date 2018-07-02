@@ -1,0 +1,28 @@
+{
+    "wallpaper": "pantera.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d1a1c",
+        "foreground": "#c6c5c6",
+        "cursor": "#c6c5c6"
+    },
+    "colors": {
+        "color0": "#1d1a1c",
+        "color1": "#40106d",
+        "color2": "#760a24",
+        "color3": "#710c7a",
+        "color4": "#d80d33",
+        "color5": "#e11e70",
+        "color6": "#e382da",
+        "color7": "#c6c5c6",
+        "color8": "#555354",
+        "color9": "#40106d",
+        "color10": "#760a24",
+        "color11": "#710c7a",
+        "color12": "#d80d33",
+        "color13": "#e11e70",
+        "color14": "#e382da",
+        "color15": "#c6c5c6"
+    }
+}

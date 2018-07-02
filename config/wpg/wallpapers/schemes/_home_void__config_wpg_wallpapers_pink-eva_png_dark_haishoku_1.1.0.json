@@ -1,0 +1,28 @@
+{
+    "wallpaper": "pink-eva.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1d1b1c",
+        "foreground": "#c6c6c6",
+        "cursor": "#c6c6c6"
+    },
+    "colors": {
+        "color0": "#1d1b1c",
+        "color1": "#6e4369",
+        "color2": "#855e8a",
+        "color3": "#cd4472",
+        "color4": "#9b72bd",
+        "color5": "#d86c9b",
+        "color6": "#ef8ab9",
+        "color7": "#c6c6c6",
+        "color8": "#555454",
+        "color9": "#6e4369",
+        "color10": "#855e8a",
+        "color11": "#cd4472",
+        "color12": "#9b72bd",
+        "color13": "#d86c9b",
+        "color14": "#ef8ab9",
+        "color15": "#c6c6c6"
+    }
+}
