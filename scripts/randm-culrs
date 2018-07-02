@@ -1,0 +1,6 @@
+#!/bin/bash
+
+wpg -m &> /dev/null &
+
+echo "Random Scheme Loaded"
+notify-send "Random Scheme Loaded"
