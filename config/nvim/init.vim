@@ -6,7 +6,7 @@
 "    \/_/\/_/\/____/\/___/  \/__/    \/_/\/_/\/_/\/_/
 
 
-"set number
+set number
 "set ruler
 set wrap
 let g:vimtex_view_method ='mupdf'
@@ -18,8 +18,6 @@ set mouse=a
 "syntax on
 filetype on
 set nocompatible
-
-let g:deoplete#enable_at_startup = 1
 
 
 "Airline Customization
@@ -54,22 +52,10 @@ highlight Pmenu ctermfg=7 ctermbg=0
 
 autocmd StdinReadPre * let s:std_in=1
 
-"Syntastic
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
-let g:syntastic_check_on_open = 1
-let g:syntastic_check_on_wq = 0
-
-let g:user_emmet_leader_key='<C-Z>'
-
-let &rtp  = '~/.config/nvim/plugged/vimtex,' . &rtp
-let &rtp .= ',~/.config/nvim/plugged/vimtex/after'
-
 
 autocmd FileType html set omnifunc=htmlcomplete#CompleteTags
 
 
-let g:bc_server_path = "/home/lazarus/.config/nvim/plugged/browser-connect.vim/server"
 
 " Plugins will be downloaded under the specified directory.
 call plug#begin('~/.config/nvim/plugged')
@@ -79,42 +65,18 @@ Plug 'tpope/vim-sensible'
 Plug 'lervag/vimtex'
 Plug 'scrooloose/nerdtree'
 Plug 'mattn/emmet-vim'
-Plug 'francoiscabrol/ranger.vim'
 Plug 'rbgrouleff/bclose.vim'
 Plug 'docunext/closetag.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'othree/csscomplete.vim'
-Plug 'SirVer/ultisnips'
-Plug 'honza/vim-snippets'
-"Plug 'valloric/youcompleteme'
-Plug 'w0rp/ale'
+Plug 'valloric/youcompleteme'
+Plug 'rdnetto/YCM-Generator', { 'branch': 'stable'}
 "Plug 'bjoernd/vim-ycm-tex'
-"Plug 'shougo/deoplete.nvim'
-"Plug 'poppyschmo/deoplete-latex'
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
 
+let g:ycm_global_ycm_extra_conf = '/home/lazarus/.config/nvim/plugged/youcompleteme/third_party/ycmd/.ycm_extra_conf.py'
 
-
-"MARKDOWN
-"    autocmd Filetype markdown,rmd inoremap ;n ---<Enter><Enter>
-"    autocmd Filetype markdown,rmd inoremap ;b ****<++><Esc>F*hi
-"    autocmd Filetype markdown,rmd inoremap ;s ~~~~<++><Esc>F~hi
-"    autocmd Filetype markdown,rmd inoremap ;e **<++><Esc>F*i
-"    autocmd Filetype markdown,rmd inoremap ;h ====<Space><++><Esc>F=hi
-"    autocmd Filetype markdown,rmd inoremap ;i ![](<++>)<++><Esc>F[a
-"    autocmd Filetype markdown,rmd inoremap ;a [](<++>)<++><Esc>F[a
-"    autocmd Filetype markdown,rmd inoremap ;1 #<Space><Enter><++><Esc>kA
-"    autocmd Filetype markdown,rmd inoremap ;2 ##<Space><Enter><++><Esc>kA
-"    autocmd Filetype markdown,rmd inoremap ;3 ###<Space><Enter><++><Esc>kA
-"    autocmd Filetype markdown,rmd inoremap ;l --------<Enter>
-    autocmd Filetype markdown map <F5> :!pandoc<space><C-r>%<space>-o<space><C-r>%.pdf<Enter><Enter>
-    autocmd Filetype rmd map <F5> :!echo<space>"require(rmarkdown);<space>render('<c-r>%')"<space>\|<space>R<space>--vanilla<enter>
-    autocmd Filetype rmd inoremap ;r ```{r,<space>echo=TRUE}<CR>```<CR><CR><esc>2kO
-
-
-autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS noci
 
 "htmlcompletetags
 
